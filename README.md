@@ -144,7 +144,7 @@ I'm Greg Spehar, a certified MindStudio AI Agent Developer with extensive experi
 
 ## 📬 Contact Me
 
-Ready to transform your workflows with custom AI agents? I specialize in creating tailored solutions for:  
+Ready to transform your workflows with custom AI solutions? I specialize in creating tailored work items for:  
 - **Business Process Automation**  
 - **Custom Research & Analysis Tools**  
 - **Communication & Content Generation**  
