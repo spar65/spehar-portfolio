@@ -1,14 +1,17 @@
-# FarmCreditBank Trading Platform - GitHub Project Outline
 
-## 🌾 Project Overview
+# 🧠 Greg Spehar's AI Crypto Portfolio
+
+## FarmCreditBank Trading Platform - GitHub Project Outline
+
+### 🌾 Project Overview
 
 **FarmCreditBank Trading Platform** is a comprehensive full-stack blockchain-based application designed for trading agricultural tokens on the Ethereum network. This sophisticated platform combines modern web technologies with blockchain integration to create a secure, scalable, and user-friendly trading environment for agricultural financial instruments.
 
 ---
 
-## 🏗️ Technical Architecture
+### 🏗️ Technical Architecture
 
-### Frontend Stack
+#### Frontend Stack
 
 - **Framework**: React 18+ with functional components and hooks
 - **State Management**: Redux Toolkit with slice pattern architecture
@@ -19,7 +22,7 @@
 - **Testing**: Jest and React Testing Library with comprehensive component coverage
 - **Build Tools**: Create React App with custom configurations
 
-### Backend Stack
+#### Backend Stack
 
 - **Framework**: FastAPI with Python 3.8+ for high-performance API development
 - **Database**: PostgreSQL with SQLAlchemy ORM for data persistence
@@ -29,7 +32,7 @@
 - **Testing**: Pytest with comprehensive unit and integration test coverage
 - **Async Processing**: FastAPI's native async/await support for concurrent operations
 
-### Blockchain Integration
+#### Blockchain Integration
 
 - **Network**: Ethereum Sepolia Testnet (with mainnet compatibility)
 - **Token Standard**: ERC-20 compliant agricultural tokens
@@ -40,9 +43,9 @@
 
 ---
 
-## 🚀 Core Features
+### 🚀 Core Features
 
-### User Authentication & Authorization
+#### User Authentication & Authorization
 
 - Secure JWT-based authentication system
 - Role-based access control (Admin, Trader, Viewer)
@@ -50,7 +53,7 @@
 - Session management with automatic token refresh
 - Multi-factor authentication support
 
-### Wallet Management System
+#### Wallet Management System
 
 - **Multi-Wallet Support**: Create and manage multiple Ethereum wallets
 - **Secure Key Storage**: Encrypted private key storage with user-specific encryption
@@ -58,7 +61,7 @@
 - **Balance Tracking**: Real-time token and ETH balance monitoring
 - **Transaction History**: Comprehensive transaction logs with status tracking
 
-### Trading Interface
+#### Trading Interface
 
 - **Order Management**: Place, modify, and cancel buy/sell orders
 - **Order Book**: Real-time order book with bid/ask spreads
@@ -66,7 +69,7 @@
 - **Trade Execution**: Automated order matching and execution
 - **Portfolio Tracking**: Real-time portfolio valuation and performance metrics
 
-### Market Data & Analytics
+#### Market Data & Analytics
 
 - **Price Charts**: Interactive candlestick and line charts
 - **Volume Analysis**: Trading volume tracking and analysis
@@ -74,110 +77,12 @@
 - **Historical Data**: Comprehensive historical price and volume data
 - **Technical Indicators**: Moving averages, RSI, and other trading indicators
 
-### Administrative Dashboard
+#### Administrative Dashboard
 
 - **User Management**: Admin interface for user account management
 - **System Monitoring**: Real-time system health and performance metrics
 - **Transaction Oversight**: Monitor and manage platform transactions
 - **Compliance Tools**: Regulatory compliance and reporting features
-
----
-
-## 📁 Project Structure
-
-```
-FarmCreditBankTradingPlatform/
-├── frontend/                          # React frontend application
-│   ├── src/
-│   │   ├── api/                       # API service layer
-│   │   │   ├── axios.js               # Axios configuration with interceptors
-│   │   │   ├── auth.js                # Authentication API calls
-│   │   │   ├── wallet.js              # Wallet management API calls
-│   │   │   ├── trading.js             # Trading API calls
-│   │   │   ├── market.js              # Market data API calls
-│   │   │   └── websocket.js           # WebSocket connection management
-│   │   ├── components/                # Reusable React components
-│   │   │   ├── common/                # Shared UI components
-│   │   │   ├── trading/               # Trading-specific components
-│   │   │   ├── wallet/                # Wallet management components
-│   │   │   └── auth/                  # Authentication components
-│   │   ├── pages/                     # Page-level components
-│   │   │   ├── DashboardPage.jsx      # Main dashboard
-│   │   │   ├── TradingPage.jsx        # Trading interface
-│   │   │   ├── WalletPage.jsx         # Wallet management
-│   │   │   ├── LoginPage.jsx          # User authentication
-│   │   │   └── ProfilePage.jsx        # User profile management
-│   │   ├── store/                     # Redux store configuration
-│   │   │   ├── index.js               # Store setup and configuration
-│   │   │   └── slices/                # Redux Toolkit slices
-│   │   │       ├── authSlice.js       # Authentication state
-│   │   │       ├── walletSlice.js     # Wallet state management
-│   │   │       ├── tradingSlice.js    # Trading state management
-│   │   │       └── marketSlice.js     # Market data state
-│   │   ├── utils/                     # Utility functions
-│   │   │   ├── logger.js              # Client-side logging
-│   │   │   ├── validators.js          # Form validation utilities
-│   │   │   └── formatters.js          # Data formatting functions
-│   │   ├── styles/                    # CSS and styling
-│   │   └── tests/                     # Frontend test suites
-│   ├── public/                        # Static assets
-│   └── package.json                   # Frontend dependencies
-├── backend/                           # FastAPI backend application
-│   ├── src/
-│   │   ├── main.py                    # FastAPI application entry point
-│   │   ├── auth.py                    # Authentication logic
-│   │   ├── wallet.py                  # Wallet management services
-│   │   ├── trading.py                 # Trading engine and order management
-│   │   ├── blockchain.py              # Ethereum blockchain integration
-│   │   ├── database.py                # Database models and connections
-│   │   ├── security.py                # Security utilities and encryption
-│   │   ├── config.py                  # Application configuration
-│   │   ├── exceptions.py              # Custom exception handling
-│   │   └── utils.py                   # Backend utility functions
-│   ├── tests/                         # Backend test suites
-│   ├── requirements.txt               # Python dependencies
-│   └── .env                          # Environment configuration
-├── scripts/                           # Utility and deployment scripts
-│   ├── install_run.sh                 # Complete setup and run script
-│   ├── run_all_tests.sh              # Comprehensive test runner
-│   ├── stop.sh                       # Service shutdown script
-│   └── setup_test_env.sh             # Test environment setup
-├── docs/                             # Project documentation
-│   ├── README.md                     # Main project documentation
-│   ├── ETH_SETUP_GUIDE.md           # Ethereum integration guide
-│   ├── TESTING.md                   # Testing strategy and guidelines
-│   └── API_DOCUMENTATION.md         # API endpoint documentation
-└── contract_abis/                    # Ethereum contract ABIs
-    └── ERC20.json                    # ERC-20 token contract ABI
-```
-
----
-
-## 🔧 Development Workflow
-
-### Setup & Installation
-
-- **Automated Setup**: One-command installation script (`install_run.sh`)
-- **Environment Configuration**: Automated .env file generation and validation
-- **Dependency Management**: Automated frontend and backend dependency installation
-- **Database Setup**: Automatic database initialization and migration
-- **Blockchain Configuration**: Ethereum network setup and contract deployment
-
-### Testing Strategy
-
-- **Frontend Testing**: Component tests with Jest and React Testing Library
-- **Backend Testing**: API endpoint testing with pytest and FastAPI TestClient
-- **Integration Testing**: End-to-end testing with Cypress
-- **Blockchain Testing**: Smart contract testing on local and testnet environments
-- **Automated Testing**: CI/CD pipeline integration with comprehensive test coverage
-
-### Development Scripts
-
-- **`install_run.sh`**: Complete application setup and launch
-- **`run_all_tests.sh`**: Execute comprehensive test suite
-- **`stop.sh`**: Gracefully shutdown all services
-- **`setup_test_env.sh`**: Initialize testing environment
-- **`check_eth_config.py`**: Validate Ethereum configuration
 
 ---
 
