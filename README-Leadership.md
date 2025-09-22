@@ -4,8 +4,8 @@
 Senior technology leader with 17+ years driving digital transformation and AI innovation across enterprise environments. Demonstrated track record of delivering $50M+ in measurable business value through strategic program management, AI implementation, and process optimization.
 
 LinkedIn: https://www.linkedin.com/in/spehargreg/
----
 
+---
 ## Professional Experience
 
 ### **Owner & Consultant | GiDanc AI LLC**
