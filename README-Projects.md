@@ -8,7 +8,7 @@ Greg Spehar's Enterprise AI Solutions PortfolioTransforming Business Through Int
 - ROI-Focused Development: Delivering measurable business value with 40-60% efficiency gains
 - Professional Credentials
 
-**AI Development:** MindStudio L1 & L3 Certified Developer
+**AI Development:** MindStudio L3 Certified Developer in 2024 and 2025
 
 **Project Leadership:** PMP, PMI-ACP, DASM Certified
 
