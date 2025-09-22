@@ -66,7 +66,7 @@ A revolutionary full-stack development platform that orchestrates multiple AI sy
 
 **Use Case**: Perfect for development teams, technical leaders, and organizations looking to dramatically accelerate their software development lifecycle while maintaining code quality and enterprise standards. Ideal for rapid prototyping, complex system integration, and AI-assisted development workflows.
 
-**Live Platform**: [🔗 VibeCoder.us](https://vibecoder.us) | [📚 Blog & Research](https://vibecoder.us/blog)
+**Live Platform**: [🔗 VibeCoder.us](https://myvibecoder.us) | [📚 Blog & Research](https://myvibecoder.us/blog)
 
 ---
 
