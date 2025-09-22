@@ -37,7 +37,7 @@ Building on empirical observations of 20-30% performance overhead in hybrid work
 
 **Key Contribution:** Advances multi-agent system coordination through formal complexity metrics and empirical validation protocols.
 
-**Download:** 
+**Download:** https://www.myvibecoder.us/Spehar_Low_Code_Orchestration_in_AI_Assisted_Development_20250917-V01.pdf
 
 ### 5. Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis
 Version 1.0, Copyright ©2025
@@ -46,7 +46,7 @@ This paper introduces a transformative framework for AI-assisted software develo
 
 **Key Contribution:** Establishes a systematic approach to managing AI complexity in development workflows through encapsulation patterns and structured orchestration.
 
-**Download:** 
+**Download:** https://www.myvibecoder.us/Spehar_Low_Code_Orchestration_A_Research_Framework_20250917-V01.pdf
 
 ## Research Impact
 ### Empirical Contributions
