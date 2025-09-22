@@ -1,13 +1,14 @@
 # 🧠 Greg Spehar's AI Solutions Portfolio
-**Certified MindStudio AI Agent Developer | Chair of Projects, Austin AI Alliance**
+**Certified MindStudio AI Agent Creator | Chair of Projects, Austin AI Alliance**
 
 I specialize in building enterprise-grade AI solutions that deliver measurable business impact. With 30+ production AI agents deployed and expertise spanning financial services, software development, and enterprise operations, I transform complex business challenges into intelligent, automated solutions.
-Core Expertise
 
-MindStudio L3 Certified (2024 & 2025) - Advanced AI agent development
-Enterprise Integration - Seamless connection with existing business systems
-Project Leadership - PMP, PMI-ACP, DASM certified with proven delivery track record
-Measurable ROI - Consistently delivering 40-60% efficiency gains
+### Greg's Core Expertise:
+**Senior Program Management** - Over 25+ years
+**MindStudio Certified (2024 & 2025)** - Advanced AI agent development
+**Enterprise Integration** - Seamless connection with existing business systems
+**Project Leadership** - PMP, PMI-ACP, DASM certified with proven delivery track record
+**Measurable ROI** - Consistently delivering 40-60% efficiency gains
 
 
 🎯 Flagship Enterprise Solutions
