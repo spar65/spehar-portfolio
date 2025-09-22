@@ -5,16 +5,17 @@ Welcome to my personal portfolio on GitHub. This repository acts as a central hu
 ---
 ## 1. Projects
 
+https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md
 
-Description: This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI agent development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact.
-Inventory:
+**Description:** This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI agent development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact.
 
+**Inventory:**
 Core expertise sections covering senior program management, certifications, and ROI metrics.
-Flagship solutions:
 
-LoanOfficerAI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
-VibeCoder: AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
-AgentMinder: Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
+***Flagship solutions:***
+- **LoanOfficer:** AI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
+- **VibeCoder:** AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
+- **AgentMinder:** Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
 
 
 
