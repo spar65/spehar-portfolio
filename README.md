@@ -114,7 +114,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-BMT-Smalltalk.md
 I'm Greg Spehar, a certified MindStudio AI Agent Developer with extensive experience in project management and AI implementation. Currently serving as Chair of Projects at Austin AI Alliance and working at Farm Credit Bank of Texas, I combine technical expertise with real-world business understanding to create AI solutions that actually solve problems.
 
 **Certifications:**  
-- MindStudio L1 & L3 Certified  
+- MindStudio L3 Certified in 2024 and 2025
 - PMP (Project Management Professional)  
 - PMI-ACP (Agile Certified Practitioner)  
 - DASM (Disciplined Agile Scrum Master)  
