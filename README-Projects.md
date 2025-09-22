@@ -9,8 +9,11 @@ Greg Spehar's Enterprise AI Solutions PortfolioTransforming Business Through Int
 - Professional Credentials
 
 **AI Development:** MindStudio L1 & L3 Certified Developer
+
 **Project Leadership:** PMP, PMI-ACP, DASM Certified
+
 **Industry Experience:** Farm Credit Bank of Texas, Austin AI Alliance
+
 **Track Record:** 30+ production AI agents, 96.5% test success rate
 
 ---
