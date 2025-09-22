@@ -76,7 +76,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 
 ## 4. Crypto
 
-
+https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 
 **Description:** Greg Spehar's AI Crypto Portfolio, featuring the FarmCreditBank Prototype Trading Platform, a production-ready blockchain application for institutional-grade trading in agricultural finance, built on Ethereum with React/FastAPI architecture.
 
