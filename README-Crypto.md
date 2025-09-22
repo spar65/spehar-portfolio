@@ -1,7 +1,7 @@
 
 # 🧠 Greg Spehar's AI Crypto Portfolio
 
-## FarmCreditBank Trading Platform - GitHub Project Outline
+## FarmCreditBank Prototype Trading Platform - GitHub Project Outline
 
 The FarmCreditBank Prototype Trading Platform is a production-ready blockchain application that brings institutional-grade trading capabilities to agricultural finance. Built on Ethereum with a React/FastAPI architecture, this platform enables secure trading of agricultural tokens while demonstrating my expertise in full-stack development, Web3 integration, and financial technology solutions that bridge traditional farming finance with modern DeFi infrastructure.
 
