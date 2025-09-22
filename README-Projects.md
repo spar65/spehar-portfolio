@@ -11,22 +11,22 @@ I specialize in building enterprise-grade AI solutions that deliver measurable b
 **Measurable ROI** - Consistently delivering 40-60% efficiency gains
 
 
-🎯 Flagship Enterprise Solutions
-1. LoanOfficerAI MCP POC - Agricultural Lending Intelligence
+### 🎯 Flagship Enterprise Solutions
+**1. LoanOfficerAI MCP POC - Agricultural Lending Intelligence**
 Transform agricultural lending with AI-powered risk assessment, weather-aware modeling, and predictive analytics. This enterprise platform reduces loan processing time by 60% while decreasing default risk by 25% through intelligent automation and real-time data integration.
 
 Tech: Node.js, React, SQL Server, Databricks, MCP Protocol, GPT-4
 Impact: 85%+ prediction accuracy, automated compliance, weather risk integration
 GitHub Repository
 
-2. VibeCoder - AI-Powered Development Platform
+**2. VibeCoder - AI-Powered Development Platform**
 Revolutionize software development through multi-AI orchestration and the VibeCoding methodology. This platform coordinates five specialized AI systems to accelerate development by 70% while maintaining enterprise code quality standards.
 
 Tech: Next.js, TypeScript, PostgreSQL, MindStudio API, 90+ AI models
 Impact: 96.5% test success rate, vision-first development, real-time collaboration
 Live Platform
 
-3. AgentMinder - Enterprise AI Agent Management
+**3. AgentMinder - Enterprise AI Agent Management**
 Comprehensive platform for developing, deploying, and managing AI agents at scale. Enables organizations to create custom AI solutions without extensive technical expertise, reducing deployment time from months to weeks.
 
 Tech: Next.js 14+, React 18, PostgreSQL, NextAuth.js, shadcn/ui
@@ -176,7 +176,7 @@ I'm Greg Spehar, a certified MindStudio AI Agent Developer with extensive experi
 
 **Certifications:**
 
-- MindStudio L1 & L3 Certified
+- MindStudio (2024 & 2025) Certified
 - PMP (Project Management Professional)
 - PMI-ACP (Agile Certified Practitioner)
 - DASM (Disciplined Agile Scrum Master)
