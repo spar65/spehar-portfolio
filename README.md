@@ -9,8 +9,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 
 **Description:** Executive profile showcasing 17+ years of technology leadership driving $50M+ in enterprise value through strategic program management, AI innovation, and digital transformation across Fortune 500 companies and startup environments.
 
-**Inventory:** Professional experience timeline, core competencies, measurable impact metrics, and strategic achievements.
-Key Accomplishments:
+**Inventory:** CIO Chief of Staff and Senior Program Management Positions:
 
 - **GiDanc AI LLC (2008-Present):** Bootstrapped AI product studio, launched VibeCoder (50-90% MVP reduction), generated $75K+ ARR consulting revenue, invented "Behavioral-Turing" test for AI quality
 - **Farm Credit Bank of Texas (2020-Present):** Created $30M+ value through process improvements, led enterprise data initiatives (ThoughtSpot, Databricks, Reltio), developed RPA solutions saving $2M+ annually
