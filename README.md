@@ -17,9 +17,7 @@ Core expertise sections covering senior program management, certifications, and 
 - **VibeCoder:** AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
 - **AgentMinder:** Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
 
-
-
-2. Papers
+## 2. Papers
 View the Papers page
 Description: A portfolio of Greg Spehar's AI articles and papers, focusing on advancing AI-assisted development through systematic research, with empirical validations, theoretical advances, and methodological innovations.
 Inventory:
