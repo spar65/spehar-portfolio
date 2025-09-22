@@ -5,9 +5,12 @@ I contribute to the field of AI-assisted development through rigorous academic r
 
 ### 1. Training Your Dragon: Mastering the VibeCoder Path
 Version 3.1, Copyright ©2025
+
 This research conceptualizes AI integration as "taming a dragon"—channeling raw computational power through disciplined structure. Based on six months of empirical application yielding 237,000 lines of production code with zero major incidents, the paper validates the Vibe Coding framework's four pillars: rules-based architecture, strategic planning, test-first validation, and iterative decomposition. The methodology achieves 75% reductions in MVP development time and 92% cost efficiencies.
 
 **Key Contribution:** Provides empirical validation of pattern-driven AI development with measurable production outcomes.
+
+**Download:** https://www.myvibecoder.us/Spehar_TrainingYourDragon_20250909-V03.pdf
 
 ### 2. LLM Non-Determinism in JSON Generation: A Comprehensive Analysis
 Version 1.0, Copyright ©2025
