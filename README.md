@@ -1,6 +1,21 @@
 # 🧠 Greg Spehar's Portfolio
 
 Welcome to my personal portfolio on GitHub. This repository acts as a central hub, organizing my work into specialized sections. Each section links to a dedicated README page with more details. Below is an overview of each page, including a short description and an inventory of its contents (pages may be updated over time).
+---
+## 0. Leadership
+
+https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
+
+**Description:** Executive profile showcasing 17+ years of technology leadership driving $50M+ in enterprise value through strategic program management, AI innovation, and digital transformation across Fortune 500 companies and startup environments.
+
+**Inventory:** Professional experience timeline, core competencies, measurable impact metrics, and strategic achievements.
+Key Accomplishments:
+
+- **GiDanc AI LLC (2008-Present):** Bootstrapped AI product studio, launched VibeCoder (50-90% MVP reduction), generated $75K+ ARR consulting revenue, invented "Behavioral-Turing" test for AI quality
+- **Farm Credit Bank of Texas (2020-Present):** Created $30M+ value through process improvements, led enterprise data initiatives (ThoughtSpot, Databricks, Reltio), developed RPA solutions saving $2M+ annually
+- **Expert Velocity (2018-2020):** Managed $12M cloud migration for 14 banks, built RPA team, prevented $5M vendor lock-in, designed Enterprise Architecture program
+- **CorSource (2014-2018):** Grew HP account 5x ($300K to $1.5M), scaled offshore team to 70 engineers, reduced delivery time 50% with Agile model adopted across 5,000+ engineers
+- **Strategic Consulting (2006-2014):** Delivered $20M+ savings for Kaiser Permanente, managed $800M Yahoo acquisition integration, rescued $1.2B foundation's stalled SAAS project
 
 ---
 ## 1. Projects
