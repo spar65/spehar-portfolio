@@ -2,7 +2,8 @@
 
 Welcome to my personal portfolio on GitHub. This repository acts as a central hub, organizing my work into specialized sections. Each section links to a dedicated README page with more details. Below is an overview of each page, including a short description and an inventory of its contents (pages may be updated over time).
 ---
-## 0. Leadership
+
+## 1. Leadership
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 
@@ -18,7 +19,7 @@ Key Accomplishments:
 - **Strategic Consulting (2006-2014):** Delivered $20M+ savings for Kaiser Permanente, managed $800M Yahoo acquisition integration, rescued $1.2B foundation's stalled SAAS project
 
 ---
-## 1. Projects
+## 2. Projects
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md
 
@@ -32,7 +33,7 @@ Core expertise sections covering senior program management, certifications, and 
 - **VibeCoder:** AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
 - **AgentMinder:** Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
 
-## 2. Papers
+## 3. Papers
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
 
@@ -47,7 +48,7 @@ List of 5 papers:
 - "Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (V1.2, 2025) - Framework for low-code reliability, download link.
 - "Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (V1.0, 2025) - Transformative framework for AI integration, download link.
   
-## 3. Agents
+## 4. Agents
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 
@@ -89,7 +90,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 - MSA Generator: Legal Document Builder
 - Company Evaluator Pro
 
-## 4. Crypto
+## 5. Crypto
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 
@@ -107,7 +108,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 - Future enhancements: Planned features, technical roadmap.
 - Technical achievements: Full-stack integration.
 
-## 5. BMT-Smalltalk
+## 6. BMT-Smalltalk
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-BMT-Smalltalk.md
 
