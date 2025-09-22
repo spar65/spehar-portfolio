@@ -18,23 +18,25 @@ Core expertise sections covering senior program management, certifications, and 
 - **AgentMinder:** Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
 
 ## 2. Papers
-View the Papers page
-Description: A portfolio of Greg Spehar's AI articles and papers, focusing on advancing AI-assisted development through systematic research, with empirical validations, theoretical advances, and methodological innovations.
-Inventory:
 
+https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
+
+**Description:**  A portfolio of Greg Spehar's AI articles and papers, focusing on advancing AI-assisted development through systematic research, with empirical validations, theoretical advances, and methodological innovations.
+
+**Inventory:**
 List of 5 papers:
 
-"Training Your Dragon: Mastering the VibeCoder Path" (V3.1, 2025) - Key contribution on empirical validation of AI development frameworks, download link.
-"LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (V1.0, 2025) - Analysis of structured output reliability, download link.
-"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (V1.0, 2025) - Research agenda and framework, download link.
-"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (V1.2, 2025) - Framework for low-code reliability, download link.
-"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (V1.0, 2025) - Transformative framework for AI integration, download link.
-
-
+- "Training Your Dragon: Mastering the VibeCoder Path" (V3.1, 2025) - Key contribution on empirical validation of AI development frameworks, download link.
+- "LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (V1.0, 2025) - Analysis of structured output reliability, download link.
+- "Structured Output Generation in LLMs: A Research Framework and Open Challenges" (V1.0, 2025) - Research agenda and framework, download link.
+- "Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (V1.2, 2025) - Framework for low-code reliability, download link.
+- "Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (V1.0, 2025) - Transformative framework for AI integration, download link.
+  
 Research impact sections: Empirical contributions, theoretical advances, methodological innovations, and research philosophy.
 
 3. Agents
-View the Agents page
+
+
 Description: This page presents Greg Spehar's portfolio of AI agents, featuring a collection of over 30 AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges, as a certified MindStudio AI Agent Developer.
 Inventory:
 
