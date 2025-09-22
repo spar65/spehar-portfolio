@@ -12,6 +12,7 @@ Greg Spehar's Enterprise AI Solutions PortfolioTransforming Business Through Int
 **Project Leadership:** PMP, PMI-ACP, DASM Certified
 **Industry Experience:** Farm Credit Bank of Texas, Austin AI Alliance
 **Track Record:** 30+ production AI agents, 96.5% test success rate
+
 ---
 
 ## 🚀 #1 - LoanOfficerAI MCP POC: Agricultural Lending Intelligence Platform
