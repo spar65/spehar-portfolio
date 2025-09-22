@@ -19,12 +19,16 @@ This comprehensive analysis examines the evolution of structured output generati
 
 **Key Contribution:** Documents the fundamental mathematical incompatibility between probabilistic text generation and exact symbolic compliance, informing architectural decisions.
 
+**Download:** https://www.myvibecoder.us/Spehar_LLM_Non_Determinism_20250909V01.pdf
+
 ### 3. Structured Output Generation in LLMs: A Research Framework and Open Challenges
 Version 1.0, Copyright ©2025
 
 This position paper proposes a comprehensive research agenda for systematically investigating JSON schema compliance in LLMs. The framework includes formal complexity metrics, standardized experimental protocols, and testable hypotheses regarding tokenization impacts and architectural limitations. It identifies critical knowledge gaps and establishes a roadmap for transforming structured generation from experimental capability to reliable production technology.
 
 **Key Contribution:** Provides the field's first systematic research framework for investigating structured output challenges.
+
+**Download:** https://www.myvibecoder.us/Spehar_Structured_Output_Generation_Research_Framework_20250910V01.pdf
 
 ### 4. Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges
 Version 1.2, Copyright ©2025
@@ -33,12 +37,16 @@ Building on empirical observations of 20-30% performance overhead in hybrid work
 
 **Key Contribution:** Advances multi-agent system coordination through formal complexity metrics and empirical validation protocols.
 
+**Download:** 
+
 ### 5. Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis
 Version 1.0, Copyright ©2025
 
 This paper introduces a transformative framework for AI-assisted software development through low-code orchestration, addressing critical challenges in Large Language Model integration. The research demonstrates 50-75% reductions in MVP development time and 70% improvements in technical debt efficiency through four key strategies: encapsulation for chaos reduction, symbiotic integration, non-determinism mitigation, and lock-in-free scaling. Validated through the Vibe Coding methodology, this work provides a scalable path for AI-human collaboration aligned with 2025 research trends.
 
 **Key Contribution:** Establishes a systematic approach to managing AI complexity in development workflows through encapsulation patterns and structured orchestration.
+
+**Download:** 
 
 ## Research Impact
 ### Empirical Contributions
