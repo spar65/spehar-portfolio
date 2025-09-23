@@ -37,11 +37,11 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
 **Description:**  A portfolio of Greg Spehar's AI articles and papers, focusing on advancing AI-assisted development through systematic research, with empirical validations, theoretical advances, and methodological innovations.
 
 **Published Paper Inventory:**
-- **"Training Your Dragon: Mastering the VibeCoder Path" (V3.1, 2025)** - Key contribution on empirical validation of AI development frameworks, download link.
-- **"LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (V1.0, 2025)** - Analysis of structured output reliability, download link.
-- **"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (V1.0, 2025)** - Research agenda and framework, download link.
-- **"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (V1.2, 2025)** - Framework for low-code reliability, download link.
-- **"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (V1.0, 2025)** - Transformative framework for AI integration, download link.
+- **"Training Your Dragon: Mastering the VibeCoder Path" (2025)** - Key contribution on empirical validation of AI development frameworks, download link.
+- **"LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (2025)** - Analysis of structured output reliability, download link.
+- **"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (2025)** - Research agenda and framework, download link.
+- **"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (2025)** - Framework for low-code reliability, download link.
+- **"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (2025)** - Transformative framework for AI integration, download link.
 
 **Papers in Process**
 - **Dancing with the Dragon: Implementing an Enterprise MCP strategy** - Effectively integration of MCP solutions in an Enterprise environment in a cost effetive manner resulting is exceptional ROI.
