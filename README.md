@@ -22,10 +22,10 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md
 
-**Description:** This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI agent development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact.
+**Description:** This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact. This will result in new methods for managing work and new skills management for development of software as well as new methods for deploying and managing agents.
 
 **Inventory:**
-Core expertise sections covering senior program management, certifications, and ROI metrics.
+Core expertise in delivered solutions:
 
 ***Flagship solutions:***
 - **LoanOfficer:** AI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
