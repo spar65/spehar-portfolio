@@ -95,6 +95,10 @@ Senior technology leader with 17+ years driving digital transformation and AI in
 - **PMP** (Project Management Professional)
 - **PMI-ACP** (Agile Certified Practitioner)
 - **DASM** (Disciplined Agile Scrum Master)
+- **Undergrad Degree** BA in Aeronautical Engineering (Work with NASA on the Space Station in the 1990s)
+- **Graduate Degree** MBA from University of Texas at Austin (McCombs)
+- **Post Grad - not graduated** Masters University of Houston - Adult Education Psychology Degree
+- **Post Grad - not graduated** PHD work from Portland State University - First year completed - Software Engineering and Simulation
 
 ---
 
