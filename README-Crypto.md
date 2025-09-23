@@ -12,7 +12,7 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 ---
 ### 🌾 Key Skill or Success
 
-**Proof of Concept** Independenly navigated and successfully implemented a Block Chain Solution that could impact an industry if implemented. Financial impact would exceed multi-milion dollars, new finacial strategies and new processes that would increase speed and reduce risk and meet compliance requirements.
+**Proof of Concept** Independenly navigated and successfully implemented a Block Chain Solution that could impact an industry if implemented. Financial impact would exceed multi-milion dollars in savings and new revenue, new finacial strategies and new processes that would increase speed and reduce risk and meet compliance requirements.
 
 ---
 
