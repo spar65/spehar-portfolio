@@ -38,20 +38,25 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
 
 **Description:**  A portfolio of Greg Spehar's AI articles and papers, focusing on advancing AI-assisted development through systematic research, with empirical validations, theoretical advances, and methodological innovations.
 
-**Inventory:**
-List of 5 papers:
+**Published Paper Inventory:**
+- **"Training Your Dragon: Mastering the VibeCoder Path" (V3.1, 2025)** - Key contribution on empirical validation of AI development frameworks, download link.
+- **"LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (V1.0, 2025)** - Analysis of structured output reliability, download link.
+- **"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (V1.0, 2025)** - Research agenda and framework, download link.
+- **"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (V1.2, 2025)** - Framework for low-code reliability, download link.
+- **"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (V1.0, 2025)** - Transformative framework for AI integration, download link.
 
-- "Training Your Dragon: Mastering the VibeCoder Path" (V3.1, 2025) - Key contribution on empirical validation of AI development frameworks, download link.
-- "LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (V1.0, 2025) - Analysis of structured output reliability, download link.
-- "Structured Output Generation in LLMs: A Research Framework and Open Challenges" (V1.0, 2025) - Research agenda and framework, download link.
-- "Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (V1.2, 2025) - Framework for low-code reliability, download link.
-- "Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (V1.0, 2025) - Transformative framework for AI integration, download link.
+**Papers in Process**
+- **Dancing with the Dragon: Implementing an Enterprise MCP strategy** - Effectively integration of MCP solutions in an Enterprise environment in a cost effetive manner resulting is exceptional ROI.
+- **Schooling your Dragon: Rules-Based Development Architecture** - Defenitive paper on the importance of a Rules Management system.
+- **Navigating with your Dragon on the high seas: Strategic Planning & Documentation** - State of the art paper on how to effectively develop steps and plans that are one shot successes.
+- **Making the Dragon walk the line: Test-First Validation Methodology** - Systematic development of test cases to solify and future proof approved code solutions from unapproved changes.
+- **Playing Chess with the Dragon: Iterative Problem Decomposition for Guarenteed Success** - Strategies for ensuring defects and mis-aligned code is brought into compliance and success.
   
 ## 4. Agents
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 
-**Description:** This page presents Greg Spehar's portfolio of AI agents, featuring a collection of over 30 AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges, as a certified MindStudio AI Agent Developer.
+**Description:** This page presents Greg Spehar's portfolio of AI agents, featuring a collection of over 30+ AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges. As a certified MindStudio AI Agent Creator, Greg stands are the forfront of Agent technology to integrate AI solutions to automate white collar processes saving time, money and reducing risks within existing and new business processes.
 
 **Inventory:**
 ***Featured AI agents (each with description, use case, key features, and "Try it out" link):***
