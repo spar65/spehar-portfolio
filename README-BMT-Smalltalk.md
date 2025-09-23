@@ -8,6 +8,7 @@ Welcome to the Brand Management Tool (BMT), a sophisticated enterprise-level con
 
 **BMT (Brand Management Tool)** is a sophisticated content publishing and brand management system built in **GemStone/S Smalltalk**. The project implements a multi-network platform where users can manage accounts, publish content, earn tokens, support brands, and participate in voting systems with certification-based access controls.
 
+---
 ### 🌾 Key Skill or Success
 
 **Proof of Concept** Independenly navigated and successfully created a transaction system that would radically change the brand marketplace with new means of donations and earned revenue streams. This solution would generate multi-million in savings and new revenue opportunities by changing how personalities and political figures earn and aquire dollars through activities AND general proven brand strength (Solution does not result in constant need to post to earn marketing dollars, shifts to earned value allowing for less frequent more substinative interactions).
