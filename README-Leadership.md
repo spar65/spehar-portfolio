@@ -15,9 +15,8 @@ Senior technology leader with 17+ years driving digital transformation and AI in
 - Bootstrapped AI product studio and launched **VibeCoder**, an AI-driven coding assistant that reduces MVP build time by 50-90%
    - [https://myvibecoder.us](https://www.myvibecoder.us/)
 - Generated **Positive ARR** through fractional AI governance consulting for fintech and health-tech clients
-- Architected micro-service platform (Python + Node) integrating real-time security scanning and compliance
 - Invented "Behavioral-Turing" test for AI quality embedded in enterprise rule management system
-- Built and managed distributed team using Agile methodologies (Kanban + weekly OKRs)
+- Built and managed distributed team using Agile methodologies
 - Executed 4-week GTM launch playbook, growing wait-list and recruiting alpha customers
 - [https://gidanc.ai](https://www.gidanc.com/)
 
