@@ -70,3 +70,11 @@ This paper introduces a transformative framework for AI-assisted software develo
 My research philosophy centers on bridging the gap between AI's theoretical potential and practical implementation challenges. Through systematic investigation, empirical validation, and mathematical formalization, I aim to transform AI-assisted development from an experimental domain into a reliable, measurable, and optimizable engineering discipline.
 
 Each paper contributes to a coherent research program that addresses fundamental questions about how humans and AI systems can collaborate effectively in software development, providing both immediate practical value and long-term theoretical foundations for the field.
+
+## Papers in Process
+
+- **Dancing with the Dragon: Implementing an Enterprise MCP strategy** - Effectively integration of MCP solutions in an Enterprise environment in a cost effetive manner resulting is exceptional ROI.
+- **Schooling your Dragon: Rules-Based Development Architecture** - Defenitive paper on the importance of a Rules Management system.
+- **Navigating with your Dragon on the high seas: Strategic Planning & Documentation** - State of the art paper on how to effectively develop steps and plans that are one shot successes.
+- **Making the Dragon walk the line: Test-First Validation Methodology** - Systematic development of test cases to solify and future proof approved code solutions from unapproved changes.
+- **Playing Chess with the Dragon: Iterative Problem Decomposition for Guarenteed Success** - Strategies for ensuring defects and mis-aligned code is brought into compliance and success.
