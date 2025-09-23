@@ -18,7 +18,7 @@ Senior technology leader with 17+ years driving digital transformation and AI in
 - Invented "Behavioral-Turing" test for AI quality embedded in enterprise rule management system
 - Built and managed distributed team using Agile methodologies (Kanban + weekly OKRs)
 - Executed 4-week GTM launch playbook, growing wait-list and recruiting alpha customers
-- https://gidanc.ai
+- [https://gidanc.ai](https://www.gidanc.com/)
 
 ### **Senior Program Manager | Farm Credit Bank of Texas**
 *November 2020 - Present (4+ years) | Austin, Texas*
