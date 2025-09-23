@@ -1,6 +1,12 @@
 # 🧠 Greg Spehar's AI Agent Portfolio
 
-Welcome to my collection of AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges. As a certified MindStudio AI Agent Developer and Chair of Projects at Austin AI Alliance, I've created these agents to help professionals work smarter, not harder.
+Welcome to my collection of AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges. As a certified MindStudio AI Agent Creator and Chair of Projects at Austin AI Alliance, I've created these agents to help professionals work smarter, not harder.
+
+---
+## MindStudio Certifcation
+
+Here is the certification for MindStudio for 2025 (Greg also earned a Certificaiton in 2024)
+https://www.virtualbadge.io/certificate-validator?credential=4b30527d-7708-433c-b7ca-db71506c5dc8
 
 ---
 
