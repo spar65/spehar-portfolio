@@ -24,10 +24,8 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md
 
 **Description:** This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact. This will result in new methods for managing work and new skills management for development of software as well as new methods for deploying and managing agents.
 
-**Inventory:**
+**Flagship Inventory:**
 Core expertise in delivered solutions:
-
-***Flagship solutions:***
 - **LoanOfficer:** AI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
 - **VibeCoder:** AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
 - **AgentMinder:** Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
