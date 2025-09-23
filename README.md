@@ -111,7 +111,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-BMT-Smalltalk.md
 
-**Description:** Greg Spehar's Smalltalk Solution, showcasing the Brand Management Tool (BMT), an enterprise-level content publishing and brand management TRANSACTION system built in GemStone/S Smalltalk, with advanced object-oriented design for multi-network ecosystems.
+**Description:** Greg Spehar's Smalltalk Solution, showcasing the Brand Management Tool (BMT), an enterprise-level content publishing and brand management TRANSACTION system built in GemStone/S Smalltalk, with advanced object-oriented design for multi-network ecosystems would substantially change the marketplace for earned intraction with communities.
 
 **Inventory:**
 - Project summary: Overview of the multi-network platform for content, tokens, brands, and certification-based voting.
