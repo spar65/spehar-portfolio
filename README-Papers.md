@@ -74,6 +74,8 @@ Each paper contributes to a coherent research program that addresses fundamental
 ## Papers in Process
 
 - **Dancing with the Dragon: Implementing an Enterprise MCP strategy** - Effectively integration of MCP solutions in an Enterprise environment in a cost effetive manner resulting is exceptional ROI.
+- **Feeding the Dragon: Your Governance Protocol to Enterprise Data for Artificial Intelligence** - Review on what Data Governance should look like to serve the AI Dragon.
+- **The Dragon LifeSupport: Your Goverance Protocal to internal organizational use of AI** - Review on what Data Governance should look like to serve your organization.
 - **Schooling your Dragon: Rules-Based Development Architecture** - Defenitive paper on the importance of a Rules Management system.
 - **Navigating with your Dragon on the high seas: Strategic Planning & Documentation** - State of the art paper on how to effectively develop steps and plans that are one shot successes.
 - **Making the Dragon walk the line: Test-First Validation Methodology** - Systematic development of test cases to solify and future proof approved code solutions from unapproved changes.
