@@ -56,6 +56,12 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 
 **Description:** This page presents Greg Spehar's portfolio of AI agents, featuring a collection of over 30+ AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges. As a certified MindStudio AI Agent Creator, Greg stands are the forfront of Agent technology to integrate AI solutions to automate white collar processes saving time, money and reducing risks within existing and new business processes.
 
+**Paid Agent Inventory**
+The following are all of the Agents that were paid for by a customer:
+- Half Staff - Tool that runs 2 times a day and runs 366+ AI Calls per Run or 700+ AI calls a day to discover and define what the Half-Staff status is for the day.
+             - This tool has a monthly support contract that allows for changes to the AI models and to the way the information is provided.
+             - 50+ Hours total from developm to production launch. 
+
 **Inventory:**
 ***Featured AI agents (each with description, use case, key features, and "Try it out" link):***
 - Research Report Generator Pro
