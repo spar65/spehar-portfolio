@@ -6,6 +6,7 @@ Welcome to my collection of AI-powered solutions designed to streamline workflow
 ## MindStudio Certifcation
 
 Here is the certification for MindStudio for 2025 (Greg also earned a Certificaiton in 2024)
+
 https://www.virtualbadge.io/certificate-validator?credential=4b30527d-7708-433c-b7ca-db71506c5dc8
 
 ---
