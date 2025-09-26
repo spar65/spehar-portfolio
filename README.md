@@ -59,7 +59,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 **Paid Agent Inventory**
 The following are all of the Agents that were paid for by a customer:
 - Half Staff - Tool that runs 2 times a day and runs 366+ AI Calls per Run or 700+ AI calls a day to discover and define what the Half-Staff status is for the day.
-             - This tool has a monthly support contract that allows for changes to the AI models and to the way the information is provided.
+             - This tool has a monthly support contract that allows for changes to the AI models and to the information is provided/discovered.
              - 50+ Hours total from developm to production launch. 
 
 **Inventory:**
