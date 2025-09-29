@@ -2,6 +2,9 @@
 
 ***Welcome to my personal portfolio on GitHub. This repository acts as a central hub, organizing my work into specialized sections. Each section links to a dedicated README page with more details. Below is an overview of each page, including a short description and an inventory of its contents (pages may be updated over time).***
 
+***BIO is here:***
+***Stories are here:*** 
+
 ---
 ## 1. Leadership
 
