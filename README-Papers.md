@@ -80,3 +80,5 @@ Each paper contributes to a coherent research program that addresses fundamental
 - **Navigating with your Dragon on the high seas: Strategic Planning & Documentation** - State of the art paper on how to effectively develop steps and plans that are one shot successes.
 - **Making the Dragon walk the line: Test-First Validation Methodology** - Systematic development of test cases to solify and future proof approved code solutions from unapproved changes.
 - **Playing Chess with the Dragon: Iterative Problem Decomposition for Guarenteed Success** - Strategies for ensuring defects and mis-aligned code is brought into compliance and success.
+
+  *© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
