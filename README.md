@@ -169,5 +169,6 @@ Ready to transform your workflows with custom AI solutions? I specialize in crea
 
 [📧 Email me](mailto:greg@gidanc.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/spehargreg)  
 
-*Based in Pflugerville, Texas | Available for consulting and custom AI development*
+*Based in Austin, Texas | Available for consulting and custom AI development*
+
 *© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
