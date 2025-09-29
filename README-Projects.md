@@ -202,3 +202,4 @@ Ready to transform your workflows with custom AI agents? I specialize in creatin
 [📧 Email me](mailto:greg@gidanc.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/spehargreg)
 
 _Based in Pflugerville, Texas | Available for consulting and custom AI agent development_
+*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
