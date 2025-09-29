@@ -63,3 +63,5 @@ Currently at Farm Credit Bank of Texas driving $3M+ in automation value while la
 - **Technical Bio**: Developer communities, technical conferences, GitHub profile
 
 Each bio emphasizes your unique value proposition: AI expertise + enterprise experience + proven ROI + innovative product (VIBEcoder™).
+
+*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
