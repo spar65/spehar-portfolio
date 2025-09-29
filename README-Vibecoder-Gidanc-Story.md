@@ -8,7 +8,7 @@
 
 ### **2008: The Original Vision - Understanding Human Decision-Making**
 
-Fifteen years ago, Greg Spehar wasn't thinking about how to capture the ethics of groups of poeple. 
+Fifteen years ago in 2008-2010, Greg Spehar wasn't thinking about how to capture the ethics of groups of poeple. 
 He was obsessed with a different question: *Why do smart people make terrible decisions?*
 
 Fresh from turning around multi-million dollar projects at Kaiser Permanente and Blue Cross Blue Shield, Greg had witnessed a pattern: technical brilliance repeatedly sabotaged by human judgment failures. Teams with perfect processes still delivered imperfect results. Organizations with flawless strategies still failed.
