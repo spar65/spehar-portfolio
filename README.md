@@ -4,7 +4,7 @@
 
 ***BIO is here:*** https://github.com/spar65/spehar-portfolio/blob/main/README-Bio.md
 
-***Stories are here:*** 
+***Stories are here:*** https://github.com/spar65/spehar-portfolio/blob/main/README-Stories.md
 
 ---
 ## 1. Leadership
