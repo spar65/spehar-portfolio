@@ -1,7 +1,5 @@
 # Leadership Stories & Career Milestones
 ## Greg Spehar's Journey of Innovation and Impact
-
-# Gidanc AI: Guiding Innovation from Legacy to Ethical AI Excellence
 ---
 
 ## Synthesis: A Pattern of Transformation
