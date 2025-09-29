@@ -48,7 +48,7 @@ Greg Spehar is solving the developer productivity crisis with VIBEcoder™—an 
 
 With 20+ years architecting solutions for NASA, HP, Intel, and Fortune 500 companies, Greg brings deep expertise in AI governance, RPA automation, and distributed systems. His "Behavioral-Turing" test for AI code quality is now embedded in VIBEcoder's core, ensuring every AI-generated line meets production standards.
 
-Currently at Farm Credit Bank of Texas driving $30M+ in automation value while launching VIBEcoder's alpha. Open to connecting with developers ready to ship faster without compromising on quality.
+Currently at Farm Credit Bank of Texas driving $3M+ in automation value while launching VIBEcoder's alpha. Open to connecting with developers ready to ship faster without compromising on quality.
 
 ---
 
