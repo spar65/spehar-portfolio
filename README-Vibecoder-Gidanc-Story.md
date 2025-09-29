@@ -150,4 +150,5 @@ Whether you're a developer drowning in technical debt, an enterprise seeking eth
 Founder & President, GiDanc AI LLC  
 Creator of VIBEcoder™  
 *Guiding intelligence—natural and artificial—toward good for 15 years*
+*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
 
