@@ -202,6 +202,70 @@ The transformation was so dramatic that FCT Software—Vietnam's largest softwar
 
 ---
 
+## 2020-Present: The $30 Million Agile Revolution at Farm Credit Bank
+### Farm Credit Bank of Texas - Senior Program Manager
+
+**The Challenge:** Transform a traditional financial institution's technology operations while managing critical data migrations, implementing enterprise-wide Agile, and building automation capabilities from scratch.
+
+**The Story:**
+When Greg joined Farm Credit Bank of Texas in 2020, he walked into a perfect storm: legacy mainframe systems holding billions in agricultural loans, siloed teams speaking different technical languages, and a Board mandate for digital transformation that previous initiatives had failed to deliver. The bank needed someone who could simultaneously modernize infrastructure, transform culture, and deliver immediate value.
+
+Greg didn't just manage projects—he orchestrated a complete organizational metamorphosis across four revolutionary fronts:
+
+**The Four-Front Transformation:**
+
+### Front 1: The Data Democracy Revolution
+Greg led the implementation of three game-changing platforms:
+- **ThoughtSpot:** Democratized data analytics, allowing non-technical staff to query billion-dollar portfolios in plain English
+- **Databricks:** Unified data lakes and warehouses, breaking down 30-year-old data silos
+- **Reltio:** Created a single source of truth for customer data across 14 affiliated banks
+
+### Front 2: The RPA Automation Army
+Starting with zero automation infrastructure, Greg built an entire RPA ecosystem:
+- **NonAccrual Loan Conversion:** Automated migration from 1980s mainframe to modern LoanIQ, processing thousands of complex loans without human error
+- **Q2 Provisioning:** Created bots that reduced account setup from hours to minutes
+- **"Mighty Mouse" Network Integrity:** Built an automated guardian system that monitors and self-heals network issues before humans notice them
+
+The RPA team Greg created didn't just automate tasks—they eliminated entire categories of work, freeing up 40+ FTEs to focus on strategic initiatives rather than repetitive processing.
+
+### Front 3: The Agile Transformation Tsunami
+Greg didn't just implement Agile—he revolutionized how a conservative financial institution thought about change:
+- **Data Management Team Conversion:** Transformed a traditionally waterfall organization into Agile champions, reducing project delivery time by 60%
+- **Enterprise Rollout:** Designed the Agile framework that became FCBT's standard, now used across all technology teams
+- **Cultural Revolution:** Changed the conversation from "when will it be done?" to "what value can we deliver next sprint?"
+
+### Front 4: The Integration Orchestra
+As the conductor of multiple concurrent transformations, Greg ensured these initiatives reinforced rather than competed with each other:
+- **Unified Governance:** Created a single risk matrix tracking all initiatives
+- **Cross-Pollination:** RPA tools trained on Databricks data, ThoughtSpot revealing automation opportunities
+- **Compound Value:** Each success made the next transformation easier, creating momentum that became unstoppable
+
+**The Innovation:**
+Greg's masterpiece was recognizing that technology transformation without cultural transformation equals expensive failure. He didn't just implement tools—he built believers:
+- **Show, Don't Tell:** Every RPA bot demonstrated value within 2 weeks of conception
+- **Incremental Revolution:** Transformed the organization in digestible sprints rather than traumatic reorganizations
+- **Success Evangelism:** Turned early adopters into internal champions who recruited their peers
+
+**The Impact:**
+- **$30M+ Value Created:** Through improved processes, eliminated waste, and mitigated risks over 4 years
+- **$12M Integration Success:** Prevented 6-month stall on Board-mandated cloud migration for 14 banks
+- **$2M+ Annual Savings:** From RPA automation alone, with compound savings growing yearly
+- **Cultural Transformation:** Converted a risk-averse organization into innovation champions
+- **Template for Industry:** FCBT's transformation model now studied by other Farm Credit banks
+
+**Leadership Lessons:**
+- Orchestrated parallel transformations that reinforced rather than distracted from each other
+- Proved that conservative financial institutions could innovate as fast as startups
+- Demonstrated that sustainable change requires both technical excellence and cultural evolution
+- Built systems that improved themselves—automation that creates more automation
+
+**The Bigger Picture:**
+While delivering this transformation at FCBT, Greg was simultaneously building VIBEcoder—applying these same lessons to revolutionize how all software is created. The RPA experience showed him that automation without governance creates chaos. The Agile transformation proved that process without tools fails. The data management journey revealed that complexity without simplification becomes unusable.
+
+All these insights crystallized into VIBEcoder's vision: AI that writes code faster, but with enterprise-grade governance built in from the start.
+
+---
+
 ## Reflection: The Pattern of Transformation
 
 Looking across these stories, a clear pattern emerges in Greg's leadership approach:
