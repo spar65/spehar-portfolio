@@ -120,3 +120,4 @@ Senior technology leader with 17+ years driving digital transformation and AI in
 ---
 
 *Available for consulting, strategic partnerships, and executive advisory roles*
+*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
