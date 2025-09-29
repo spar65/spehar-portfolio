@@ -6,6 +6,8 @@
 
 ***Stories are here:*** https://github.com/spar65/spehar-portfolio/blob/main/README-Stories.md
 
+***Gidanc story is here:*** https://github.com/spar65/spehar-portfolio/blob/main/README-Vibecoder-Gidanc-Story.md
+
 ---
 ## 1. Leadership
 
