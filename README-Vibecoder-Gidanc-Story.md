@@ -60,6 +60,8 @@ The innovation was profound:
 
 This wasn't about constraining AI—it was about giving it wings to fly safely.
 
+The paper for OpenAI is here: https://41d75c07-1d6c-4417-b21c-f5ceea6d5726.usrfiles.com/ugd/41d75c_fff13861bd8c4cc78777cd83966c41b6.pdf
+
 ### **2024: From Framework to Product - Enter VIBEcoder**
 
 The framework proved itself in testing, but developers faced a practical problem: AI could generate code at superhuman speed, but it created technical debt at the same pace. Security vulnerabilities multiplied. Code bloat exploded. Projects became unmaintainable.
