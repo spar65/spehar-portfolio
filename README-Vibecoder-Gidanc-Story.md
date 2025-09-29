@@ -8,7 +8,8 @@
 
 ### **2008: The Original Vision - Understanding Human Decision-Making**
 
-Fifteen years ago, Greg Spehar wasn't thinking about artificial intelligence. He was obsessed with a different question: *Why do smart people make terrible decisions?*
+Fifteen years ago, Greg Spehar wasn't thinking about how to capture the ethics of groups of poeple. 
+He was obsessed with a different question: *Why do smart people make terrible decisions?*
 
 Fresh from turning around multi-million dollar projects at Kaiser Permanente and Blue Cross Blue Shield, Greg had witnessed a pattern: technical brilliance repeatedly sabotaged by human judgment failures. Teams with perfect processes still delivered imperfect results. Organizations with flawless strategies still failed.
 
@@ -16,7 +17,7 @@ The answer wasn't more technology—it was understanding the human "dance" betwe
 
 ### **The Birth of GiDanc: Guidance for Natural Intelligence**
 
-In 2008, Greg founded GiDanc (Guidance + Dance) with a revolutionary premise: What if we could map human decision-making across multiple dimensions—morality, virtue, ethics, and operational excellence—to predict and guide better outcomes?
+In 2008, Greg founded a company with a revolutionary premise: What if we could map human decision-making across multiple dimensions—morality, virtue, ethics, and operational excellence—to predict and guide better outcomes?
 
 Over the next decade, Greg developed what would become the foundation of everything:
 
