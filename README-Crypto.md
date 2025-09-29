@@ -242,6 +242,8 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 
 ---
 
+*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
+
 ## 🏆 Technical Achievements
 
 - **Full-Stack Integration**: Seamless frontend-backend-blockchain integration
