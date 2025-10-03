@@ -43,6 +43,8 @@ Building on empirical observations of 20-30% performance overhead in hybrid work
 
 **Download:** https://www.myvibecoder.us/Spehar_Low_Code_Orchestration_in_AI_Assisted_Development_20250917-V01.pdf
 
+**Related Blog Post:** https://www.myvibecoder.us/blog/conducting-the-dragon-orchestra
+
 ### 5. Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis
 Version 1.0, Copyright ©2025
 
