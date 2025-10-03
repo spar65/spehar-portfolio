@@ -23,6 +23,8 @@ This comprehensive analysis examines the evolution of structured output generati
 
 **Download:** https://www.myvibecoder.us/Spehar_LLM_Non_Determinism_20250909V01.pdf
 
+**Related Blog Post:** https://www.myvibecoder.us/blog/poker-with-the-dragon
+
 ### 3. Structured Output Generation in LLMs: A Research Framework and Open Challenges
 Version 1.0, Copyright ©2025
 
