@@ -12,6 +12,8 @@ This research conceptualizes AI integration as "taming a dragon"—channeling ra
 
 **Download:** https://www.myvibecoder.us/Spehar_TrainingYourDragon_20250909-V03.pdf
 
+**Related Blog Post:** https://www.myvibecoder.us/blog/training-your-dragon
+
 ### 2. LLM Non-Determinism in JSON Generation: A Comprehensive Analysis
 Version 1.0, Copyright ©2025
 
