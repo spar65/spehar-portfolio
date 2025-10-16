@@ -147,9 +147,7 @@ This paper addresses the adoption barriers of software process simulation models
 
 **Key Contribution:** Establishes the theoretical foundation for reusable, modular simulation models through integration of software engineering principles (information hiding, family-based development, cognitive patterns), transforming software process simulation from costly custom development into efficient template-based deployment that makes simulation technology practical for smaller projects and broader industry adoption.
 
-**Key Contribution:** 
-
-**Download:** 
+**Download:** https://www.myvibecoder.us/2003-ProSim-Generalized-Simulation-Models.pdf
 
 ## Research Impact
 ### Empirical Contributions
