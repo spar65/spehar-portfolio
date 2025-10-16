@@ -140,6 +140,17 @@ This grant proposal outlines the development of a comprehensive AI guidance syst
 
 **Download:** https://41d75c07-1d6c-4417-b21c-f5ceea6d5726.usrfiles.com/ugd/41d75c_fff13861bd8c4cc78777cd83966c41b6.pdf
 
+### 14. Generalized Simulation Models: What, Why and How?
+Version 1.0, Copyright ©2003
+
+This paper addresses the adoption barriers of software process simulation models (SPSMs) by proposing generalized simulation models (GPSMs) that can be rapidly adapted to multiple process contexts with significantly less effort than building original models. Drawing on modularization concepts from Parnas, product-line family approaches from Weiss and Lai, and cognitive pattern frameworks from Gardner, the research demonstrates how GPSMs can reduce model complexity, lower development costs, and make simulation technology accessible to organizations at all CMM levels. The framework targets reducing the typical obstacles—difficult model construction, challenging metrics acquisition, and high expertise requirements—that prevent industry from fully leveraging SPSM benefits including process design, decision-making improvement, risk assessment, and "what if" analyses.
+
+**Key Contribution:** Establishes the theoretical foundation for reusable, modular simulation models through integration of software engineering principles (information hiding, family-based development, cognitive patterns), transforming software process simulation from costly custom development into efficient template-based deployment that makes simulation technology practical for smaller projects and broader industry adoption.
+
+**Key Contribution:** 
+
+**Download:** 
+
 ## Research Impact
 ### Empirical Contributions
 - Production Validation: 237,000+ lines of production code with documented reliability metrics
