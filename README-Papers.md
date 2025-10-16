@@ -10,7 +10,7 @@ This framework addresses data governance challenges for AI systems in multi-ente
 
 **Key Contribution:** Establishes the first comprehensive five-pillar framework specifically designed for federated AI governance in multi-enterprise financial services environments, where proper data management determines whether AI systems enhance or destroy value.
 
-**Download:** 
+**Download:** TBD
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
@@ -21,7 +21,7 @@ This federated operating model addresses data governance scalability challenges 
 
 **Key Contribution:** Provides mid-sized organizations with a pragmatic minimum viable governance (MVG) approach that achieves AI readiness through federated structures, addressing the gap between lightweight ad-hoc and heavyweight enterprise governance frameworks.
 
-**Download:** 
+**Download:** https://www.myvibecoder.us/B-DRAFT_AI_Ready_Data_Governance_Business_Driven_Process_Framework_V1.1.pdf
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
@@ -32,7 +32,7 @@ This standards pillar establishes foundational protocols for AI-ready data gover
 
 **Key Contribution:** Bridges the gap between diverse institutional practices and AI consistency requirements through systematic standards that serve as both quality enablers and compliance frameworks, preventing the $10-14 million annual losses from poor data quality.
 
-**Download:** 
+**Download:** https://www.myvibecoder.us/Pillar_1_DRAFT_Standards_The_Universal_Protocol_Guide_for_AI_Ready_Data_Governance_V1.2.pdf
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
@@ -43,7 +43,7 @@ This catalogue pillar addresses data invisibility challenges where organizations
 
 **Key Contribution:** Transforms data cataloguing from passive inventory to active AI enablement infrastructure, with automated compliance monitoring and centralized governance that prevents unauthorized access while enabling self-service discovery essential for AI initiatives.
 
-**Download:** 
+**Download:** https://www.myvibecoder.us/Pillar_2_DRAFT_Data_Catalogue_The_Inventory_Management_System_for_AI_Ready_Data_Governance_V1.2.pdf
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
@@ -54,7 +54,7 @@ This novel CRUD-integration framework systematically maps Create, Read, Update, 
 
 **Key Contribution:** Introduces the first systematic CRUD-to-medallion mapping framework that transforms implicit pipeline knowledge into explicit lifecycle operations, enabling scalable AI deployment through clear operational accountability at each data preparation stage.
 
-**Download:** 
+**Download:** TBD
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
@@ -65,7 +65,7 @@ This stewardship pillar provides severity-based issue resolution framework addre
 
 **Key Contribution:** Transforms reactive quality firefighting into proactive stewardship through explicit accountability at each resolution stage, with severity-based escalation ensuring appropriate expertise application while preventing the organizational paralysis of centralized-only or decentralized-only models.
 
-**Download:** 
+**Download:** https://www.myvibecoder.us/Pillar_4_DRAFT_Data_Stewards_The_Quality_Oversight_and_Issue_Resolution_System_for_AI_Ready_Data_Governance_V1.1.pdf
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
@@ -76,7 +76,7 @@ This orchestration pillar addresses the critical challenge where 74% of AI initi
 
 **Key Contribution:** Establishes systematic AI use case lifecycle management that prevents expensive failures through proactive assessment rather than reactive troubleshooting, transforming ad-hoc AI experimentation into governed deployment with clear approval gates and pattern-based data preparation strategies.
 
-**Download:** 
+**Download:** https://www.myvibecoder.us/Pillar_5_DRAFT_AI_Use_Cases_The_Orchestration_and_Approval_System_for_AI_Ready_Data_Governance_V1.1.pdf
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
