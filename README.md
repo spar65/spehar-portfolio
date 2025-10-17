@@ -50,26 +50,26 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
 
 - **"Training Your Dragon: Mastering the VibeCoder Path" (2025)** - Empirical validation of AI development frameworks through 500+ case studies.
 - **"LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (2025)** - Evolution from 60-70% to 100% schema compliance reliability.
-**"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (2025)** - Systematic research agenda for structured output challenges.
-**"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (2025)** - Framework for low-code reliability and integration patterns.
-**"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (2025)** - Transformative framework for enterprise AI integration.
-**"AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration" (2025)** - Comprehensive framework achieving 90%+ data quality scores.
-**"AI-Ready Data Governance: A Federated Operating Model for Mid-Sized Companies" (2025)** - MVG approach showing 15-30% operational cost reductions.
-**"Pillar 1: Standards" (2025)** - Framework reducing AI error rates by 15-30%.
-**"Pillar 2: Data Catalogue" (2025)** - Implementation achieving 99% reduction in data discovery time.
-**"Pillar 3: Data Models" (2025)** - CRUD-to-medallion mapping achieving 30-50% operational improvements.
-**"Pillar 4: Data Stewards" (2025)** - Severity-based framework reducing quality incidents by 40-50%.
-**"Pillar 5: AI Use Cases" (2025)** - Pattern-based orchestration preventing 40-60% of AI project failures.
-**"Ethical Horizons: Pioneering Comprehensive AI Guidance for a Responsible Future" (2024)** - Grant proposal for comprehensive AI guidance system.
+- **"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (2025)** - Systematic research agenda for structured output challenges.
+- **"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (2025)** - Framework for low-code reliability and integration patterns.
+- **"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (2025)** - Transformative framework for enterprise AI integration.
+- **"AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration" (2025)** - Comprehensive framework achieving 90%+ data quality scores.
+- **"AI-Ready Data Governance: A Federated Operating Model for Mid-Sized Companies" (2025)** - MVG approach showing 15-30% operational cost reductions.
+- **"Pillar 1: Standards" (2025)** - Framework reducing AI error rates by 15-30%.
+- **"Pillar 2: Data Catalogue" (2025)** - Implementation achieving 99% reduction in data discovery time.
+- **"Pillar 3: Data Models" (2025)** - CRUD-to-medallion mapping achieving 30-50% operational improvements.
+- **"Pillar 4: Data Stewards" (2025)** - Severity-based framework reducing quality incidents by 40-50%.
+- **"Pillar 5: AI Use Cases" (2025)** - Pattern-based orchestration preventing 40-60% of AI project failures.
+- **"Ethical Horizons: Pioneering Comprehensive AI Guidance for a Responsible Future" (2024)** - Grant proposal for comprehensive AI guidance system.
 
 **Papers in Development:**
 
-**"No Concept Left Behind"** - New approach to learning using AI - Co-Author with my son Sergio Spehar.
-**"Dancing with the Dragon: Implementing an Enterprise MCP Strategy"** - Cost-effective MCP integration delivering exceptional ROI.
-**"Schooling Your Dragon: Rules-Based Development Architecture"** - Definitive framework on rules management systems in AI-assisted development.
-**"Navigating with Your Dragon on the High Seas: Strategic Planning & Documentation"** - Methodology for developing reliable, first-time-right implementation plans.
-**"Making the Dragon Walk the Line: Test-First Validation Methodology"** - Systematic test case development for solidifying approved code solutions.
-**"Playing Chess with the Dragon: Iterative Problem Decomposition for Guaranteed Success"** - Strategies for correcting defects and misaligned code.
+- **"No Concept Left Behind"** - New approach to learning using AI - Co-Author with my son Sergio Spehar.
+- **"Dancing with the Dragon: Implementing an Enterprise MCP Strategy"** - Cost-effective MCP integration delivering exceptional ROI.
+- **"Schooling Your Dragon: Rules-Based Development Architecture"** - Definitive framework on rules management systems in AI-assisted development.
+- **"Navigating with Your Dragon on the High Seas: Strategic Planning & Documentation"** - Methodology for developing reliable, first-time-right implementation plans.
+- **"Making the Dragon Walk the Line: Test-First Validation Methodology"** - Systematic test case development for solidifying approved code solutions.
+- **"Playing Chess with the Dragon: Iterative Problem Decomposition for Guaranteed Success"** - Strategies for correcting defects and misaligned code.
   
 ## 4. Agents
 
