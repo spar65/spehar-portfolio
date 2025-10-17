@@ -48,8 +48,8 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
 
 **Working Papers:**
 
-**"Training Your Dragon: Mastering the VibeCoder Path" (2025)** - Empirical validation of AI development frameworks through 500+ case studies.
-**"LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (2025)** - Evolution from 60-70% to 100% schema compliance reliability.
+- **"Training Your Dragon: Mastering the VibeCoder Path" (2025)** - Empirical validation of AI development frameworks through 500+ case studies.
+- **"LLM Non-Determinism in JSON Generation: A Comprehensive Analysis" (2025)** - Evolution from 60-70% to 100% schema compliance reliability.
 **"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (2025)** - Systematic research agenda for structured output challenges.
 **"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (2025)** - Framework for low-code reliability and integration patterns.
 **"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (2025)** - Transformative framework for enterprise AI integration.
