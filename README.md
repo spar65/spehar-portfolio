@@ -44,7 +44,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
 
 **Published Papers:**
 
-**"Generalized Simulation Models: What, Why and How?" (2003)** - Theoretical foundation for reusable, modular simulation models.
+- **"Generalized Simulation Models: What, Why and How?" (2003)** - Theoretical foundation for reusable, modular simulation models.
 
 **Working Papers:**
 
