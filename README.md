@@ -19,7 +19,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 
 - **GiDanc AI LLC (2008-Present):** Bootstrapped AI product studio, launched VibeCoder (50-90% MVP reduction), invented "Behavioral-Turing" test for AI quality
 - **Farm Credit Bank of Texas (2020-Present):** Created $30M+ value through process improvements, marshalled enterprise data initiatives (ThoughtSpot, Databricks, Reltio), developed RPA solutions saving $2M+ annually
-- **Expert Velocity (2018-2020):** Managed $12M cloud migration for 14 banks, built RPA team, prevented $5M vendor lock-in, designed Enterprise Architecture program
+- **Point B through Expert Velocity (2018-2020):** Managed $12M cloud migration for 14 banks, built RPA team, prevented $5M vendor lock-in, designed Enterprise Architecture program
 - **CorSource (2014-2018):** Grew HP account 5x ($300K to $1.5M), scaled offshore team to 70 engineers, reduced delivery time 50% with Agile model adopted across 5,000+ engineers
 - **Strategic Consulting (2006-2014):** Delivered $20M+ savings for Kaiser Permanente, managed $800M Yahoo acquisition integration, rescued $1.2B foundation's stalled SAAS project
 
