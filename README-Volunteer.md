@@ -2,7 +2,9 @@
 
 # Greg Spehar's Volunteer Leadership & Community Impact
 
-# Volunteer Leadership & Community Impact
+## Volunteer Leadership & Community Impact - Executive Summary
+
+Greg Spehar has demonstrated over 35 years of sustained commitment to volunteer leadership spanning professional development, nonprofit governance, youth mentorship, and community service. His volunteer portfolio uniquely combines technical expertise and servant leadership across diverse contexts—from serving as Finance VP for FACES Foundation and two-term PMI Portland Board Member (Outreach), to founding Chair of Austin AI Alliance Projects Working Group democratizing AI for small businesses. Service extends from local impact through youth soccer coaching and Toastmasters leadership to global outreach including upcoming family participation in medical mission work in Acuña, Mexico. This consistent pattern of community engagement reflects core values of empowering underserved populations, building professional communities of practice, and modeling servant leadership across all career stages from undergraduate engineering fraternity member to executive-level technology advocate.
 
 ## **Humbly We Serve 513 - Acuña Medical Mission Trip Volunteer**
 **Acuña, Mexico | November 14-16, 2025 (Upcoming)**
