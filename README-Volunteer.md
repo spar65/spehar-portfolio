@@ -2,6 +2,8 @@
 
 # Greg Spehar's Volunteer Leadership & Community Impact
 
+# Volunteer Leadership & Community Impact
+
 ## **Humbly We Serve 513 - Acuña Medical Mission Trip Volunteer**
 **Acuña, Mexico | November 14-16, 2025 (Upcoming)**
 
@@ -53,6 +55,15 @@ Served as Finance Vice President and Board Member for FACES Foundation, a non-pr
 Served first term on the Board of Directors for PMI Portland Chapter, one of the largest professional project management organizations in the Pacific Northwest, specifically leading Outreach initiatives. Developed and executed community engagement strategies, professional development programming, and industry partnership initiatives. Bridged connections between PMI chapter members and broader business community, expanding the chapter's reach and impact across diverse industries.
 
 **Key Contribution:** Strengthened professional development ecosystem and expanded PMI's community presence through strategic outreach, elevating project management standards and practices throughout the Portland metropolitan area while growing membership engagement and industry partnerships.
+
+---
+
+## **Toastmasters International - Member & President**
+**Houston, Texas | 1992-1993**
+
+Active member and President of Toastmasters club while working as Systems Engineer at McDonnell Douglas in Houston. Led club operations, facilitated weekly meetings, and mentored members in developing public speaking, communication, and leadership skills. Advanced through Toastmasters competent communicator program while serving in executive leadership role. Fostered supportive environment for professional development and personal growth among engineering and technical professionals seeking to enhance presentation and leadership capabilities.
+
+**Key Contribution:** Developed foundational public speaking and leadership skills that became cornerstone of consulting career, while building confidence in technical communication that enabled successful transition from engineering to program management and executive leadership roles across Fortune 500 companies.
 
 ---
 
