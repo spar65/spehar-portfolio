@@ -71,7 +71,22 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Papers.md
 - **"Making the Dragon Walk the Line: Test-First Validation Methodology"** - Systematic test case development for solidifying approved code solutions.
 - **"Playing Chess with the Dragon: Iterative Problem Decomposition for Guaranteed Success"** - Strategies for correcting defects and misaligned code.
   
-## 4. Agents
+## 4. Volunteer Leadership & Community Impact
+
+https://github.com/spar65/spehar-portfolio/blob/main/README-Volunteer.md
+
+**Description:** Greg Spehar has demonstrated over 35 years of sustained commitment to volunteer leadership spanning professional development, nonprofit governance, youth mentorship, and community service. His volunteer portfolio uniquely combines technical expertise and servant leadership across diverse contexts—from serving as Finance VP for FACES Foundation and two-term PMI Portland Board Member (Outreach), to founding Chair of Austin AI Alliance Projects Working Group democratizing AI for small businesses.
+
+**Inventory:**
+- **Humbly We Serve 513** - Medical Mission Volunteer (2025)
+- **Austin AI Alliance** - Chair, Projects Working Group (2023-Present)
+- **Westside Soccer Club** - Head Coach (2017)
+- **PMI Portland Chapter** - Board Member, Outreach (2007-2008, 2016-2017)
+- **FACES Foundation** - Board Member & Finance VP (2012)
+- **Toastmasters International** - Member & President (1992-1993)
+- **Theta Tau Engineering Fraternity** - Member (1985-1990)
+
+## 5. Agents
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 
@@ -119,7 +134,7 @@ The following are all of the Agents that were paid for by a customer:
 - MSA Generator: Legal Document Builder
 - Company Evaluator Pro
 
-## 5. Crypto
+## 6. Crypto
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 
@@ -137,7 +152,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 - Future enhancements: Planned features, technical roadmap.
 - Technical achievements: Full-stack integration.
 
-## 6. Brand Management Tool - In Smalltalk
+## 7. Brand Management Tool - In Smalltalk
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-BMT-Smalltalk.md
 
