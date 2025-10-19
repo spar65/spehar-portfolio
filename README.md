@@ -86,7 +86,24 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Volunteer.md
 - **Toastmasters International** - Member & President (1992-1993)
 - **Theta Tau Engineering Fraternity** - Member (1985-1990)
 
-## 5. Agents
+## 5. Professional Certifications & Technical Expertise
+
+https://github.com/spar65/spehar-portfolio/blob/main/README-Certifications.md
+
+**Description:** Comprehensive portfolio of professional certifications and technical expertise spanning AI development, project management, agile methodologies, quality management, robotic process automation, enterprise agile transformation, and advanced programming - demonstrating 30+ years of continuous learning and professional development from foundational object-oriented programming through cutting-edge AI agent creation.
+
+**Inventory:**
+- **MindStudio Level 3 Certified** (2024, 2025) - Advanced AI Agent Development Platform
+- **Six Sigma Black Belt** - Statistical Process Improvement & Quality Management
+- **PMP** - Project Management Professional (2005)
+- **PMI-ACP** - Agile Certified Practitioner (2014)
+- **DASM** - Disciplined Agile Senior Scrum Master
+- **Enterprise Agile Integration** - Advocate & Expert, Farm Credit Bank of Texas (2019-Present)
+- **Robotic Process Automation (RPA)** - Program Manager & Integration Expert, Farm Credit Bank of Texas (2019-Present)
+- **Sun Microsystems Java 1.1 Programmer Certification** (1999)
+- **GemStone/S Smalltalk** - Professional Trainer & Object Database Specialist, GemTalk Systems (Late 1990s)
+
+## 6. Agents
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Agents.md
 
