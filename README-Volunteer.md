@@ -1,6 +1,6 @@
 
 
-# Volunteer Leadership & Community Impact
+# Greg Spehar's Volunteer Leadership & Community Impact
 
 ## **Humbly We Serve 513 - Acuña Medical Mission Trip Volunteer**
 **Acuña, Mexico | November 14-16, 2025 (Upcoming)**
