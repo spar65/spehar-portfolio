@@ -188,32 +188,43 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-BMT-Smalltalk.md
 
 ## 📊 About Me
 
-I'm Greg Spehar, a certified MindStudio AI Agent Developer with extensive experience in project management and AI implementation. Currently serving as Chair of Projects at Austin AI Alliance and working at Farm Credit Bank of Texas, I combine technical expertise with real-world business understanding to create AI solutions that actually solve problems.
+I'm Greg Spehar, a MindStudio Level 3 Certified AI Agent Developer and seasoned technology leader with 30+ years of experience spanning AI implementation, enterprise program management, and digital transformation. Currently serving as Chair of Projects at Austin AI Alliance and Senior Program Manager at Farm Credit Bank of Texas, I combine deep technical expertise with proven business acumen to create AI solutions that deliver measurable results.
 
-**Certifications:**  
-- MindStudio L3 Certified in 2024 and 2025
+**Core Certifications:**  
+- MindStudio L3 Certified (2024, 2025)
+- Six Sigma Black Belt
 - PMP (Project Management Professional)  
 - PMI-ACP (Agile Certified Practitioner)  
 - DASM (Disciplined Agile Scrum Master)  
 
-**Expertise:**  
-- AI Agent Development  
-- Project Management  
-- Process Automation  
-- Business Intelligence  
+**Technical Expertise:**  
+- AI Agent Development & Orchestration
+- Enterprise Agile Transformation
+- Robotic Process Automation (RPA)
+- AI-Ready Data Governance
+- Object-Oriented Architecture (Smalltalk, Java)
+
+**Leadership Specialties:**  
+- Strategic Program Management ($100M+ programs)
+- AI Implementation & Integration
+- Process Automation & Optimization
+- Cross-Functional Team Leadership
+- Change Management & Organizational Transformation
 
 ---
 
 ## 📬 Contact Me
 
-Ready to transform your workflows with custom AI solutions? I specialize in creating tailored work items for:  
-- **Business Process Automation**  
+Ready to transform your workflows with custom AI solutions or enterprise program leadership? I specialize in:  
+- **AI Agent Development & Deployment**  
+- **Business Process Automation (RPA + AI)**  
+- **Enterprise Agile Transformation**
+- **AI-Ready Data Governance Implementation**
+- **Strategic Program Management**
 - **Custom Research & Analysis Tools**  
-- **Communication & Content Generation**  
-- **Data Processing & Intelligence**  
 
-[📧 Email me](mailto:greg@gidanc.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/spehargreg)  
+[📧 Email me](mailto:greg@gidanc.com) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/spehargreg) | [🌐 Visit GiDanc AI](https://www.gidanc.com)
 
-*Based in Austin, Texas | Available for consulting and custom AI development*
+*Based in Austin, Texas | Available for consulting, custom AI development, and enterprise program leadership*
 
 *© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
