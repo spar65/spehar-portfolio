@@ -225,6 +225,6 @@ Ready to transform your workflows with custom AI solutions or enterprise program
 
 [📧 Email me](mailto:greg@gidanc.com) | [💼 Connect on LinkedIn](https://www.linkedin.com/in/spehargreg) | [🌐 Visit GiDanc AI](https://www.gidanc.com)
 
-*Based in Austin, Texas | Available for consulting, custom AI development, and enterprise program leadership*
+*Based in Austin, Texas | Available for consulting, custom AI development, and enterprise program leadership.*
 
 *© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
