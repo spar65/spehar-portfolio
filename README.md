@@ -151,7 +151,7 @@ The following are all of the Agents that were paid for by a customer:
 - MSA Generator: Legal Document Builder
 - Company Evaluator Pro
 
-## 6. Crypto
+## 7. Crypto
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 
@@ -169,7 +169,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Crypto.md
 - Future enhancements: Planned features, technical roadmap.
 - Technical achievements: Full-stack integration.
 
-## 7. Brand Management Tool - In Smalltalk
+## 8. Brand Management Tool - In Smalltalk
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-BMT-Smalltalk.md
 
