@@ -9,7 +9,7 @@
 ***Gidanc story is here:*** https://github.com/spar65/spehar-portfolio/blob/main/README-Vibecoder-Gidanc-Story.md
 
 ---
-## 1. Leadership
+## 1. Servant Leadership
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 
