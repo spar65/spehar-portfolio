@@ -1,4 +1,4 @@
-# Greg Spehar's Professional Leadership Portfolio
+# Greg Spehar's Professional Servant Leadership Portfolio
 
 ## Executive Summary
 Senior technology leader with 17+ years driving digital transformation and AI innovation across enterprise environments. Demonstrated track record of delivering $50M+ in measurable business value through strategic program management, AI implementation, and process optimization.
