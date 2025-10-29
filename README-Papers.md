@@ -157,6 +157,7 @@ This white paper (Being written by my Son Sergio Spehar and supervised by myself
 **Key Contribution:** Establishes a comprehensive, community-grounded framework for transitioning from traditional batch-processing education to AI-powered mastery-based learning, demonstrating how personalized adaptive instruction can simultaneously improve academic outcomes (students progress only after demonstrating concept mastery across 300+ yearly concepts), increase engagement (reducing chronic absenteeism by nearly 4%), and support educator effectiveness through real-time analytics, providing Central Texas schools with an actionable roadmap for AI integration that balances innovation with practical constraints of public education systems including state testing requirements.
 
 **Download:** (Coming in Dec 2025)
+
 **Website:** https://www.nclb.us/
 
 ## Research Impact
