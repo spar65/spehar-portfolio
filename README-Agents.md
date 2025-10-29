@@ -13,7 +13,7 @@ https://www.virtualbadge.io/certificate-validator?credential=4b30527d-7708-433c-
 ## 🚀 🚀 Paid AI Agents for Customers 🚀 🚀 
 The following are all of the Agents that were paid for by a customer:
 
-**Half Staff** - Tool that runs 2 times a day and runs 366+ AI Calls per Run or 700+ AI calls a day to discover and define what the Half-Staff status is for the day. - This tool has a monthly support contract that allows for changes to the AI models and to the information is provided/discovered. - 50+ Hours total from developm to production launch.
+**Half Staff** - Tool that runs 2 times a day and runs 366+ AI Calls per Run or 700+ AI calls a day to discover and define what the Half-Staff status is for the day. - This tool has a monthly support contract that allows for changes to the AI models and to the information is provided/discovered. - 50+ Hours total from development to production launch.
 
 **Use Case**: Determine the Half-Staff status nationally or by state and territory.
 
