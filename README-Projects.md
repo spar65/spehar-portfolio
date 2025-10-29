@@ -5,9 +5,13 @@ I specialize in building enterprise-grade AI solutions that deliver measurable b
 
 ### Greg's Core Expertise:
 **Senior Program Management** - Over 25+ years
+
 **MindStudio Certified (2024 & 2025)** - Advanced AI agent development
+
 **Enterprise Integration** - Seamless connection with existing business systems
+
 **Project Leadership** - PMP, PMI-ACP, DASM certified with proven delivery track record
+
 **Measurable ROI** - Consistently delivering 40-60% efficiency gains
 
 
