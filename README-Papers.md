@@ -194,7 +194,7 @@ My research philosophy centers on bridging the gap between AI's theoretical pote
 
 Each paper contributes to a coherent research program that addresses fundamental questions about how humans and AI systems can collaborate effectively in software development, providing both immediate practical value and long-term theoretical foundations for the field. This will be Phase 1.
 
-Phase 2 will be the next step, the integration of the physical world into this framework as such the same Product Requirements document will have both hardware and software components that will be each routed to their own pipelines where prototypes can be created with a day and eventually within hours. I beleive we only 8-10 years from that solution, specifically possible if I am driving it. (But someone smarter than I would also achive this goal... but in 10-12 years, ha!)
+Phase 2 will be the next step, the integration of the physical world into this framework as such the same Product Requirements document will have both hardware and software components that will be each routed to their own pipelines where prototypes can be created within a day and eventually within hours. I beleive we are only 8-10 years from that solution, specifically a very good possiiblity if I am driving it. (But someone smarter than I would also achive this goal... but in 10-12 years, ha!)
 
 ## Papers in Process
 
