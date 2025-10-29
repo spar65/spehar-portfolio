@@ -138,7 +138,7 @@ This grant proposal outlines the development of a comprehensive AI guidance syst
 
 **Key Contribution:** Proposes foundational frameworks for ethical AI alignment, setting standards for safety, trust, and societal value with revolutionary impact scores of 10-13.
 
-**Download:** https://41d75c07-1d6c-4417-b21c-f5ceea6d5726.usrfiles.com/ugd/41d75c_fff13861bd8c4cc78777cd83966c41b6.pdf
+**Download:** https://www.myvibecoder.us/2024-OpenAI-Superalignment-Grant-Proposal-Spehar-V08-6-5.pdf
 
 ### 14. Generalized Simulation Models: What, Why and How?
 Version 1.0, Copyright ©2003
