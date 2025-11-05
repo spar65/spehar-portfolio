@@ -180,7 +180,7 @@ Transforms traditional development workflows by enabling teams to leverage AI or
 - **Data Processing**: Real-time streaming and batch processing
 - **ML Operations**: Model versioning and deployment pipeline
 
-## 🚀 #4 - GiDanc AI: AI Automation, Validation & Compliance Platform
+## 🚀 #4 - GiDanc: AI Automation, Validation & Compliance Platform
 
 **Description**: GiDanc AI is an enterprise-grade AI automation, validation and compliance platform that ensures AI systems are automated, ethically sound, morally guided, and compliant across industries. The platform provides a comprehensive framework for automating and testing AI systems against dimensional models including Ethical, Moral, Virtue, and Generalized Correlation validation to guarantee human safety and regulatory compliance through time.
 
