@@ -35,6 +35,7 @@ Core expertise in delivered solutions:
 - **LoanOfficer Home Screen MCP Integration:** AI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
 - **VibeCoder:** AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
 - **AgentMinder:** Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
+- **GiDanc AI LLC** General Automation and Validation consulting company. https://www.gidanc.ai
 
 ## 3. Papers
 
