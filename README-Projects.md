@@ -4,7 +4,7 @@
 I specialize in building enterprise-grade AI solutions that deliver measurable business impact. With 30+ production AI agents deployed and expertise spanning financial services, software development, and enterprise operations, I transform complex business challenges into intelligent, automated solutions.
 
 ### Greg's Core Expertise:
-**Senior Program Management** - Over 25+ years
+**Senior Program Management and Off-Shore Director** - Over 25+ years
 
 **MindStudio Certified (2024 & 2025)** - Advanced AI agent development
 
