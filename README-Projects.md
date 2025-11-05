@@ -37,7 +37,7 @@ Tech: Next.js 14+, React 18, PostgreSQL, NextAuth.js, shadcn/ui
 Impact: 30+ production agents, multi-industry deployment, 40-60% task reduction
 Applications: Research automation, customer support, HR optimization, sales enhancement
 
-**4. GiDanc AI - AI Automation, Validation & Compliance**
+**4. GiDanc - AI Automation, Validation & Compliance**
 Automate your AI and Prove your AI works with enterprise-grade automation tools, validation tools and compliance tools. This platform automates and validates AI systems across ethical, moral, and regulatory dimensions, ensuring continuous compliance and human safety throughout the AI lifecycle.
 
 Tech: Proprietary Guidance AI Framework, MindStudio Integration, Multi-dimensional Models
