@@ -3,6 +3,8 @@
 ## Advancing AI-Assisted Development Through Systematic Research
 I contribute to the field of AI-assisted development through rigorous academic research that bridges theoretical foundations with practical implementation. My work focuses on establishing systematic frameworks for understanding and optimizing the integration of AI tools in software development workflows.
 
+https://orcid.org/0009-0001-6502-0737
+
 ### 1. AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration
 Version 1.0, Copyright ©2025
 
