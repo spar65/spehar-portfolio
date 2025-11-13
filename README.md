@@ -35,11 +35,11 @@ Flagship Inventory: Core expertise in delivered solutions:
 
 * **LoanOfficer Home Screen MCP Integration**: AI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
 
-* **VibeCoder**: AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
+* **VibeCoder**: AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links. [MyVIBECoder](https://myvibecoder.us)
 
 * **AgentMinder**: Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
 
-* **GiDanc AI LLC**: Enterprise AI automation, validation and compliance platform providing AI automation solutions and continuous testing across ethical, moral, and regulatory dimensions to prove AI systems work reliably over time. __https://www.gidanc.ai__
+* **GiDanc AI LLC**: Enterprise AI automation, validation and compliance platform providing AI automation solutions and continuous testing across ethical, moral, and regulatory dimensions to prove AI systems work reliably over time. [GiDanc AI](https://gidanc.ai)
 
 * **Mythical Man Year in One Day**: AI-accelerated development initiative proving one developer with AI orchestration can accomplish what traditionally requires teams and months. Includes two complete site migrations (Proyect Paella culinary platform + Investigative Resources professional services) from Wix to Vercel in under 4 hours total, demonstrating paradigm shift in development velocity and validating the thesis that AI-assisted development fundamentally transforms traditional software economics. [Proyect Paella](https://proyectpaella.com) | [IROFWI](https://irofwi.vercel.app)
 
