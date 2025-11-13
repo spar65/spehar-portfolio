@@ -24,18 +24,22 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 - **Strategic Consulting (2006-2014):** Delivered $20M+ savings for Kaiser Permanente, managed $800M Yahoo acquisition integration, rescued $1.2B foundation's stalled SAAS project
 
 ---
-## 2. Projects
+2. Projects
+__https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md__
 
-https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md
+Description: This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact. This will result in new methods for managing work and new skills management for development of software as well as new methods for deploying and managing agents.
 
-**Description:** This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact. This will result in new methods for managing work and new skills management for development of software as well as new methods for deploying and managing agents.
+Flagship Inventory: Core expertise in delivered solutions:
 
-**Flagship Inventory:**
-Core expertise in delivered solutions:
-- **LoanOfficer Home Screen MCP Integration:** AI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
-- **VibeCoder:** AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
-- **AgentMinder:** Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
-- **GiDanc AI LLC:** Enterprise AI automation, validation and compliance platform providing AI automation solutions and continuous testing across ethical, moral, and regulatory dimensions to prove AI systems work reliably over time. https://www.gidanc.ai
+* **LoanOfficer Home Screen MCP Integration**: AI MCP POC: Agricultural lending platform with AI-powered risk assessment, tech stack (Node.js, React, etc.), impact metrics, and links.
+
+* **VibeCoder**: AI-powered development platform with multi-AI orchestration, VibeCoding methodology, key features, tech stack, and links.
+
+* **AgentMinder**: Enterprise AI agent management platform with business impact, technical architecture (frontend, backend, AI integration), about section, and contact info.
+
+* **GiDanc AI LLC**: Enterprise AI automation, validation and compliance platform providing AI automation solutions and continuous testing across ethical, moral, and regulatory dimensions to prove AI systems work reliably over time. __https://www.gidanc.ai__
+
+* **Mythical Man Year in One Day**: AI-accelerated development initiative proving one developer with AI orchestration can accomplish what traditionally requires teams and months. Includes two complete site migrations (Proyect Paella culinary platform + Investigative Resources professional services) from Wix to Vercel in under 4 hours total, demonstrating paradigm shift in development velocity and validating the thesis that AI-assisted development fundamentally transforms traditional software economics. [Proyect Paella](https://proyectpaella.com) | [IROFWI](https://irofwi.vercel.app)
 
 ## 3. Papers
 
