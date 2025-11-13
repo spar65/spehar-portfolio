@@ -24,7 +24,8 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 - **Strategic Consulting (2006-2014):** Delivered $20M+ savings for Kaiser Permanente, managed $800M Yahoo acquisition integration, rescued $1.2B foundation's stalled SAAS project
 
 ---
-##2. Projects
+
+## 2. Projects
 
 https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md
 
