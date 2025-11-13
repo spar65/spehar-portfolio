@@ -24,7 +24,8 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 - **Strategic Consulting (2006-2014):** Delivered $20M+ savings for Kaiser Permanente, managed $800M Yahoo acquisition integration, rescued $1.2B foundation's stalled SAAS project
 
 ---
-2. Projects
+##2. Projects
+
 __https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md__
 
 Description: This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact. This will result in new methods for managing work and new skills management for development of software as well as new methods for deploying and managing agents.
