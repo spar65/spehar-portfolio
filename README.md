@@ -26,7 +26,7 @@ https://github.com/spar65/spehar-portfolio/blob/main/README-Leadership.md
 ---
 ##2. Projects
 
-__https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md__
+https://github.com/spar65/spehar-portfolio/blob/main/README-Projects.md
 
 Description: This page showcases Greg Spehar's AI solutions portfolio, highlighting expertise in AI development, enterprise integration, and project management, with a focus on flagship enterprise solutions that deliver efficiency gains and business impact. This will result in new methods for managing work and new skills management for development of software as well as new methods for deploying and managing agents.
 
