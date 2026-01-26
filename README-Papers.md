@@ -14,7 +14,9 @@ This framework addresses data governance challenges for AI systems in multi-ente
 
 **Download:** TBD
 
-***IEEE-ICCA Posting:*** https://edas.info/showPaper.php?m=1571225187
+***IEEE-ICCA Paper:*** https://edas.info/showPaper.php?m=1571225187
+
+***IEEE-ICCA 2025 Program:*** https://img1.wsimg.com/blobby/go/0e61ebf1-6b17-4866-952c-20b4e0251845/downloads/432c8c34-07be-4695-9ac2-478992007dd4/FinaProgram-V7December23.pdf?ver=1769450189142 (NOTE: Search for Spehar)
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
