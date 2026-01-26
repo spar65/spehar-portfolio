@@ -18,6 +18,8 @@ This framework addresses data governance challenges for AI systems in multi-ente
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
+**ORCID:*** https://orcid.org/0009-0001-6502-0737 (Still setting up, so there is nothing here at this time.)
+
 ### 2. AI-Ready Data Governance: A Federated Operating Model for Mid-Sized Companies
 
 Version 1.1, Copyright ©2025
