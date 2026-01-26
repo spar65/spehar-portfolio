@@ -4,8 +4,6 @@
 
 I contribute to the field of AI-assisted development through rigorous academic research that bridges theoretical foundations with practical implementation. My work focuses on establishing systematic frameworks for understanding and optimizing the integration of AI tools in software development workflows.
 
-https://orcid.org/0009-0001-6502-0737
-
 ### 1. AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration
 
 Version 1.0, Copyright ©2025
@@ -15,6 +13,8 @@ This framework addresses data governance challenges for AI systems in multi-ente
 **Key Contribution:** Establishes the first comprehensive five-pillar framework specifically designed for federated AI governance in multi-enterprise financial services environments, where proper data management determines whether AI systems enhance or destroy value.
 
 **Download:** TBD
+
+***IEEE-ICCA Posting:*** https://edas.info/showPaper.php?m=1571225187
 
 **Related Blog Post:** https://www.myvibecoder.us/blog/feeding-the-dragons
 
