@@ -12,7 +12,7 @@ This framework addresses data governance challenges for AI systems in multi-ente
 
 **Key Contribution:** Establishes the first comprehensive five-pillar framework specifically designed for federated AI governance in multi-enterprise financial services environments, where proper data management determines whether AI systems enhance or destroy value.
 
-**Download:** TBD
+**Download:** https://ieeexplore.ieee.org/document/11430845
 
 ***IEEE-ICCA Paper:*** https://edas.info/showPaper.php?m=1571225187
 
