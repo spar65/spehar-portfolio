@@ -154,8 +154,8 @@ Eight total inventions covering runtime behavioral governance, multi-agent asses
 
 ## Published Research
 
-* **2 IEEE Papers (2026)** on AI governance and runtime behavioral assessment
-* **5+ Academic Papers** on AI-assisted development and low-code orchestration
+* **3 IEEE Papers (2025 & 2026)** on AI governance and runtime behavioral assessment
+* **4+ Academic Papers** on AI-assisted development and low-code orchestration
 * **237,000+ lines** of production code with documented reliability metrics
 * **75% reduction** in MVP development time through validated methodologies
 
@@ -166,7 +166,7 @@ Eight total inventions covering runtime behavioral governance, multi-agent asses
 * **$50M+** Total value delivered across organizations
 * **17 years** Technology leadership experience
 * **3** USPTO provisional patents covering 8 inventions
-* **2** IEEE papers (2026)
+* **3** IEEE papers (2025 & 2026)
 * **30+** Production AI agents deployed
 * **96.5%** Test automation success rate
 * **50-90%** Development time reduction through AI integration
