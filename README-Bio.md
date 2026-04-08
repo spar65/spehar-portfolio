@@ -2,64 +2,58 @@
 
 ## Executive Bio (Full Version - 250 words)
 
-Greg Spehar is the Founder and President of GiDanc AI LLC and creator of VIBEcoder™, an innovative AI-driven coding assistant with an enterprise rule-management system (ERMS) that reduces MVP development time by 50-90% while ensuring security compliance and eliminating technical debt. Greg is also a MindStudio Certified AI Expert that will be able to generate Agents quickly for you and be able to integrate the agents into a interface that is customized for you. Greg brings over 20+ years of experience leading global teams and delivering transformative technology solutions across aerospace, fintech, health-tech, and enterprise sectors.
+Greg Spehar is the Founder and President of GiDanc AI LLC, building **AI Assess Tech** — the runtime behavioral governance and assessment platform for deployed AI systems. AI Assess Tech measures AI behavior across four dimensions — Lying, Cheating, Stealing, and Harm (LCSH) — using a 120-question psychometric framework with cryptographically verified results anchored to Ethereum, solving the "Competent Psychopath" problem of AI that executes tasks efficiently while making unfair or harmful decisions invisibly. Greg is the sole inventor on three USPTO provisional patent applications covering eight inventions assigned to GiDanc AI LLC.
 
-Currently serving as Senior Program Manager at Farm Credit Bank of Texas, Greg has generated over $3+ million in value through improved processes and risk mitigation over the past seven years. His expertise spans AI automation, compliance governance, and process architecture, with credentials including MBA, PMP, PMI-ACP, DASM, and Six Sigma Black Belt.
+Greg's research has produced two IEEE papers in 2026: *"Yellow Brick Road to AGI"* (co-authored with Akshay Mittal of the University of the Cumberlands, accepted to conference) and *"Responsible AI Horizons: A Multi-Dimensional Framework"* (under revision). He is also a MindStudio Certified AI Expert (Level 3) and creator of VIBEcoder™, an AI-driven coding assistant that reduces MVP development time by 50-90%.
 
-Greg's career highlights include salvaging and growing an HP account from $300K to $1.5M annually, building agile frameworks that increased project delivery speed by 50%, and leading multiple $10M+ technology integrations. His NASA-trained systems thinking approach consistently delivers 3-4× ROI through strategic innovation and operational excellence.
+With 30+ years of experience leading global teams across aerospace, fintech, health-tech, and enterprise sectors, Greg brings credentials including MBA from UT Austin McCombs, PMP, PMI-ACP, DASM, and Six Sigma Black Belt. Currently serving as Senior Program Manager at Farm Credit Bank of Texas, Greg has generated over $30M+ in value and is transitioning to full-time entrepreneurship in 2026. Career highlights include managing $800M acquisition integrations, $20M+ Kaiser cost savings, and $12M+ technology integrations.
 
-After 15 years refining the intersection between technology and human decision-making, Greg launched VIBEcoder to help developers and startups ship faster, cleaner, and safer code. The platform embeds his invented "Behavioral-Turing" test for AI quality directly into the development workflow, ensuring every AI-generated response meets enterprise business direction, security and regulatory standards.
-
-Outside technology, Greg builds family memories by traveling and sharing cultural experiences worldwide with his family.
+Greg's NASA-trained systems thinking approach — first sharpened modeling Space Station integration risks at McDonnell Douglas — now drives the architecture of runtime AI governance. Outside technology, Greg builds family memories traveling and sharing cultural experiences worldwide.
 
 ## Short Bio (100+ words)
 
-Greg Spehar is Founder & President of GiDanc AI LLC and creator of VIBEcoder™, an AI-driven coding platform that cuts MVP development time by 50-90% while ensuring enterprise security. A MindStudio Certified AI Expert with 20+ years leading global technology teams, Greg combines technical expertise (MBA, PMP, ACP, Six Sigma Black Belt) with proven results—generating $3M+ in value at Farm Credit Bank of Texas. His experience spans aerospace, fintech, and health-tech, consistently delivering 3-4× ROI through AI automation, compliance frameworks, and process architecture. Greg's mission: democratize AI-powered development while maintaining enterprise-grade business goals, security and compliance.
+Greg Spehar is Founder & President of GiDanc AI LLC, building **AI Assess Tech** — the runtime behavioral governance platform that measures deployed AI across Lying, Cheating, Stealing, and Harm (LCSH) with cryptographically verified results anchored to Ethereum. Greg is the sole inventor on three USPTO provisional patent applications covering eight inventions, and authored two IEEE papers in 2026 on AI governance and the path to AGI. A MindStudio Certified AI Expert with 30+ years leading global technology teams across aerospace, fintech, and health-tech, Greg combines technical expertise (MBA, PMP, ACP, Six Sigma Black Belt) with proven results. His mission: prove deployed AI behaves the way you say it does.
 
 ## LinkedIn Summary Bio (150 words)
 
-Founder & President of GiDanc AI LLC | Creator of VIBEcoder™ | MindStudio Certified AI Expert
+Founder & President of GiDanc AI LLC | Building AI Assess Tech | 3 USPTO Patents | IEEE Author | MindStudio Certified AI Expert
 
-I'm Greg Spehar—building the future of AI-driven development. After 15 years perfecting the balance between technology and human decision-making, I created VIBEcoder™ to help teams ship production-ready code 50-90% faster without sacrificing security or compliance.
+I'm Greg Spehar, building **AI Assess Tech** — the runtime behavioral governance platform that measures deployed AI behavior across Lying, Cheating, Stealing, and Harm (LCSH) with cryptographically verified evidence anchored to Ethereum. We solve the "Competent Psychopath" problem: AI that executes tasks efficiently while making unfair or harmful decisions invisibly.
 
-Currently driving $3M+ in value as Senior Program Manager at Farm Credit Bank of Texas while bootstrapping GiDanc AI. My toolkit: AI automation, enterprise compliance frameworks, and 20+ years leading global teams across aerospace, fintech, and health-tech sectors.
+Sole inventor on three USPTO provisional patent applications covering eight inventions. Two IEEE papers in 2026: *"Yellow Brick Road to AGI"* (with Akshay Mittal) and *"Responsible AI Horizons."*
 
-Credentials that matter: MBA, PMP, PMI-ACP, DASM, Six Sigma Black Belt, MindStudio Certification (2024, 2025).
+30+ years leading global teams across aerospace, fintech, and health-tech. Credentials: MBA (UT Austin McCombs), PMP, PMI-ACP, DASM, Six Sigma Black Belt, MindStudio L3 Certified.
 
-Core philosophy: Integrity drives transparency. Compassion enables innovation. Performance means 3-4× ROI.
-
-Currently onboarding alpha users for VIBEcoder—let's connect if you're ready to revolutionize your development workflow while maintaining enterprise-grade security.
+Currently driving $30M+ in value at Farm Credit Bank of Texas while scaling AI Assess Tech to investor readiness in 2026. Let's connect if you need to *prove* your deployed AI behaves the way you say it does.
 
 ## Speaking Engagement Bio (75 words)
 
-Greg Spehar, Founder of GiDanc AI and creator of VIBEcoder™, is a recognized AI innovation leader and MindStudio Certified Expert. With 20+ years transforming enterprise technology at organizations from NASA to HP, Greg pioneered AI-driven development frameworks that reduce build time by 50-90% while ensuring compliance. His expertise in AI governance, enterprise architecture, and agile transformation has generated $3M+ in documented value. Greg holds an MBA from UT Austin, PMP, and Six Sigma Black Belt certifications.
+Greg Spehar is Founder of GiDanc AI LLC, building AI Assess Tech — the runtime behavioral governance platform that measures deployed AI across Lying, Cheating, Stealing, and Harm (LCSH) with Ethereum-anchored evidence. Sole inventor on three USPTO provisional patents covering eight inventions, and author of two IEEE papers in 2026 on AI governance and AGI. A MindStudio Certified AI Expert with 30+ years across aerospace, fintech, and health-tech. MBA, PMP, Six Sigma Black Belt.
 
 ## Conference/Panel Bio (50+ words)
 
-Greg Spehar founded GiDanc AI to democratize AI-powered development through VIBEcoder™, reducing MVP timelines by 90%. A MindStudio Certified AI Expert with 20+ years in enterprise technology, he's generated $3M+ value through AI automation and compliance frameworks. Greg holds MBA, PMP, ACP, and Six Sigma Black Belt certifications.
+Greg Spehar founded GiDanc AI LLC to build AI Assess Tech, the runtime behavioral governance platform that proves deployed AI behaves as promised. Sole inventor on three USPTO provisional patents (eight inventions) and author of two IEEE papers in 2026. MindStudio L3 Certified AI Expert with 30+ years in enterprise technology. MBA, PMP, ACP, Six Sigma Black Belt.
 
 ## One-Liner Bio
 
-AI innovation leader, founder of VIBEcoder™, and MindStudio Certified Expert transforming how startups and enterprises build secure, compliant software 10× faster.
+Founder of AI Assess Tech, building runtime behavioral governance for deployed AI — three USPTO patents, two IEEE papers (2026), and a mission to prove AI behaves the way you say it does.
 
 ## Technical/Developer Community Bio (125 words)
 
-Greg Spehar is solving the developer productivity crisis with VIBEcoder™—an AI coding assistant that goes beyond generation to enforce enterprise security and compliance in real-time. As Founder of GiDanc AI and MindStudio Certified AI Expert, Greg architected a micro-service platform (Python + Node) that integrates static analysis, security scanning, and ERMS rules directly into IDEs like Cursor.
+Greg Spehar is solving the AI governance crisis with **AI Assess Tech** — the runtime behavioral governance platform that measures deployed AI across Lying, Cheating, Stealing, and Harm (LCSH) using a 120-question psychometric framework, with results anchored to Ethereum via SHA-256 hash chains. As Founder of GiDanc AI LLC, Greg architected a six-agent runtime governance fleet (Jessie, Nole, Grillo, Noah, Sam, Mighty Mark) under constitutional separation of powers, with TypeScript and Python SDKs published.
 
-With 20+ years process architecting solutions for NASA, HP, Intel, and Fortune 500 companies, Greg brings deep expertise in AI governance, RPA automation, and distributed systems. His "Behavioral-Turing" test for AI code quality is being embedded into VIBEcoder's core, ensuring every AI-generated line meets production standards and safety standards.
-
-Currently at Farm Credit Bank of Texas driving $3M+ in automation value while launching VIBEcoder's alpha. Open to connecting with developers ready to ship faster without compromising on quality.
+Sole inventor on three USPTO provisional patent applications covering eight inventions. Two IEEE papers in 2026 on AI governance and AGI. With 30+ years architecting systems for NASA, HP, Intel, and Fortune 500 companies, Greg brings deep expertise in runtime AI assessment, multi-agent architectures, and distributed systems. Open to connecting with developers building trustworthy AI.
 
 ---
 
 ## Usage Guidelines
 
-- **Executive Bio**: Board presentations, investor pitches, formal proposals
-- **Short Bio**: Email signatures, brief introductions, social media profiles  
-- **LinkedIn Summary**: LinkedIn profile optimization
-- **Speaking Bio**: Conference submissions, speaking proposals
-- **Panel Bio**: Event programs, panel introductions
-- **One-Liner**: Twitter/X bio, quick introductions
-- **Technical Bio**: Developer communities, technical conferences, GitHub profile
+* **Executive Bio**: Board presentations, investor pitches, formal proposals
+* **Short Bio**: Email signatures, brief introductions, social media profiles
+* **LinkedIn Summary**: LinkedIn profile optimization
+* **Speaking Bio**: Conference submissions, speaking proposals
+* **Panel Bio**: Event programs, panel introductions
+* **One-Liner**: Twitter/X bio, quick introductions
+* **Technical Bio**: Developer communities, technical conferences, GitHub profile
 
-*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
+*© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
