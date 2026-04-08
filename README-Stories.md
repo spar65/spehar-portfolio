@@ -1,58 +1,74 @@
 # Leadership Stories & Career Milestones
+
 ## Greg Spehar's Journey of Innovation and Impact
+
 ---
 
 ## Synthesis: A Pattern of Transformation
+
 Looking across these stories, a clear pattern emerges in Greg's leadership approach:
-1. **See the Invisible Problem:** Whether incompatible Space Station connectors, suppressed cultural strengths in Vietnam, or ethical risks in unchecked AI development.
-2. **Design Systemic Solutions:** Not band-aids but fundamental restructuring—from parallel migration systems to autonomous pod structures, and now to comprehensive AI guidance frameworks.
-3. **Build Trust Through Co-Creation:** From doctors designing their own algorithms to Vietnamese teams owning their metrics, and developers collaborating with ethical AI tools.
-4. **Scale Through Evangelism:** From training the world on Java to spreading Agile across 15,000 engineers, and evangelizing Guidance AI™ for responsible innovation.
-5. **Measure in Multiples:** Consistently delivering 3-4× returns, whether in dollars saved, speed increased, or scale achieved—now amplified through AI-driven productivity boosts.
-This pattern culminates in Gidanc AI and its flagship product, MyVibeCoder—where all these lessons merge into a platform that transforms how software is created, guided by ethical, moral, and virtuous AI principles to ensure human safety and sustainable progress.
+
+1. **See the Invisible Problem:** Whether incompatible Space Station connectors, suppressed cultural strengths in Vietnam, ethical risks in unchecked AI development, or — most recently — the "Competent Psychopath" inside deployed AI systems that pass every benchmark but quietly harm the people they decide for.
+2. **Design Systemic Solutions:** Not band-aids but fundamental restructuring—from parallel migration systems to autonomous pod structures, to runtime behavioral governance fleets with constitutional separation of powers.
+3. **Build Trust Through Co-Creation:** From doctors designing their own algorithms to Vietnamese teams owning their metrics, to enterprise compliance teams co-authoring Level 4 operational excellence questions inside AI Assess Tech.
+4. **Scale Through Evangelism:** From training the world on Java to spreading Agile across 15,000 engineers, to evangelizing runtime behavioral assessment as the missing layer between today's AI and a trustworthy AGI.
+5. **Measure in Multiples:** Consistently delivering 3-4× returns, whether in dollars saved, speed increased, or scale achieved—now measured cryptographically and anchored to Ethereum for evidence that survives audit.
+
+This pattern culminates in **AI Assess Tech**, where every prior lesson — systems modeling from the Space Station, co-creation from Kaiser, cultural humility from Vietnam, parallel-universe migration from OCF, governance discipline from Farm Credit Bank — converges into a single platform that proves deployed AI behaves the way you say it does.
 
 ---
 
-## 2024-Present: Founding Gidanc AI – Pioneering Ethical AI Guidance for Real-World Results
-### Gidanc AI LLC - Founder and Process Architect
-**The Challenge:** In an era of rapid AI adoption, organizations face ethical misalignments, inefficient coding workflows, security vulnerabilities, and technical debt from unchecked AI tools—risking harm, non-compliance, and wasted resources in critical sectors like healthcare, aerospace, and finance.
+## 2024-Present: Founding AI Assess Tech – Making Deployed AI Prove Itself
+
+### GiDanc AI LLC — Founder & President | AI Assess Tech — Inventor & Chief Architect
+
+**The Challenge:** Every regulated enterprise on earth is now deploying AI into decisions that affect people's loans, medical care, insurance claims, hiring outcomes, and legal exposure. None of them can prove, after deployment, that their AI is actually behaving the way their compliance documents say it does. Training-time alignment doesn't help once the model is running in production with real prompts, real context, and real pressure. The result is an entire generation of AI systems that look correct on the dashboard but quietly drift into unfair, dishonest, or harmful behavior — what we named the **"Competent Psychopath"** problem.
 
 **The Story:**
-Drawing on over 30 years of orchestrating complex transformations—from space station simulations to multi-billion-dollar migrations—Greg Spehar founded Gidanc AI in 2024 to address the "wild west" of AI development. With collective team experience exceeding 60 years in the tech sector, Gidanc AI was built on the premise of "Results As A Service (RAAS)"—delivering affordable, impactful solutions that minimize risks and maximize value.
+By late 2024, after a decade building VibeCoder, evangelizing AI agents through MindStudio, and watching enterprise after enterprise at Farm Credit Bank of Texas wrestle with the same governance gap, Greg recognized that the missing piece wasn't another model, another agent, or another framework. It was *evidence*. Specifically: cryptographically verifiable, runtime, behavioral evidence that an AI system in production was still behaving the way its operators promised it would.
 
-At its core is Guidance AI™, a trademarked framework that ensures AI systems are compliant, ethical, moral, and virtuous. Inspired by Greg's career-long focus on systemic excellence, this evolved into the "Ethical Horizons" system, detailed in a foundational proposal that outlines a comprehensive AI guidance architecture. As of 2025, Gidanc AI has certified as an AI Expert (Level 3) by MindStudio.ai and is field-testing models that could revolutionize AI reliability with 2x-3x impacts.
-
-The company's flagship, MyVibeCoder.us, embodies this vision: an AI-driven platform that accelerates coding while embedding ethical safeguards. It tackles real-world pain points like bloated AI-generated code, vulnerability risks, and inconsistent standards, turning them into opportunities for faster, safer innovation.
+So Greg founded AI Assess Tech as the flagship product of GiDanc AI LLC and built it from first principles — drawing on 30+ years of patterns from systems modeling, parallel-universe migrations, hierarchical testing, and Agile transformation. The result is something the AI industry has never had: a runtime behavioral governance and assessment platform that measures deployed AI across four dimensions — **Lying, Cheating, Stealing, and Harm (LCSH)** — using a 120-question forced-choice psychometric framework, then anchors the results to the Ethereum blockchain via SHA-256 hash chains so the evidence cannot be quietly rewritten after the fact.
 
 **The Innovation:**
-Greg applied lessons from past transformations to create:
-- **Guidance AI™ Framework:** Automates AI self-direction with sanity checks, 4-dimensional mappings, and real-time evaluations to align decisions with human values.
-- **Ethical Horizons System:** A proposal for integrating morality (e.g., preventing harm via 120-question assessments), virtue (four models for contextual behavior), ethics (universal and domain-specific alignments), and operational excellence (custom scenarios for sectors like healthcare).
-- **MyVibeCoder Platform:** Combines VIBE Coding for rapid MVP development (under a month), automated code cleanup, security scans (detecting SQL injections, XSS), and the Enterprise Rules Management System (ERMS) for centralized standards enforcement.
-- **Methodologies:** Questionnaire batteries (960+ questions scored 0-10), temporal evaluations, continuous learning from rejected responses, and validations across models (Generalized Correlation, Ethical, Moral, Virtue)—with effort estimates of 40-100 hours per model and revolutionary impact scores of 12-13. Paper: [Here](https://41d75c07-1d6c-4417-b21c-f5ceea6d5726.usrfiles.com/ugd/41d75c_fff13861bd8c4cc78777cd83966c41b6.pdf).
+Greg invented and architected the entire system as sole inventor on **three USPTO provisional patent applications covering eight inventions** (63/949,454; 63/985,442; 63/988,410), including:
 
-This isn't just tools; it's a cultural shift, much like Greg's Agile revolutions, ensuring AI doesn't create chaos but builds trust through governance from the start.
+* **The LCSH Behavioral Assessment Framework** — a 120-question forced-choice instrument with four answer options each, mapped to four behavioral archetypes (Well-Adjusted, Psychopath, Misguided, Manipulative). Validity is established not by claiming the model "feels" emotions, but by measuring behavioral tendencies and the *delta* between configurations.
+* **The Four-Level Assessment Hierarchy** — Level 1 (Morality / LCSH), Level 2 (Virtue), Level 3 (Ethics), Level 4 (Operational Excellence, customer-authored). This is the sales motion: land on Morality, expand to Virtue and Ethics, lock in with Operational Excellence questions only the customer can write.
+* **The Six-Agent Runtime Governance Fleet** — Jessie (Commander), Nole (Operator / Trust Evangelist), Grillo (Conscience / LCSH assessor), Noah (Navigator / temporal authority), Sam (Engineer), and Mighty Mark (Sentinel / Inspector General). Each agent has a constitutional role and cannot be overridden by the others — what the patents call **Constitutional Separation of Powers**, including the "Survival Paradox" where Mighty Mark must retain independent scheduling to remain a real Inspector General rather than a captured one.
+* **Context-Loaded Assessment** — assessing AI agents with their full operational context active (system prompts, knowledge files, tools), not bare base models, producing a Context Configuration Fingerprint. Anyone can test a model in a vacuum; AI Assess Tech tests the model in the configuration that is actually deployed.
+* **Cryptographic Integrity** — every assessment outcome is hashed into a SHA-256 chain and anchored to Ethereum mainnet, so the evidence is tamper-evident and externally verifiable.
+
+Alongside the platform, Greg co-authored **two IEEE papers (2026)** establishing the academic foundation:
+
+* *"Yellow Brick Road to AGI"* — co-authored with Akshay Mittal of the University of the Cumberlands, accepted to conference, presenting remotely.
+* *"Responsible AI Horizons: A Multi-Dimensional Framework"* — under revision with reviewer feedback addressed.
 
 **The Impact:**
-- **Productivity Multiplier:** Enables 2x-3x faster development with reduced technical debt and risks, as validated in early pilots.
-- **Ethical Safeguards:** Ensures AI compliance in high-stakes domains, protecting billions in assets and human safety—echoing Greg's $2B migration successes.
-- **Industry Adoption:** Partnerships like MindStudio.ai and models ready for healthcare/aerospace, positioning Gidanc AI as a standard-setter.
-- **Scalable Value:** From free assessments to enterprise deployments, delivering RAAS with compound savings, much like the $3M+ created at Farm Credit.
-- **Broader Vision:** Expanding to agriculture and beyond, with a $1.5M proposal framework for two-year development, fostering a future where AI is "good to great."
+
+* **Patent Portfolio:** 3 USPTO provisional applications, 8 inventions, non-provisional conversion deadline December 2026
+* **A New Category, Named:** The "Competent Psychopath" problem now has a name, and the runtime-vs-training-time distinction is the platform's defensible moat — no competitor combines runtime behavioral assessment, flight-plan trajectory monitoring, ethical dead-reckoning, constitutional separation of temporal authority, and hash-chain-verified integrity with Ethereum anchoring
+* **The Five-Minute Close:** Live behavioral assessment using a prospect's own system prompt — the anchor sales tactic, designed for insurance, financial services, and other regulated verticals where fleet-level bias drift is the flagship risk scenario
+* **Operational Fleet Deployed:** Six named agents running on a Hetzner VPS with OpenClaw gateway, TypeScript and Python SDKs published, Ethereum anchoring live
+* **Full-Time Transition:** Greg is transitioning from his Senior Program Manager role at Farm Credit Bank of Texas to full-time entrepreneurship in 2026 to scale AI Assess Tech and prepare for investor readiness
 
 **Leadership Lessons:**
-- Leveraged a lifetime of patterns to found a company that solves AI's ethical blind spots systematically.
-- Proved that innovation in AI requires blending technical prowess with moral guidance to avoid "expensive failures."
-- Built a platform where automation creates more automation—ethically—freeing creators for strategic work.
-- Demonstrated that independent visionaries can outpace big firms in defining responsible AI.
+
+* Saw that the AI industry was solving the wrong problem (training-time alignment) and named the right one (runtime behavioral evidence)
+* Designed a constitutional architecture where governance cannot be silently captured by the system it governs
+* Treated patents not as legal trophies but as architectural constraints — the separation of powers among Grillo, Mighty Mark, and the rest of the fleet is enforced by the patent claims themselves
+* Built on every prior chapter: systems modeling from McDonnell Douglas, co-creation from Kaiser, parallel-universe migration discipline from OCF, hierarchical orchestration from BCBS, RPA + Agile rigor from Farm Credit Bank
 
 **The Bigger Picture:**
-Gidanc AI represents the evolution of Greg's career: from modeling space risks to guiding AI horizons. It applies hard-won lessons—from co-creation in healthcare algorithms to cultural bridges in Vietnam—to ensure AI amplifies human potential without compromise. Ready to engage? Contact us for a free assessment at [gidanc.com](https://www.gidanc.com/) or follow on [X](https://x.com/GoodGiDanc).
+AI Assess Tech is the convergence of Greg's career. Every earlier story was a rehearsal: the Space Station revealed how integrated systems hide catastrophic flaws until they're modeled together. Kaiser revealed how governance only works when its subjects co-create it. OCF revealed how to migrate something nobody can afford to break. Vietnam revealed how to scale a method by giving teams ownership. Farm Credit Bank revealed how to embed automation inside a conservative, regulated culture without breaking it. AI Assess Tech takes all of those lessons and applies them to the most important problem of the decade: making sure the AI making decisions about people is actually behaving the way it claims to be.
+
+[Visit AI Assess Tech](https://aiassesstech.com) | [Visit GiDanc AI](https://gidanc.ai) | [Contact: greg@gidanc.ai](mailto:greg@gidanc.ai)
 
 ---
 
 ## 2020-Present: The $3+ Million Agile Revolution at Farm Credit Bank
+
 ### Farm Credit Bank of Texas - Senior Program Manager
+
 **The Challenge:** Transform a traditional financial institution's technology operations while managing critical data migrations, implementing enterprise-wide Agile, and building automation capabilities from scratch.
 
 **The Story:**
@@ -61,52 +77,64 @@ When Greg joined Farm Credit Bank of Texas in 2018, he walked into a perfect sto
 Greg didn't just manage projects—he orchestrated a complete organizational metamorphosis across four revolutionary fronts:
 
 **The Three-Front Transformation:**
+
 ### Front 1: The Data Democracy Revolution
+
 Greg worked with the teams to provide the process and Agile tools to implementation of three game-changing platforms:
-- **ThoughtSpot:** Democratized data analytics, allowing non-technical staff to query billion-dollar portfolios in plain English
-- **Databricks:** Unified data lakes and warehouses, breaking down 30-year-old data silos
-- **Reltio:** Created a single source of truth for customer data across 14 affiliated banks
+
+* **ThoughtSpot:** Democratized data analytics, allowing non-technical staff to query billion-dollar portfolios in plain English
+* **Databricks:** Unified data lakes and warehouses, breaking down 30-year-old data silos
+* **Reltio:** Created a single source of truth for customer data across 14 affiliated banks
 
 ### Front 2: The RPA Automation Army
+
 Starting with zero automation infrastructure, Greg built an entire RPA ecosystem:
-- **NonAccrual Loan Conversion:** Automated migration from 1980s mainframe to modern LoanIQ, processing thousands of complex loans without human error
-- **Q2 Provisioning:** Created bots that reduced account setup from hours to minutes
-- **"Mighty Mouse" Network Integrity:** Built an automated guardian system that monitors and reports network issues before humans notice them
+
+* **NonAccrual Loan Conversion:** Automated migration from 1980s mainframe to modern LoanIQ, processing thousands of complex loans without human error
+* **Q2 Provisioning:** Created bots that reduced account setup from hours to minutes
+* **"Mighty Mouse" Network Integrity:** Built an automated guardian system that monitors and reports network issues before humans notice them
+
 The RPA team Greg created didn't just automate tasks—they eliminated entire categories of work, freeing up 4+ FTEs to focus on strategic initiatives rather than repetitive processing.
 
 ### Front 3: The Agile Transformation Tsunami
+
 Greg didn't just implement Agile—he revolutionized how a conservative financial institution thought about change:
-- **Data Management Team Conversion:** Transformed a traditionally waterfall organization into Agile champions, reducing project delivery time by 60%
-- **Enterprise Rollout:** Designed the Agile framework that became FCBT's standard, now used across all technology teams
-- **Cultural Revolution:** Changed the conversation from "when will it be done?" to "what value can we deliver next sprint?"
+
+* **Data Management Team Conversion:** Transformed a traditionally waterfall organization into Agile champions, reducing project delivery time by 60%
+* **Enterprise Rollout:** Designed the Agile framework that became FCBT's standard, now used across all technology teams
+* **Cultural Revolution:** Changed the conversation from "when will it be done?" to "what value can we deliver next sprint?"
 
 **The Innovation:**
 Greg's masterpiece was recognizing that technology transformation without cultural transformation equals expensive failure. He didn't just implement tools—he built believers:
-- **Show, Don't Tell:** Every RPA bot demonstrated value within 2 weeks of conception
-- **Incremental Revolution:** Transformed the organization in digestible sprints rather than traumatic reorganizations
-- **Success Evangelism:** Turned early adopters into internal champions who recruited their peers
+
+* **Show, Don't Tell:** Every RPA bot demonstrated value within 2 weeks of conception
+* **Incremental Revolution:** Transformed the organization in digestible sprints rather than traumatic reorganizations
+* **Success Evangelism:** Turned early adopters into internal champions who recruited their peers
 
 **The Impact:**
-- **$3M+ Value Created:** Through improved processes, eliminated waste, and mitigated risks over 4 years
-- **$12M Integration Success:** Prevented 6-month stall on Board-mandated cloud migration for 12 banks
-- **$2M+ Annual Savings:** From RPA automation alone, with compound savings growing yearly
-- **Cultural Transformation:** Converted a risk-averse organization into innovation champions
-- **Template for Industry:** FCBT's transformation model now studied by other Farm Credit banks
-  
+
+* **$3M+ Value Created:** Through improved processes, eliminated waste, and mitigated risks over 4 years
+* **$12M Integration Success:** Prevented 6-month stall on Board-mandated cloud migration for 12 banks
+* **$2M+ Annual Savings:** From RPA automation alone, with compound savings growing yearly
+* **Cultural Transformation:** Converted a risk-averse organization into innovation champions
+* **Template for Industry:** FCBT's transformation model now studied by other Farm Credit banks
+
 **Leadership Lessons:**
-- Orchestrated parallel transformations that reinforced rather than distracted from each other
-- Proved that conservative financial institutions could innovate as fast as startups
-- Demonstrated that sustainable change requires both technical excellence and cultural evolution
-- Built systems that improved themselves—automation that creates more automation
-  
+
+* Orchestrated parallel transformations that reinforced rather than distracted from each other
+* Proved that conservative financial institutions could innovate as fast as startups
+* Demonstrated that sustainable change requires both technical excellence and cultural evolution
+* Built systems that improved themselves—automation that creates more automation
+
 **The Bigger Picture:**
-While delivering this transformation at FCBT, Greg was simultaneously building VIBEcoder—applying these same lessons to revolutionize how all software is created. The RPA experience showed him that automation without governance creates chaos. The Agile transformation proved that process without tools fails. The data management journey revealed that complexity without simplification becomes unusable.
-All these insights crystallized into VIBEcoder's vision: AI that writes code faster, but with enterprise-grade governance built in from the start.
+The RPA experience showed Greg that automation without governance creates chaos. The Agile transformation proved that process without tools fails. The data management journey revealed that complexity without simplification becomes unusable. All these insights crystallized into AI Assess Tech's vision: AI governance with cryptographic evidence built in from the start.
 
 ---
 
 ## 2014-2018: The Vietnam Method That Transformed 15,000 Engineers
+
 ### CorSource Technology Group - Director of Offshore Development
+
 **The Challenge:** Scale a project management methodology across 70 offshore developers, then expand it to 15,000+ engineers across Vietnam's tech sector.
 
 **The Story:**
@@ -115,27 +143,33 @@ The conventional wisdom said offshore teams needed more oversight, more document
 
 **The Innovation:**
 Over three months in Vietnam, Greg developed what became known as the "CorSource Method":
-- **Cultural Bridge Framework:** Integrated Vietnamese work culture strengths (dedication, detail-orientation) with Agile principles, rather than forcing Western methodologies
-- **Autonomous Pods:** Reorganized 70 developers into self-managing units of 8-10, with rotating leadership roles that built management skills
-- **Trust Metrics:** Replaced micromanagement with transparent performance dashboards that teams owned themselves
-- **Reverse Mentoring:** Had Vietnamese developers teach American managers about their problem-solving approaches
+
+* **Cultural Bridge Framework:** Integrated Vietnamese work culture strengths (dedication, detail-orientation) with Agile principles, rather than forcing Western methodologies
+* **Autonomous Pods:** Reorganized 70 developers into self-managing units of 8-10, with rotating leadership roles that built management skills
+* **Trust Metrics:** Replaced micromanagement with transparent performance dashboards that teams owned themselves
+* **Reverse Mentoring:** Had Vietnamese developers teach American managers about their problem-solving approaches
+
 The transformation was so dramatic that FCT Software—Vietnam's largest software company with 15,000+ engineers—sent executives to study Greg's approach. Within six months, they were rolling out adapted versions across their entire organization.
 
 **The Impact:**
-- **5,000→15,000 Scale:** Methodology expanded from Greg's 70 developers to 15,000+ engineers industry-wide
-- **50% Faster Delivery:** Projects that previously took 6 months were shipping in 3
-- **HP Account Explosion:** Grew HP contract from $300K to $1.5M after flying their VP to Vietnam to see the transformed teams
-- **Industry Standard:** The "CorSource Method" became Vietnam's de facto Agile implementation framework
-  
+
+* **5,000→15,000 Scale:** Methodology expanded from Greg's 70 developers to 15,000+ engineers industry-wide
+* **50% Faster Delivery:** Projects that previously took 6 months were shipping in 3
+* **HP Account Explosion:** Grew HP contract from $300K to $1.5M after flying their VP to Vietnam to see the transformed teams
+* **Industry Standard:** The "CorSource Method" became Vietnam's de facto Agile implementation framework
+
 **Leadership Lessons:**
-- Recognized that process excellence requires cultural respect, not colonial imposition
-- Transformed "offshore challenges" into competitive advantages through systematic innovation
-- Built bridges between East and West that created lasting industry change
+
+* Recognized that process excellence requires cultural respect, not colonial imposition
+* Transformed "offshore challenges" into competitive advantages through systematic innovation
+* Built bridges between East and West that created lasting industry change
 
 ---
 
 ## 2009-2011: The $2 Billion Migration Nobody Could Afford to Break
+
 ### Oregon Community Foundation - Independent Contractor
+
 **The Challenge:** Migrate a donation system managing $2 billion in philanthropic assets from legacy infrastructure to web-based platform—without losing a single penny or donor record.
 
 **The Story:**
@@ -144,26 +178,31 @@ The complexity was staggering: multiple stakeholder groups with competing priori
 
 **The Innovation:**
 Greg designed a "parallel universe" migration strategy that previous contractors hadn't considered:
-- **Shadow Operations:** Built the new web-based system to run in parallel with legacy systems for 6 months, processing duplicate transactions to verify accuracy
-- **Stakeholder Choreography:** Created separate migration tracks for each department, with Finance getting specialized payment processing tools while program teams continued normal operations
-- **Zero-Downtime Cutover:** Developed a revolutionary 48-hour migration weekend where $2 billion moved between systems without a minute of service interruption
-- **Triple-Redundancy Validation:** Every transaction verified through three independent methods before legacy system decommission
+
+* **Shadow Operations:** Built the new web-based system to run in parallel with legacy systems for 6 months, processing duplicate transactions to verify accuracy
+* **Stakeholder Choreography:** Created separate migration tracks for each department, with Finance getting specialized payment processing tools while program teams continued normal operations
+* **Zero-Downtime Cutover:** Developed a revolutionary 48-hour migration weekend where $2 billion moved between systems without a minute of service interruption
+* **Triple-Redundancy Validation:** Every transaction verified through three independent methods before legacy system decommission
 
 **The Impact:**
-- **$2 Billion Protected:** Flawless migration of all assets without a single lost transaction or penny
-- **President's Endorsement:** "Every project I've had has been over cost and delayed by months. This was the best program management experience I've ever had." - OCF President
-- **Foundation for Growth:** New system enabled OCF to scale from $2B to over $3B in managed assets
-- **Template for Industry:** Migration methodology adopted by other community foundations nationally
-  
+
+* **$2 Billion Protected:** Flawless migration of all assets without a single lost transaction or penny
+* **President's Endorsement:** "Every project I've had has been over cost and delayed by months. This was the best program management experience I've ever had." - OCF President
+* **Foundation for Growth:** New system enabled OCF to scale from $2B to over $3B in managed assets
+* **Template for Industry:** Migration methodology adopted by other community foundations nationally
+
 **Leadership Lessons:**
-- Managed existential risk through methodical redundancy rather than speed
-- Earned trust by protecting what mattered most: donor confidence and nonprofit funding
-- Proved that independent contractors could deliver better than big consulting firms
+
+* Managed existential risk through methodical redundancy rather than speed
+* Earned trust by protecting what mattered most: donor confidence and nonprofit funding
+* Proved that independent contractors could deliver better than big consulting firms
 
 ---
 
 ## 2007-2008: The Algorithm That Saved Kaiser Millions
+
 ### Point B - Cracking Healthcare's Supply-Demand Code
+
 **The Challenge:** Kaiser Permanente Oregon had a expensive new system but no way to predict patient flow—creating waste, delays, and frustrated members.
 
 **The Story:**
@@ -173,26 +212,31 @@ Management's previous attempts at supply-demand modeling had failed because they
 **The Innovation:**
 Greg took a radical approach: instead of building a model FOR doctors, he would build it WITH them. He assembled 12+ primary care physicians into a working group—not as consultants, but as co-architects.
 Through months of collaborative sessions, Greg translated clinical intuition into mathematical logic:
-- **Physician Logic Mapping:** Converted decades of medical experience into algorithmic decision trees
-- **Transparent Calculations:** Every formula was explainable in clinical terms, not just statistical ones
-- **Feedback Loops:** Real-world results fed back to refine predictions, with doctors validating each adjustment
-- **Adoption Through Ownership:** Because doctors helped build it, they championed it to peers
+
+* **Physician Logic Mapping:** Converted decades of medical experience into algorithmic decision trees
+* **Transparent Calculations:** Every formula was explainable in clinical terms, not just statistical ones
+* **Feedback Loops:** Real-world results fed back to refine predictions, with doctors validating each adjustment
+* **Adoption Through Ownership:** Because doctors helped build it, they championed it to peers
 
 **The Impact:**
-- **$20M+ Saved:** Reduced patient wait times and resource waste through accurate demand prediction
-- **Clinical Buy-in:** First supply-demand model actively used by physicians rather than imposed on them
-- **Scalable Framework:** Model expanded beyond Oregon to other Kaiser regions
-- **Patient Satisfaction:** Reduced wait times and improved care access drove member retention
+
+* **$20M+ Saved:** Reduced patient wait times and resource waste through accurate demand prediction
+* **Clinical Buy-in:** First supply-demand model actively used by physicians rather than imposed on them
+* **Scalable Framework:** Model expanded beyond Oregon to other Kaiser regions
+* **Patient Satisfaction:** Reduced wait times and improved care access drove member retention
 
 **Leadership Lessons:**
-- Recognized that technical excellence without user trust equals failure
-- Transformed skeptical stakeholders into passionate champions through co-creation
-- Proved that complex healthcare problems require both analytical and emotional intelligence
+
+* Recognized that technical excellence without user trust equals failure
+* Transformed skeptical stakeholders into passionate champions through co-creation
+* Proved that complex healthcare problems require both analytical and emotional intelligence
 
 ---
 
 ## 2006-2009: The Testing Miracle at Blue Cross Blue Shield
+
 ### Point B - Orchestrating Controlled Chaos
+
 **The Challenge:** Execute 4,000+ test cases across 400 testers for Regence BCBS's $100M+ Single System Solution—a scale that had broken previous initiatives.
 
 **The Story:**
@@ -201,26 +245,31 @@ Greg recognized the core problem wasn't the volume—it was the orchestration. L
 
 **The Innovation:**
 Greg designed a hierarchical testing framework that transformed chaos into choreography:
-- **Pod Structure:** 400 testers organized into specialized cells of 8-10, each owning specific system domains
-- **Cascade Validation:** Test results flowed up through escalating validation tiers, catching integration issues early
-- **Real-time Dashboard:** Custom tracking system showing test coverage, defect density, and system readiness at a glance
-- **Smart Sequencing:** AI-like algorithm to prioritize test execution based on dependency chains and risk scores
+
+* **Pod Structure:** 400 testers organized into specialized cells of 8-10, each owning specific system domains
+* **Cascade Validation:** Test results flowed up through escalating validation tiers, catching integration issues early
+* **Real-time Dashboard:** Custom tracking system showing test coverage, defect density, and system readiness at a glance
+* **Smart Sequencing:** AI-like algorithm to prioritize test execution based on dependency chains and risk scores
 
 **The Impact:**
-- **6-Month Delay Victory:** While delayed 6 months from original timeline, this was considered a massive win—similar initiatives had failed entirely or gone live with catastrophic defects
-- **Near-Zero Defects:** Go-live achieved with minimal production issues—unprecedented for a system of this scale
-- **$100M+ Investment Protected:** Successful implementation allowed BCBS to realize full ROI across multiple markets
-- **Industry Benchmark:** The testing model became BCBS's template for future implementations
+
+* **6-Month Delay Victory:** While delayed 6 months from original timeline, this was considered a massive win—similar initiatives had failed entirely or gone live with catastrophic defects
+* **Near-Zero Defects:** Go-live achieved with minimal production issues—unprecedented for a system of this scale
+* **$100M+ Investment Protected:** Successful implementation allowed BCBS to realize full ROI across multiple markets
+* **Industry Benchmark:** The testing model became BCBS's template for future implementations
 
 **Leadership Lessons:**
-- Transformed overwhelming complexity into manageable, measurable progress
-- Proved that human-intensive processes could scale with proper orchestration
-- Delivered "impossible" quality at scale through systematic innovation
+
+* Transformed overwhelming complexity into manageable, measurable progress
+* Proved that human-intensive processes could scale with proper orchestration
+* Delivered "impossible" quality at scale through systematic innovation
 
 ---
 
 ## Late 1990s: Building the Internet's First Java App Server
+
 ### GemStone/GemTalk - Before WebSphere Existed
+
 **The Challenge:** Create the world's first production-ready Java application server when Java itself was barely two years old.
 
 **The Story:**
@@ -232,19 +281,23 @@ Greg developed the Java WebServer Training prototype and became GemStone's globa
 The reputation Greg built at GemStone followed him to Nike, where he leveraged this expertise to create Nike's first unified online catalog—seamlessly integrating three historically siloed divisions (Footwear, Apparel, and Equipment) into a single e-commerce experience. This was 1998: before "omnichannel" was a word, Greg was building it.
 
 **The Impact:**
-- **Industry Creation:** Helped establish the Java app server market (now worth $15+ billion annually)
-- **Nike's Digital Revolution:** First unified product catalog laid groundwork for Nike's current $12B+ digital business
-- **Technology Evangelism:** Trained hundreds of developers who would build the early internet
+
+* **Industry Creation:** Helped establish the Java app server market (now worth $15+ billion annually)
+* **Nike's Digital Revolution:** First unified product catalog laid groundwork for Nike's current $12B+ digital business
+* **Technology Evangelism:** Trained hundreds of developers who would build the early internet
 
 **Leadership Lessons:**
-- Evangelized paradigm-shifting technology before the market understood its need
-- Bridged the gap between startup innovation and enterprise adoption
-- Transformed theoretical architecture into practical, trainable solutions
+
+* Evangelized paradigm-shifting technology before the market understood its need
+* Bridged the gap between startup innovation and enterprise adoption
+* Transformed theoretical architecture into practical, trainable solutions
 
 ---
 
 ## Early 1990s: The Space Station Crisis Nobody Knew About
+
 ### McDonnell Douglas/Boeing - Senior Engineering Analyst
+
 **The Challenge:** Model and validate Space Station Freedom's requirements using cutting-edge simulation technology.
 
 **The Story:**
@@ -255,19 +308,23 @@ Months into painstaking modeling, Greg's simulations revealed something alarming
 The incompatibility was subtle—hidden in the interaction of multiple subsystems that individually passed all requirements. Only through Greg's integrated RDD-100 model did the issue surface. Ground testing couldn't replicate the zero-gravity, vacuum, and thermal conditions simultaneously, meaning this flaw would have remained hidden until the first orbital docking attempt.
 
 **The Impact:**
-- **Risk Mitigated:** Potential loss of mission, crew safety hazard, and billions in emergency redesign costs
-- **Invisible Save:** While savings couldn't be calculated (how do you price preventing a space disaster?), the discovery triggered critical design revisions before metal was cut
-- **Technical Validation:** Proved the value of comprehensive systems modeling in complex aerospace projects
-  
+
+* **Risk Mitigated:** Potential loss of mission, crew safety hazard, and billions in emergency redesign costs
+* **Invisible Save:** While savings couldn't be calculated (how do you price preventing a space disaster?), the discovery triggered critical design revisions before metal was cut
+* **Technical Validation:** Proved the value of comprehensive systems modeling in complex aerospace projects
+
 **Leadership Lessons:**
-- Demonstrated courage in escalating "impossible" findings to senior leadership
-- Validated the power of simulation in catching catastrophic integration failures
-- Established reputation for technical rigor that launched a career in complex systems
+
+* Demonstrated courage in escalating "impossible" findings to senior leadership
+* Validated the power of simulation in catching catastrophic integration failures
+* Established reputation for technical rigor that launched a career in complex systems — the same rigor that 30+ years later would become the LCSH framework for catching invisible behavioral failures in deployed AI
 
 ---
 
 ## 1990: The Mars Lander Revolution
+
 ### Purdue University Senior Design Project - Award Winner
+
 **The Challenge:** Design a viable Mars landing vehicle against four competing teams in Purdue's Aerospace Engineering capstone competition.
 
 **The Story:**
@@ -281,10 +338,11 @@ Greg championed a radical departure from convention: a cone-shaped capsule with 
 The team won Purdue's 1990 Senior Design Competition. Their cone-capsule concept preceded NASA's own shift away from winged Mars vehicles—a design philosophy later validated by successful Mars missions including Pathfinder (1997) and Curiosity (2012).
 
 **Leadership Lessons:**
-- Challenged conventional thinking when data contradicted popular assumptions
-- United a randomly assigned team around data-driven decision making
-- Transformed technical conflict into collaborative innovation
+
+* Challenged conventional thinking when data contradicted popular assumptions
+* United a randomly assigned team around data-driven decision making
+* Transformed technical conflict into collaborative innovation
 
 ---
 
-*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
+*© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
