@@ -55,6 +55,7 @@ Flagship Inventory: Core expertise in delivered solutions:
 
 **Published Papers:**
 
+* **"AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration" (2025)** - Comprehensive framework achieving 90%+ data quality scores.
 * **"Generalized Simulation Models: What, Why and How?" (2003)** - Theoretical foundation for reusable, modular simulation models.
 
 **Working Papers:**
@@ -64,7 +65,6 @@ Flagship Inventory: Core expertise in delivered solutions:
 * **"Structured Output Generation in LLMs: A Research Framework and Open Challenges" (2025)** - Systematic research agenda for structured output challenges.
 * **"Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges" (2025)** - Framework for low-code reliability and integration patterns.
 * **"Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis" (2025)** - Transformative framework for enterprise AI integration.
-* **"AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration" (2025)** - Comprehensive framework achieving 90%+ data quality scores.
 * **"AI-Ready Data Governance: A Federated Operating Model for Mid-Sized Companies" (2025)** - MVG approach showing 15-30% operational cost reductions.
 * **"Pillar 1: Standards" (2025)** - Framework reducing AI error rates by 15-30%.
 * **"Pillar 2: Data Catalogue" (2025)** - Implementation achieving 99% reduction in data discovery time.
