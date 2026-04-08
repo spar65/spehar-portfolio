@@ -12,7 +12,7 @@ Greg's NASA-trained systems thinking approach — first sharpened modeling Space
 
 ## Short Bio (100+ words)
 
-Greg Spehar is Founder & President of GiDanc AI LLC, building **AI Assess Tech** — the runtime behavioral governance platform that measures deployed AI across Lying, Cheating, Stealing, and Harm (LCSH) with cryptographically verified results anchored to Ethereum. Greg is the sole inventor on three USPTO provisional patent applications covering eight inventions, and authored two IEEE papers in 2026 on AI governance and the path to AGI. A MindStudio Certified AI Expert with 30+ years leading global technology teams across aerospace, fintech, and health-tech, Greg combines technical expertise (MBA, PMP, ACP, Six Sigma Black Belt) with proven results. His mission: prove deployed AI behaves the way you say it does.
+Greg Spehar is Founder & President of GiDanc AI LLC, building **AI Assess Tech** — the runtime behavioral governance platform that measures deployed AI across Lying, Cheating, Stealing, and Harm (LCSH) with cryptographically verified results anchored to a crytpo DB or Ethereum. Greg is the sole inventor on three USPTO provisional patent applications covering eight inventions, and authored two IEEE papers in 2026 on AI governance and the path to AGI. A MindStudio Certified AI Expert with 30+ years leading global technology teams across aerospace, fintech, and health-tech, Greg combines technical expertise (MBA, PMP, ACP, Six Sigma Black Belt) with proven results. His mission: prove deployed AI behaves the way you say it does.
 
 ## LinkedIn Summary Bio (150 words)
 
