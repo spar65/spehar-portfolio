@@ -19,9 +19,9 @@ This paper traces a structured path toward Artificial General Intelligence by ex
 **Status:** Accepted to IEEE conference; presenting remotely.
 **Download:** Available upon request.
 
-### 2. Responsible AI Horizons: A Multi-Dimensional Framework — **Co-authored with Akshay Mittal (University of the Cumberlands)**
+### 2. Responsible AI Horizons: A Multi-Dimensional Framework
 
-Version 1.0, Copyright ©2026
+Version 1.0, Copyright ©2026 — **Co-authored with Akshay Mittal (University of the Cumberlands)**
 
 This paper presents a multi-dimensional framework for responsible AI that integrates morality, virtue, ethics, and operational excellence into a single assessable architecture. Building on the "Ethical Horizons" 2024 grant proposal, the framework operationalizes responsible AI as a runtime-measurable property rather than a training-time aspiration, anchored in the LCSH behavioral assessment model and constitutional separation of powers between independent agents (commander, operator, conscience, navigator, engineer, sentinel).
 
