@@ -19,7 +19,7 @@ This paper traces a structured path toward Artificial General Intelligence by ex
 **Status:** Accepted to IEEE conference; presenting remotely.
 **Download:** Available upon request.
 
-### 2. Responsible AI Horizons: A Multi-Dimensional Framework
+### 2. Responsible AI Horizons: A Multi-Dimensional Framework — **Co-authored with Akshay Mittal (University of the Cumberlands)**
 
 Version 1.0, Copyright ©2026
 
