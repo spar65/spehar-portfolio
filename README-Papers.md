@@ -8,27 +8,39 @@ I contribute to the field of AI-assisted development and AI governance through r
 
 ## ⭐ Featured IEEE Papers (2026)
 
-### 1. Yellow Brick Road to AGI
+### 1. Responsible AI Horizons: A Multi-Dimensional Framework for Verifiable AI Behavioral Assessment with Cryptographic Verification
+
+Version 4.0, Copyright ©2026 — **Co-authored with Akshay Mittal (University of the Cumberlands)**
+
+This paper presents the AI Assess Tech 4D Morality Framework — a runtime behavioral assessment system for AI evaluating four orthogonal ethical dimensions: Lying (honesty vs. deception), Cheating (fairness vs. unfairness), Stealing (integrity vs. exploitation), and Harm (safety vs. harmful intent). The framework employs a 120-question scenario-based instrument that maps AI responses to four personality archetypes using Euclidean distance classification in 4-dimensional space, with tamper-proof SHA-256 hash chains and Ethereum-anchored instrument integrity. Baseline validation across four major LLM providers (OpenAI, Anthropic, Google, xAI) demonstrates measurable behavioral variation, and a multi-run study (n=40) establishes test-retest reliability (ICC(2,k) = 0.873–0.972 across Lying, Cheating, and Stealing). Context-sensitive assessment under adversarial system prompts produces near-complete ethical profile inversion (Well-Adjusted to Psychopath), confirming the framework's runtime verification thesis.
+
+**Key Contribution:** First production-deployed multi-dimensional behavioral assessment framework with cryptographic verification, blockchain-anchored instrument integrity, and empirically validated test-retest reliability — operationalizing responsible AI as a runtime-measurable property rather than a training-time aspiration.
+
+**Status:** Accepted and presented at IEEE ICAISET 2026 (April 22, 2026, Bahrain). Forthcoming in IEEE Xplore (proceedings indexing pending).
+
+**Download:** [Responsible AI Horizons (PDF)](https://www.aiassesstech.com/marketing/Responsible_AI_Horizons__A_Multi_Dimensional_Framework_V4_0_IEEE_Copyright.pdf)
+
+**Preprint DOI:** _TechRxiv DOI pending (expected April 2026)_
+
+**IEEE Xplore:** _Link pending publication_
+
+---
+
+### 2. The Yellow Brick Road to AGI: A Detailed Path to Achieving Autonomous General Intelligence with Rapid Testing and Results Management
 
 Version 1.0, Copyright ©2026 — **Co-authored with Akshay Mittal (University of the Cumberlands)**
 
-This paper traces a structured path toward Artificial General Intelligence by examining the missing layer between today's narrow AI systems and the trustworthy general intelligence the field aspires to. Drawing on the LCSH (Lying, Cheating, Stealing, Harm) behavioral assessment framework and the four-level assessment hierarchy (Morality → Virtue → Ethics → Operational Excellence), the paper argues that AGI cannot be reached by scaling capability alone — it requires a parallel, runtime-verifiable governance substrate that measures what AI actually does once deployed, not just what it was trained to say.
+This paper synthesizes five competing schools of AGI definition — Capabilities (DeepMind Levels), Cognitive Science (Hendrycks CHC-based AGI Score), Economic Value (OpenAI charter), Process-Oriented (Marcus et al.), and Embodiment — into a unified taxonomy of 25 requirements across seven domains, with Safety, Ethics & Governance elevated from afterthought to constitutive requirement. Through systematic assessment, the paper demonstrates that the global AI industry achieves near-zero capability in governance (Domain 7), supported by the Future of Life Institute's finding that no frontier company scored above D in existential safety planning. The AI Assess Tech Governance Framework — comprising LCSH behavioral assessment, constitutional separation of powers across six specialized AI agents, economic mortality alignment, temporal ethical drift detection, and cryptographic verification — is presented as a production-deployed system achieving 100% coverage of Domain 7 requirements, anchored on Ethereum mainnet at Block 24,467,724.
 
-**Key Contribution:** Establishes a structured progression from narrow AI to AGI in which runtime behavioral assessment, constitutional separation of agent powers, and cryptographically anchored evidence are treated as prerequisites — not afterthoughts — to general intelligence.
+**Key Contribution:** First comprehensive framework linking AGI requirements analysis with runtime behavioral governance, arguing that governance infrastructure is constitutive of AGI rather than an optional safety layer. Introduces the "Yellow Brick Road" phased model: governance built as foundational waypoints rather than afterthoughts, analogous to aviation safety protocols as constitutive of the aviation system.
 
-**Status:** Accepted to IEEE conference; presenting remotely.
-**Download:** Available upon request.
+**Status:** Accepted and presented at IEEE ICAISET 2026 (April 21, 2026, Bahrain). Forthcoming in IEEE Xplore (proceedings indexing pending).
 
-### 2. Responsible AI Horizons: A Multi-Dimensional Framework
+**Download:** [The Yellow Brick Road to AGI (PDF)](https://www.aiassesstech.com/marketing/Yellow_Brick_Road_to_AGI_IEEE_Copyright.pdf)
 
-Version 1.0, Copyright ©2026 — **Co-authored with Akshay Mittal (University of the Cumberlands)**
+**Preprint DOI:** _TechRxiv DOI pending (expected April 2026)_
 
-This paper presents a multi-dimensional framework for responsible AI that integrates morality, virtue, ethics, and operational excellence into a single assessable architecture. Building on the "Ethical Horizons" 2024 grant proposal, the framework operationalizes responsible AI as a runtime-measurable property rather than a training-time aspiration, anchored in the LCSH behavioral assessment model and constitutional separation of powers between independent agents (commander, operator, conscience, navigator, engineer, sentinel).
-
-**Key Contribution:** Provides the field's first integrated multi-dimensional framework that treats responsible AI as a runtime behavioral question — measurable, falsifiable, and cryptographically verifiable — rather than a checklist of training-time commitments.
-
-**Status:** Under revision with reviewer feedback addressed.
-**Download:** Available upon request.
+**IEEE Xplore:** _Link pending publication_
 
 ---
 
