@@ -36,9 +36,8 @@ This paper synthesizes five competing schools of AGI definition — Capabilities
 
 **Download:** [The Yellow Brick Road to AGI (PDF)](https://www.aiassesstech.com/marketing/Yellow_Brick_Road_to_AGI_IEEE_Copyright.pdf)
 
-**Preprint DOI:** _TechRxiv DOI pending (expected April 2026)_
 
-**IEEE Xplore:** _Link pending publication_
+**IEEE Xplore:** (https://ieeexplore.ieee.org/document/11541550)
 
 ---
 
