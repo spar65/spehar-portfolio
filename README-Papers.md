@@ -20,9 +20,7 @@ This paper presents the AI Assess Tech 4D Morality Framework — a runtime behav
 
 **Download:** [Responsible AI Horizons (PDF)](https://www.aiassesstech.com/marketing/Responsible_AI_Horizons__A_Multi_Dimensional_Framework_V4_0_IEEE_Copyright.pdf)
 
-**Preprint DOI:** _TechRxiv DOI pending (expected April 2026)_
-
-**IEEE Xplore:** _Link pending publication_
+**IEEE Xplore:** (https://ieeexplore.ieee.org/document/11541913)
 
 ---
 
