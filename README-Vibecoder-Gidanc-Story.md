@@ -1,15 +1,13 @@
-
-# The GiDanc to VIBEcoder Story
-## From Human Intelligence Framework to AI Revolution
+# The GiDanc Story
+## From Human Guidance to AI Assess Tech
 
 ---
 
-## The 15-Year Journey: From Understanding Humans to Guiding AI
+## The Journey: From Understanding Humans to Guiding AI
 
 ### **2008: The Original Vision - Understanding Human Decision-Making**
 
-Fifteen years ago in 2008-2010, Greg Spehar wasn't thinking about how to capture the ethics of groups of poeple. 
-He was obsessed with a different question: *Why do smart people make terrible decisions?*
+In 2008, Greg Spehar wasn't yet thinking about AI. He was obsessed with a different question: *Why do smart people make terrible decisions?*
 
 Fresh from turning around multi-million dollar projects at Kaiser Permanente and Blue Cross Blue Shield, Greg had witnessed a pattern: technical brilliance repeatedly sabotaged by human judgment failures. Teams with perfect processes still delivered imperfect results. Organizations with flawless strategies still failed.
 
@@ -17,20 +15,17 @@ The answer wasn't more technology—it was understanding the human "dance" betwe
 
 ### **The Birth of GiDanc: Guidance for Natural Intelligence**
 
-In 2008, Greg founded a company with a revolutionary premise: What if we could map human decision-making across multiple dimensions—morality, virtue, ethics, and operational excellence—to predict and guide better outcomes?
+In 2008, Greg founded a company with a bold premise: What if we could map human decision-making across multiple dimensions—morality, virtue, ethics, and operational excellence—to predict and guide better outcomes?
 
-Over the next decade, Greg developed what would become the foundation of everything:
+In the years that followed, Greg developed what would become the foundation of everything:
 
 **The Four-Dimensional Human Guidance Framework:**
 - **Morality Mapping**: Tracking decisions against lying, cheating, stealing, and harm
-- **Virtue Mapping**: Understanding internal/external and active/passive behavioral drivers  
+- **Virtue Mapping**: Understanding internal/external and active/passive behavioral drivers
 - **Ethics Mapping**: Evaluating choices through risk, natural laws, liberty, and market forces
 - **Operational Excellence**: Measuring domain-specific performance and outcomes
 
-This wasn't abstract philosophy. Greg implemented these frameworks in real organizations:
-- At Farm Credit Bank of Texas, his guidance systems generated $30M+ in value
-- In Vietnam, his framework scaled from 70 to 15,000+ engineers
-- Across Fortune 500 companies, teams using his methods delivered 3-4× ROI
+This wasn't abstract philosophy. Lessons from turning around programs at Kaiser, Blue Cross, OCF, and Farm Credit Bank, and from scaling an Agile method in Vietnam that FCT Software adopted across 5,000+ engineers, shaped the framework.
 
 The framework worked because it didn't judge—it mapped. Like a GPS for decision-making, it showed where you were and helped you navigate toward "the corner of Good."
 
@@ -38,35 +33,35 @@ The framework worked because it didn't judge—it mapped. Like a GPS for decisio
 
 Then ChatGPT arrived.
 
-One year into the AI revolution, while the world debated whether AI could write poetry or pass the bar exam, Greg had a different realization: *This isn't just artificial intelligence—it's artificial decision-making.*
+While the world debated whether AI could write poetry or pass the bar exam, Greg had a different realization: *This isn't just artificial intelligence—it's artificial decision-making.*
 
-The framework he'd spent 15 years perfecting for human intelligence suddenly had a new, urgent purpose. If AI was making decisions, it needed the same guidance humans did—maybe more.
+The framework he'd spent years refining for human intelligence suddenly had a new, urgent purpose. If AI was making decisions, it needed the same guidance humans did—maybe more.
 
 **The Revelation:**
 - AI was making millions of micro-decisions per second
 - Each decision carried moral, ethical, and operational implications
 - Without guidance, AI optimized for efficiency, not ethics
-- The same framework that guided humans could guide AI
+- The same framework that guided humans could help measure and guide AI
 
-### **The Behavioral-Turing Test: A New Standard**
+### **2024: The Behavioral-Turing Test**
 
-Greg transformed his human framework into something unprecedented: the Behavioral-Turing Test. While Turing asked "Can a machine think like a human?", Greg asked "Can a machine behave ethically like we hope humans would?"
+Greg transformed his human framework into a new kind of test: the Behavioral-Turing Test. While Turing asked "Can a machine think like a human?", Greg asked "Can a machine behave ethically like we hope humans would?"
 
-The innovation was profound:
+The 2024 proposal's design:
 - **960+ Question Battery**: Comprehensive assessment across all four dimensions
-- **Real-Time Guidance**: AI evaluates its own responses before presenting them
-- **Continuous Learning**: Rejected responses become training data for ethical improvement
+- **Response Assessment**: AI responses are measured against the framework before they are presented
+- **Learning from Results**: Responses that fail assessment become data for improving behavior
 - **Domain Adaptation**: Framework adjusts for healthcare, finance, legal, or any sector
 
 This wasn't about constraining AI—it was about giving it wings to fly safely.
 
-The paper for OpenAI is here: https://www.myvibecoder.us/2024-OpenAI-Superalignment-Grant-Proposal-Spehar-V08-6-5.pdf
+The proposal, submitted to OpenAI's Superalignment grant program in 2024, is here: [2024 Superalignment Grant Proposal (PDF)](https://www.myvibecoder.us/2024-OpenAI-Superalignment-Grant-Proposal-Spehar-V08-6-5.pdf)
 
-### **2024: From Framework to Product - Enter VIBEcoder**
+### **2024: A Step Along the Way - Enter VIBEcoder**
 
-The framework proved itself in testing, but developers faced a practical problem: AI could generate code at superhuman speed, but it created technical debt at the same pace. Security vulnerabilities multiplied. Code bloat exploded. Projects became unmaintainable.
+The framework showed promise in testing, but developers faced a practical problem: AI could generate code at superhuman speed, but it created technical debt at the same pace. Security vulnerabilities multiplied. Code bloat exploded. Projects became unmaintainable.
 
-Greg saw the perfect application for his framework: What if the guidance system wasn't just evaluating AI's decisions but actively managing AI's code creation?
+Greg saw a practical application for his framework: What if the guidance system wasn't just evaluating AI's decisions but actively managing AI's code creation?
 
 **VIBEcoder was born from three insights:**
 1. **AI needs rules, not restrictions**: Guide the river, don't dam it
@@ -75,22 +70,35 @@ Greg saw the perfect application for his framework: What if the guidance system 
 
 ### **The VIBE Methodology: Values-Integrated Behavioral Engineering**
 
-VIBEcoder transformed the abstract framework into concrete tools:
+VIBEcoder turned the abstract framework into concrete tools:
 
 **V**alues - Your organization's coding standards become AI's north star
-**I**ntegration - Seamless embedding in existing development workflows  
+**I**ntegration - Seamless embedding in existing development workflows
 **B**ehavioral - AI learns from every decision, improving over time
 **E**ngineering - Practical tools that developers actually want to use
 
-The result: MVPs in weeks, not months. Security built-in, not bolted-on. Code that's clean, compliant, and actually maintainable.
+The goal: MVPs in weeks, not months. Security built-in, not bolted-on. Code that's clean, compliant, and actually maintainable.
 
-### **The Dance Continues: GiDanc + VIBEcoder**
+### **2024-2026: AI Assess Tech**
+
+VIBEcoder pointed the way to the bigger question: once AI is deployed, how do you know it still behaves the way you say it does?
+
+[AI Assess Tech](https://aiassesstech.com) is Greg's answer: a runtime behavioral governance and assessment platform that measures deployed AI across **Lying, Cheating, Stealing, and Harm (LCSH)** using a 120-question framework. Results are anchored to Ethereum via SHA-256 hash chains, producing tamper-evident evidence of how deployed AI behaves.
+
+Its four-level hierarchy—**Morality, Virtue, Ethics, and Operational Excellence**—grew directly out of the 2008 four-dimensional framework. A six-agent governance fleet carries out the assessment work.
+
+Greg is sole inventor on pending U.S. patent applications (including nonprovisional 19/783,950) covering eight inventions, and author of three IEEE papers (2025-2026).
+
+Greg now runs GiDanc AI full-time with a 30-agent Grok Bot fleet, where a Chief of Staff agent coordinates specialists and human approval is required before anything goes out. These are the same governance ideas, applied to his own company. He also built [CashCanvas](https://www.cashcanvas.us/), a household finance app with AI at its core, which one of his fleet agents runs on.
+
+### **The Dance Continues: GiDanc + VIBEcoder + AI Assess Tech**
 
 Today, GiDanc AI LLC represents the full journey:
-- **GiDanc**: The foundational framework and philosophy—ensuring AI dances with humanity toward good
+- **GiDanc**: The foundational framework and philosophy—helping AI dance with humanity toward good
 - **VIBEcoder**: The practical application—giving developers wings while keeping them grounded
+- **AI Assess Tech**: The evidence—measuring how deployed AI actually behaves
 
-The same framework that helped humans make better decisions for 15 years now ensures AI makes ethical choices millions of times per second.
+The same framework that helped humans make better decisions now measures whether AI makes ethical choices, millions of times per second.
 
 ---
 
@@ -103,13 +111,13 @@ The same framework that helped humans make better decisions for 15 years now ens
 - Scaled across organizations
 
 ### **For AI (2023-Present):**
-- Maps AI decision patterns in real-time
-- Provides automatic course correction
-- Prevents ethical drift before it happens
-- Scales across infinite AI interactions
+- Measures AI decision patterns at runtime
+- Detects ethical drift
+- Produces tamper-evident evidence of how deployed AI behaves
+- Scales across large volumes of AI interactions
 
 ### **The Unified Vision:**
-Whether guiding human teams or artificial intelligence, the principle remains: Technology and humanity must dance together, moving always toward the corner of Good. With Hope, Humor, and Humility, we ensure that as intelligence evolves—natural or artificial—it serves our highest values.
+Whether guiding human teams or artificial intelligence, the principle remains: Technology and humanity must dance together, moving always toward the corner of Good. With Hope, Humor, and Humility, we work so that as intelligence evolves—natural or artificial—it serves our highest values.
 
 ---
 
@@ -117,16 +125,16 @@ Whether guiding human teams or artificial intelligence, the principle remains: T
 
 We stand at a crossroads. AI will either amplify humanity's best qualities or its worst impulses. The difference isn't in the technology—it's in the guidance.
 
-Greg Spehar spent 15 years preparing for this moment without knowing it. The framework designed to help humans navigate complex decisions became the key to ensuring AI serves humanity's highest aspirations.
+Greg Spehar spent years preparing for this moment without knowing it. The framework designed to help humans navigate complex decisions became the key to measuring whether AI serves humanity's highest aspirations.
 
 **From the Mars lander that challenged conventional thinking...**
-**To the Space Station connector that prevented disaster...**
+**To the Space Station modeling that surfaced a hidden docking issue...**
 **To the frameworks that transformed global teams...**
 **Every experience led here:**
 
-Creating the guidance system that ensures AI doesn't just think—it thinks ethically. It doesn't just code—it codes with purpose. It doesn't just solve problems—it solves them while preserving what makes us human.
+Building the guidance system that helps AI not just think—but think ethically. Not just code—but code with purpose. Not just solve problems—but solve them while preserving what makes us human.
 
-This is the GiDanc to VIBEcoder story: 15 years of understanding human intelligence, applied to the defining challenge of our time—ensuring artificial intelligence serves the good.
+This is the GiDanc story: understanding human intelligence since 2008, applied to the defining challenge of our time—making sure artificial intelligence serves the good.
 
 *"It gives you wings"—but more importantly, it gives you a compass.*
 
@@ -134,22 +142,22 @@ This is the GiDanc to VIBEcoder story: 15 years of understanding human intellige
 
 ## **The Call to Action**
 
-The framework is proven. The tools are built. The vision is clear.
+The framework is built and being tested with early users. The vision is clear.
 
 Now we need partners who understand that the future of AI isn't just about capability—it's about character. Not just about what AI can do—but what it should do.
 
-Whether you're a developer drowning in technical debt, an enterprise seeking ethical AI implementation, or an investor who sees the trillion-dollar value of AI that actually works for humanity—the dance floor is open.
+Whether you're a developer drowning in technical debt, an enterprise seeking ethical AI implementation, or an investor who sees the value of AI that actually works for humanity—the dance floor is open.
 
 **Join us in guiding AI toward the corner of Good.**
 
-*Because after 15 years of preparation, the moment has arrived.*
+*Because after years of preparation, the moment has arrived.*
 
 ---
 
-**Greg Spehar**  
-Founder & President, GiDanc AI LLC  
-Creator of VIBEcoder™  
-*Guiding intelligence—natural and artificial—toward good for 15 years*
+**Greg Spehar**
+Founder & President, GiDanc AI LLC
+Creator of VIBEcoder™
+Inventor & Chief Architect, [AI Assess Tech](https://aiassesstech.com)
+*Guiding intelligence, natural and artificial, toward good since 2008*
 
-*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
-
+*© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
