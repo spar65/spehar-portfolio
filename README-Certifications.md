@@ -1,6 +1,6 @@
 # Greg Spehar's Professional Certifications & Technical Expertise
 
-Greg Spehar's portfolio of professional certifications and technical expertise spans AI development, AI agent fleet operations, project management, agile methodologies, quality management, robotic process automation, enterprise agile transformation, and programming. It reflects 30+ years of continuous learning, from foundational object-oriented programming through AI agent creation.
+Greg Spehar's portfolio of professional certifications and technical expertise spans AI development, AI agent fleet operations, project management, agile methodologies, quality management, robotic process automation, enterprise agile transformation, and programming. It reflects 20+ years of continuous learning, from foundational object-oriented programming through AI agent creation.
 
 ---
 
@@ -34,7 +34,7 @@ Earned Six Sigma Black Belt certification, demonstrating mastery of advanced sta
 ## **Project Management Professional (PMP)**
 **Project Management Institute | Certified since 2005**
 
-Certified PMP since 2005, with continuous credential maintenance demonstrating sustained commitment to project management excellence and professional development. Certification validates comprehensive knowledge of project management processes, leadership competencies, and strategic business management across initiation, planning, execution, monitoring, and closing phases. Applied to programs ranging from $1M to $100M+ across Fortune 500 companies.
+Certified PMP since 2005, with continuous credential maintenance demonstrating sustained commitment to project management excellence and professional development. Certification validates comprehensive knowledge of project management processes, leadership competencies, and strategic business management across initiation, planning, execution, monitoring, and closing phases. Applied to programs ranging from $1M to $100M+ across across enterprise clients.
 
 **Key Significance:** Foundational credential enabling successful delivery of $100M+ technology programs across healthcare, financial services, government, and technology sectors, with a proven track record of on-time, on-budget execution.
 
@@ -94,6 +94,6 @@ Early Java certification demonstrating foundational technical depth in object-or
 ## **GemStone/S Smalltalk - Professional Trainer & Object Database Specialist**
 **GemTalk Systems | Late 1990s**
 
-Served as a professional trainer for GemTalk Systems, delivering technical training on the GemStone/S object-oriented database and Smalltalk development platform to enterprise developers. Expertise encompasses distributed object computing, multi-tier application architecture, transaction management, and scalable business object modeling for mission-critical 24x7 applications. Trained senior Smalltalk and Java developers on advanced object database concepts, persistence frameworks, and high-performance application development patterns used by Fortune 500 companies.
+Served as a professional trainer for GemTalk Systems, delivering technical training on the GemStone/S object-oriented database and Smalltalk development platform to enterprise developers. Expertise encompasses distributed object computing, multi-tier application architecture, transaction management, and scalable business object modeling for mission-critical 24x7 applications. Trained senior Smalltalk and Java developers on advanced object database concepts, persistence frameworks, and high-performance application development patterns used by enterprise clients.
 
 **Key Significance:** Established deep expertise in object-oriented architecture and distributed systems that directly informed later enterprise application development, particularly the Brand Management Tool (BMT) implementation in GemStone/S Smalltalk, demonstrating practical application of advanced OO design patterns and transactional database systems.
