@@ -22,7 +22,7 @@ Founder and President of GiDanc AI LLC, building **AI Assess Tech**, the runtime
 * Sole inventor on **pending U.S. patent applications** covering eight inventions assigned to GiDanc AI LLC, including nonprovisional application 19/783,950 and provisional applications 63/949,454, 63/985,442, and 63/988,410, spanning the LCSH framework, multi-agent assessment architecture, hierarchical ethics, compliance infrastructure, and the independent conscience agent
 * Deployed a six-agent runtime governance fleet (Jessie, Nole, Grillo, Noah, Sam, Mighty Mark) with constitutional separation of powers as a hard architectural constraint
 * Designed and operate a **30-agent Grok Bot fleet** (19 business, 11 personal) that runs the company day to day: a Chief of Staff agent coordinates specialist agents for marketing, LinkedIn and X, lead scouting, prospecting, research, fact-checking, AI assessment, engineering audits, patents, company spend, and career materials, with human approval before anything is sent or published
-* Authored **three IEEE papers** (2025 and 2026), including *"Yellow Brick Road to AGI"* (co-authored with Akshay Mittal, accepted to conference) and *"Responsible AI Horizons: A Multi-Dimensional Framework"* (under revision)
+* Authored **three IEEE papers** (2025 and 2026), including *"Yellow Brick Road to AGI"* and *"Responsible AI Horizons: A Multi-Dimensional Framework,"* both co-authored with Akshay Mittal and presented at IEEE ICAISET 2026
 * Defined the **"Competent Psychopath" problem** (AI that executes tasks efficiently while making unfair or harmful decisions invisibly) as the central category AI Assess Tech solves
 * Established runtime behavioral assessment, as distinct from training-time evaluation, as the platform's core differentiator, combining flight-plan trajectory monitoring, ethical dead-reckoning, constitutional separation of temporal authority, and hash-chain-verified integrity with Ethereum anchoring
 * [https://aiassesstech.com](https://aiassesstech.com) | [https://gidanc.ai](https://gidanc.ai)
@@ -85,7 +85,7 @@ Founder and President of GiDanc AI LLC, building **AI Assess Tech**, the runtime
 
 **Key Achievements:**
 
-* Rescued a stalled SaaS project for the **Oregon Community Foundation**
+* Rescued a stalled SaaS migration for the **Oregon Community Foundation**'s $2 billion donation system
 * Led an Intel mobile application prototype using Agile methodologies
 * Improved Portland General Electric portfolio completion rates by **50%**
 * *"Best program management experience I've ever had"* - OCF President
@@ -146,7 +146,7 @@ Eight total inventions covering runtime behavioral governance, multi-agent asses
 ## Education & Certifications
 
 * **MBA**, University of Texas at Austin (McCombs)
-* **BA, Aeronautical Engineering**; worked on NASA's Space Station program in the 1990s
+* **BS, Aerospace Engineering, Purdue University**; worked on NASA's Space Station Freedom program at McDonnell Douglas in the 1990s
 * **Graduate coursework**, University of Houston, Adult Education Psychology
 * **Doctoral coursework (first year completed)**, Portland State University, Software Engineering and Simulation
 * **MindStudio L3 Certified AI Agent Creator** (2024 & 2025)
