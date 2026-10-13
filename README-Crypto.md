@@ -1,18 +1,18 @@
+# Greg Spehar's Blockchain Portfolio
 
-# 🧠 Greg Spehar's AI Crypto Portfolio
+## Agricultural Token Trading Platform (Prototype)
 
-## FarmCreditBank Prototype Trading Platform - GitHub Project Outline
-
-The FarmCreditBank Prototype Trading Platform is a production-ready blockchain application that brings institutional-grade trading capabilities to agricultural finance. Built on Ethereum with a React/FastAPI architecture, this platform enables secure trading of agricultural tokens while demonstrating my expertise in full-stack development, Web3 integration, and financial technology solutions that bridge traditional farming finance with modern DeFi infrastructure.
+The Agricultural Token Trading Platform is a working blockchain prototype that brings institutional-style trading capabilities to agricultural finance. Built on Ethereum with a React/FastAPI architecture, it lets users trade agricultural tokens securely and shows my hands-on work in full-stack development, Web3 integration, and financial technology that connects traditional farm finance with modern blockchain infrastructure.
 
 ### 🌾 Project Overview
 
-**FarmCreditBank Trading Platform** is a comprehensive full-stack blockchain-based application designed for trading agricultural tokens on the Ethereum network. This sophisticated platform combines modern web technologies with blockchain integration to create a secure, scalable, and user-friendly trading environment for agricultural financial instruments.
+The **Agricultural Token Trading Platform** is a full-stack application for trading agricultural tokens on the Ethereum network. It combines modern web technologies with blockchain integration to create a secure, scalable, and easy-to-use trading environment for agricultural financial instruments.
 
 ---
+
 ### 🌾 Key Skill or Success
 
-**Proof of Concept** Independenly navigated and successfully implemented a Block Chain Solution that could impact an industry if implemented. Financial impact would exceed multi-milion dollars in savings and new revenue, new finacial strategies and new processes that would increase speed and reduce risk and meet compliance requirements.
+**Proof of concept.** I designed and built this blockchain prototype on my own to show how agricultural lending and trading could move faster, cost less, carry less risk, and still meet compliance requirements. The same thinking later shaped the Ethereum-anchored evidence in [AI Assess Tech](https://aiassesstech.com).
 
 ---
 
@@ -26,7 +26,7 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 - **Routing**: React Router v6 for single-page application navigation
 - **API Communication**: Axios with interceptors for authentication and error handling
 - **Real-time Updates**: WebSocket integration for live market data
-- **Testing**: Jest and React Testing Library with comprehensive component coverage
+- **Testing**: Jest and React Testing Library
 - **Build Tools**: Create React App with custom configurations
 
 #### Backend Stack
@@ -36,17 +36,17 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 - **Authentication**: JWT-based authentication with role-based access control
 - **Blockchain Integration**: Web3.py for Ethereum network interaction
 - **API Documentation**: Automatic Swagger/OpenAPI documentation generation
-- **Testing**: Pytest with comprehensive unit and integration test coverage
+- **Testing**: Pytest unit and integration tests
 - **Async Processing**: FastAPI's native async/await support for concurrent operations
 
 #### Blockchain Integration
 
-- **Network**: Ethereum Sepolia Testnet (with mainnet compatibility)
+- **Network**: Ethereum Sepolia testnet (designed for mainnet compatibility)
 - **Token Standard**: ERC-20 compliant agricultural tokens
-- **Wallet Management**: Secure private key handling and multi-wallet support
+- **Wallet Management**: Encrypted private key handling and multi-wallet support
 - **Transaction Processing**: Real-time transaction status monitoring
 - **Smart Contracts**: Custom trading contract deployment and interaction
-- **Gas Optimization**: Dynamic gas price calculation and optimization
+- **Gas Optimization**: Dynamic gas price calculation
 
 ---
 
@@ -54,11 +54,10 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 
 #### User Authentication & Authorization
 
-- Secure JWT-based authentication system
+- JWT-based authentication
 - Role-based access control (Admin, Trader, Viewer)
-- Password encryption and security best practices
+- Password hashing and security best practices
 - Session management with automatic token refresh
-- Multi-factor authentication support
 
 #### Wallet Management System
 
@@ -66,11 +65,11 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 - **Secure Key Storage**: Encrypted private key storage with user-specific encryption
 - **Wallet Import/Export**: Import existing wallets via private key or mnemonic
 - **Balance Tracking**: Real-time token and ETH balance monitoring
-- **Transaction History**: Comprehensive transaction logs with status tracking
+- **Transaction History**: Transaction logs with status tracking
 
 #### Trading Interface
 
-- **Order Management**: Place, modify, and cancel buy/sell orders
+- **Order Management**: Place, modify, and cancel buy and sell orders
 - **Order Book**: Real-time order book with bid/ask spreads
 - **Market Data**: Live price feeds and historical chart data
 - **Trade Execution**: Automated order matching and execution
@@ -79,17 +78,17 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 #### Market Data & Analytics
 
 - **Price Charts**: Interactive candlestick and line charts
-- **Volume Analysis**: Trading volume tracking and analysis
+- **Volume Analysis**: Trading volume tracking
 - **Market Depth**: Order book depth visualization
-- **Historical Data**: Comprehensive historical price and volume data
-- **Technical Indicators**: Moving averages, RSI, and other trading indicators
+- **Historical Data**: Historical price and volume data
+- **Technical Indicators**: Moving averages, RSI, and other indicators
 
 #### Administrative Dashboard
 
-- **User Management**: Admin interface for user account management
+- **User Management**: Admin interface for user accounts
 - **System Monitoring**: Real-time system health and performance metrics
 - **Transaction Oversight**: Monitor and manage platform transactions
-- **Compliance Tools**: Regulatory compliance and reporting features
+- **Compliance Tools**: Compliance reporting features
 
 ---
 
@@ -97,103 +96,71 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 
 ### Authentication Security
 
-- JWT token-based authentication with secure key rotation
-- Password hashing using industry-standard bcrypt
+- JWT token-based authentication
+- Password hashing with bcrypt
 - Session management with automatic token refresh
 - Rate limiting on authentication endpoints
-- Account lockout protection against brute force attacks
+- Account lockout protection against brute-force attacks
 
 ### Blockchain Security
 
-- Secure private key encryption and storage
-- Multi-signature wallet support for enhanced security
+- Encrypted private key storage
 - Transaction validation and verification
 - Gas limit protection against excessive fees
 - Secure contract interaction patterns
 
 ### API Security
 
-- CORS configuration for secure cross-origin requests
+- CORS configuration for cross-origin requests
 - Input validation and sanitization
 - SQL injection protection through ORM usage
-- XSS protection with content security policies
-- Comprehensive error handling without information leakage
+- Error handling that avoids leaking internal details
 
 ---
 
-## 📊 Performance Optimizations
+## 📊 Performance Design
 
-### Frontend Performance
+### Frontend
 
-- React component memoization and optimization
+- React component memoization
 - Lazy loading for route-based code splitting
-- Efficient Redux state management with normalized data
-- WebSocket connection pooling for real-time updates
-- Image optimization and caching strategies
+- Normalized Redux state
+- Image optimization and caching
 
-### Backend Performance
+### Backend
 
-- FastAPI's high-performance async/await architecture
+- Async/await request handling in FastAPI
 - Database query optimization with SQLAlchemy
 - Connection pooling for database and blockchain connections
-- Caching strategies for frequently accessed data
+- Caching for frequently accessed data
 - Background task processing for non-blocking operations
 
-### Blockchain Performance
+### Blockchain
 
-- Batch transaction processing for efficiency
-- Gas price optimization algorithms
+- Batch transaction processing
+- Gas price optimization
 - Transaction queue management
 - Block confirmation monitoring
-- Network congestion handling
 
 ---
 
 ## 🚀 Deployment & DevOps
 
-### Infrastructure
-
-- Docker containerization for consistent deployments
-- Docker Compose for local development environment
+- Docker containerization and Docker Compose for local development
 - Environment-specific configuration management
 - Automated database migrations
-- Health check endpoints for monitoring
-
-### Monitoring & Logging
-
-- Comprehensive application logging with structured formats
-- Real-time system health monitoring
-- Error tracking and alerting systems
-- Performance metrics collection
-- Blockchain network status monitoring
-
-### Scalability Considerations
-
-- Microservices-ready architecture
-- Horizontal scaling support for API services
-- Database partitioning strategies
-- Load balancing configuration
-- CDN integration for static assets
+- Health check endpoints and structured application logging
+- Architecture designed to scale horizontally for API services
 
 ---
 
 ## 🧪 Quality Assurance
 
-### Code Quality
-
-- ESLint and Prettier for consistent code formatting
-- Type checking with PropTypes for React components
-- Code coverage reporting with comprehensive metrics
-- Pre-commit hooks for code quality enforcement
-- Automated dependency vulnerability scanning
-
-### Testing Coverage
-
-- **Frontend**: 90%+ component test coverage
-- **Backend**: 95%+ API endpoint test coverage
-- **Integration**: Complete user workflow testing
-- **Performance**: Load testing and stress testing
-- **Security**: Penetration testing and vulnerability assessment
+- ESLint and Prettier for consistent formatting
+- PropTypes type checking for React components
+- Frontend tests with Jest and React Testing Library
+- Backend tests with Pytest
+- End-to-end testing of core user workflows
 
 ---
 
@@ -201,24 +168,17 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 
 ### Agricultural Finance Innovation
 
-- Modernizes agricultural token trading with blockchain technology
-- Provides secure, transparent trading environment for agricultural commodities
-- Enables efficient price discovery and market liquidity
-- Supports regulatory compliance for agricultural financial instruments
+- Shows how blockchain could modernize agricultural token trading
+- Provides a transparent trading environment for agricultural commodities
+- Supports efficient price discovery and market liquidity
+- Designed with compliance reporting in mind
 
 ### Technical Excellence
 
-- Demonstrates full-stack development expertise across modern web technologies
-- Showcases blockchain integration in enterprise applications
-- Implements industry best practices for security and performance
-- Provides scalable architecture for future enhancements
-
-### User Experience Focus
-
-- Intuitive trading interface designed for financial professionals
-- Real-time market data and responsive design
-- Comprehensive wallet management with security focus
-- Professional-grade analytics and reporting tools
+- Full-stack development across modern web technologies
+- Blockchain integration in an enterprise-style application
+- Security and performance best practices
+- Architecture that can grow with future enhancements
 
 ---
 
@@ -226,24 +186,27 @@ The FarmCreditBank Prototype Trading Platform is a production-ready blockchain a
 
 ### Planned Features
 
-- Mobile application development (React Native)
-- Advanced trading features (stop-loss, limit orders)
-- Multi-chain support (Polygon, BSC integration)
-- DeFi protocol integration for yield farming
-- Advanced analytics dashboard with AI insights
+- Mobile app (React Native)
+- Advanced order types (stop-loss and other conditional orders)
+- Multi-factor authentication and multi-signature wallets
+- Hardware wallet support
+- Multi-chain support (Polygon, BSC)
+- Analytics dashboard with AI insights
 
 ### Technical Roadmap
 
-- Microservices architecture migration
-- GraphQL API implementation
-- Real-time collaboration features
-- Advanced security features (hardware wallet support)
-- Machine learning integration for market prediction
+- Microservices architecture
+- GraphQL API
+- Formal load testing and third-party security assessment
+- Machine learning for market analysis
 
 ---
 
 ## 🏆 Technical Achievements
 
-- **Full-Stack Integration**: Seamless frontend-backend-blockchain integration
+- **Full-Stack Integration**: Frontend, backend, and blockchain working together end to end
+- **Real-Time Trading**: Live order book, matching, and market data over WebSockets
+- **On-Chain Settlement**: ERC-20 token trades executed and tracked on the Ethereum Sepolia testnet
+- **Foundation for AI Assess Tech**: Ethereum anchoring experience that carried into AI Assess Tech's cryptographically verified evidence
 
-  *© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
+*© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
