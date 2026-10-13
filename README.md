@@ -60,6 +60,10 @@ Flagship Inventory: Core expertise in delivered solutions:
 * **"Yellow Brick Road to AGI" (2026)** — Co-authored with Akshay Mittal (University of the Cumberlands). Presented at IEEE ICAISET 2026; published in IEEE Xplore.
 * **"AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration" (2025)** — IEEE ICCA 2025 paper; published in IEEE Xplore.
 
+**IEEE-Format Manuscript (Available Upon Request):**
+
+* **"A Canary for Deployed AI: Preregistered Multi-Stage Validation of LCSH, a Deployment-Level LLM Behavioral Screen for Recurrent Enterprise Risk Attestation" (2026)** — In preparation for IEEE submission. Reports a preregistered, cryptographically locked validation protocol for the 120-item LCSH instrument behind AI Assess Tech, with every registered outcome reported, including failures. *Available upon request.*
+
 **Published Papers:**
 
 * **"Generalized Simulation Models: What, Why and How?" (2003)** - Theoretical foundation for reusable, modular simulation models.
@@ -224,6 +228,7 @@ Alongside founding work, I'm a MindStudio Level 3 Certified AI Agent Developer a
 * **Grok Bot Fleet** — 30 agents run the company day to day, coordinated by a Chief of Staff agent with human approval before anything goes out
 * **Pending U.S. Patent Applications** — Including nonprovisional 19/783,950; eight inventions covering LCSH framework, multi-agent assessment, hierarchical ethics, compliance infrastructure, conscience agent
 * **Three IEEE Papers (2025-2026)** — "Yellow Brick Road to AGI" and "Responsible AI Horizons: A Multi-Dimensional Framework" (both with Akshay Mittal, presented at IEEE ICAISET 2026), and "AI-Ready Data Governance" (IEEE ICCA 2025)
+* **"A Canary for Deployed AI" (2026)** — IEEE-format manuscript on the preregistered validation of LCSH, in preparation for submission; available upon request
 
 **Core Certifications:**
 
