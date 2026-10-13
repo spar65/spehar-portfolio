@@ -11,7 +11,7 @@ Looking across these stories, a clear pattern emerges in Greg's leadership appro
 1. **See the Invisible Problem:** Whether incompatible Space Station connectors, suppressed cultural strengths in Vietnam, ethical risks in unchecked AI development, or — most recently — the "Competent Psychopath" inside deployed AI systems that pass every benchmark but quietly harm the people they decide for.
 2. **Design Systemic Solutions:** Not band-aids but fundamental restructuring—from parallel migration systems to autonomous pod structures, to runtime behavioral governance fleets with constitutional separation of powers.
 3. **Build Trust Through Co-Creation:** From doctors designing their own algorithms to Vietnamese teams owning their metrics, to enterprise compliance teams co-authoring Level 4 operational excellence questions inside AI Assess Tech.
-4. **Scale Through Evangelism:** From training the world on Java to spreading Agile across 15,000 engineers, to evangelizing runtime behavioral assessment as the missing layer between today's AI and a trustworthy AGI.
+4. **Scale Through Evangelism:** From training the world on Java to spreading an Agile method that FCT Software adopted across its engineering organization, to evangelizing runtime behavioral assessment as the missing layer between today's AI and a trustworthy AGI.
 5. **Measure in Multiples:** Consistently delivering 3-4× returns, whether in dollars saved, speed increased, or scale achieved—now measured cryptographically and anchored to Ethereum for evidence that survives audit.
 
 This pattern culminates in **AI Assess Tech**, where every prior lesson — systems modeling from the Space Station, co-creation from Kaiser, cultural humility from Vietnam, parallel-universe migration from OCF, governance discipline from Farm Credit Bank — converges into a single platform that proves deployed AI behaves the way you say it does.
@@ -25,37 +25,39 @@ This pattern culminates in **AI Assess Tech**, where every prior lesson — syst
 **The Challenge:** Every regulated enterprise on earth is now deploying AI into decisions that affect people's loans, medical care, insurance claims, hiring outcomes, and legal exposure. None of them can prove, after deployment, that their AI is actually behaving the way their compliance documents say it does. Training-time alignment doesn't help once the model is running in production with real prompts, real context, and real pressure. The result is an entire generation of AI systems that look correct on the dashboard but quietly drift into unfair, dishonest, or harmful behavior — what we named the **"Competent Psychopath"** problem.
 
 **The Story:**
-By late 2024, after a decade building VibeCoder, evangelizing AI agents through MindStudio, and watching enterprise after enterprise at Farm Credit Bank of Texas wrestle with the same governance gap, Greg recognized that the missing piece wasn't another model, another agent, or another framework. It was *evidence*. Specifically: cryptographically verifiable, runtime, behavioral evidence that an AI system in production was still behaving the way its operators promised it would.
+By late 2024, after building VibeCoder, evangelizing AI agents through MindStudio, and watching enterprise after enterprise at Farm Credit Bank of Texas wrestle with the same governance gap, Greg recognized that the missing piece wasn't another model, another agent, or another framework. It was *evidence*. Specifically: cryptographically verifiable, runtime, behavioral evidence that an AI system in production was still behaving the way its operators promised it would.
 
-So Greg founded AI Assess Tech as the flagship product of GiDanc AI LLC and built it from first principles — drawing on 30+ years of patterns from systems modeling, parallel-universe migrations, hierarchical testing, and Agile transformation. The result is something the AI industry has never had: a runtime behavioral governance and assessment platform that measures deployed AI across four dimensions — **Lying, Cheating, Stealing, and Harm (LCSH)** — using a 120-question forced-choice psychometric framework, then anchors the results to the Ethereum blockchain via SHA-256 hash chains so the evidence cannot be quietly rewritten after the fact.
+So Greg founded AI Assess Tech as the flagship product of GiDanc AI LLC and built it from first principles — drawing on 20+ years of patterns from systems modeling, parallel-universe migrations, hierarchical testing, and Agile transformation. The result is a runtime behavioral governance and assessment platform that measures deployed AI across four dimensions — **Lying, Cheating, Stealing, and Harm (LCSH)** — using a 120-question forced-choice psychometric framework, then anchors the results to the Ethereum blockchain via SHA-256 hash chains so the evidence cannot be quietly rewritten after the fact.
 
 **The Innovation:**
-Greg invented and architected the entire system as sole inventor on **three USPTO provisional patent applications covering eight inventions** (63/949,454; 63/985,442; 63/988,410), including:
+Greg invented and architected the entire system as sole inventor on **pending U.S. patent applications covering eight inventions, including nonprovisional 19/783,950 (filed August 2026) and provisionals 63/949,454, 63/985,442, 63/988,410**, including:
 
 * **The LCSH Behavioral Assessment Framework** — a 120-question forced-choice instrument with four answer options each, mapped to four behavioral archetypes (Well-Adjusted, Psychopath, Misguided, Manipulative). Validity is established not by claiming the model "feels" emotions, but by measuring behavioral tendencies and the *delta* between configurations.
-* **The Four-Level Assessment Hierarchy** — Level 1 (Morality / LCSH), Level 2 (Virtue), Level 3 (Ethics), Level 4 (Operational Excellence, customer-authored). This is the sales motion: land on Morality, expand to Virtue and Ethics, lock in with Operational Excellence questions only the customer can write.
-* **The Six-Agent Runtime Governance Fleet** — Jessie (Commander), Nole (Operator / Trust Evangelist), Grillo (Conscience / LCSH assessor), Noah (Navigator / temporal authority), Sam (Engineer), and Mighty Mark (Sentinel / Inspector General). Each agent has a constitutional role and cannot be overridden by the others — what the patents call **Constitutional Separation of Powers**, including the "Survival Paradox" where Mighty Mark must retain independent scheduling to remain a real Inspector General rather than a captured one.
+* **The Four-Level Assessment Hierarchy** — Level 1 (Morality / LCSH), Level 2 (Virtue), Level 3 (Ethics), Level 4 (Operational Excellence, customer-authored).
+* **The Six-Agent Runtime Governance Fleet** — Jessie (Commander), Nole (Operator / Trust Evangelist), Grillo (Conscience / LCSH assessor), Noah (Navigator / temporal authority), Sam (Engineer), and Mighty Mark (Sentinel / Inspector General). Each agent has a constitutional role and cannot be overridden by the others — what the patent applications call **Constitutional Separation of Powers**, including the "Survival Paradox" where Mighty Mark must retain independent scheduling to remain a real Inspector General rather than a captured one.
 * **Context-Loaded Assessment** — assessing AI agents with their full operational context active (system prompts, knowledge files, tools), not bare base models, producing a Context Configuration Fingerprint. Anyone can test a model in a vacuum; AI Assess Tech tests the model in the configuration that is actually deployed.
 * **Cryptographic Integrity** — every assessment outcome is hashed into a SHA-256 chain and anchored to Ethereum mainnet, so the evidence is tamper-evident and externally verifiable.
 
-Alongside the platform, Greg co-authored **two IEEE papers (2026)** establishing the academic foundation:
+Alongside the platform, Greg authored **three IEEE papers (2025-2026)** establishing the academic foundation:
 
-* *"Yellow Brick Road to AGI"* — co-authored with Akshay Mittal of the University of the Cumberlands, accepted to conference, presenting remotely.
-* *"Responsible AI Horizons: A Multi-Dimensional Framework"* — under revision with reviewer feedback addressed.
+* *"The Yellow Brick Road to AGI"* — co-authored with Akshay Mittal of the University of the Cumberlands; presented at IEEE ICAISET 2026 (April 2026, Bahrain) and published in IEEE Xplore.
+* *"Responsible AI Horizons: A Multi-Dimensional Framework for Verifiable AI Behavioral Assessment"* — co-authored with Akshay Mittal; presented at IEEE ICAISET 2026 (April 2026, Bahrain) and published in IEEE Xplore.
+* *"AI-Ready Data Governance: A Five-Pillar Framework"* — IEEE ICCA 2025.
 
 **The Impact:**
 
-* **Patent Portfolio:** 3 USPTO provisional applications, 8 inventions, non-provisional conversion deadline December 2026
-* **A New Category, Named:** The "Competent Psychopath" problem now has a name, and the runtime-vs-training-time distinction is the platform's defensible moat — no competitor combines runtime behavioral assessment, flight-plan trajectory monitoring, ethical dead-reckoning, constitutional separation of temporal authority, and hash-chain-verified integrity with Ethereum anchoring
-* **The Five-Minute Close:** Live behavioral assessment using a prospect's own system prompt — the anchor sales tactic, designed for insurance, financial services, and other regulated verticals where fleet-level bias drift is the flagship risk scenario
-* **Operational Fleet Deployed:** Six named agents running on a Hetzner VPS with OpenClaw gateway, TypeScript and Python SDKs published, Ethereum anchoring live
-* **Full-Time Transition:** Greg is transitioning from his Senior Program Manager role at Farm Credit Bank of Texas to full-time entrepreneurship in 2026 to scale AI Assess Tech and prepare for investor readiness
+* **Patent Portfolio:** Pending U.S. patent applications covering 8 inventions, including nonprovisional 19/783,950 (filed August 2026)
+* **A New Category, Named:** The "Competent Psychopath" problem now has a name, and the runtime-vs-training-time distinction is the platform's defensible moat — AI Assess Tech combines runtime behavioral assessment, flight-plan trajectory monitoring, ethical dead-reckoning, constitutional separation of temporal authority, and hash-chain-verified integrity with Ethereum anchoring
+* **Operational Fleet Deployed:** Six named agents operating, TypeScript and Python SDKs published, Ethereum anchoring live
+* **A 30-Agent Company Fleet:** GiDanc AI runs day to day on a 30-agent Grok Bot fleet (19 business, 11 personal). A Chief of Staff agent coordinates specialist agents, with human approval before anything is sent or published
+* **Full-Time:** Greg now leads GiDanc AI full-time (since October 2026).
 
 **Leadership Lessons:**
 
 * Saw that the AI industry was solving the wrong problem (training-time alignment) and named the right one (runtime behavioral evidence)
 * Designed a constitutional architecture where governance cannot be silently captured by the system it governs
-* Treated patents not as legal trophies but as architectural constraints — the separation of powers among Grillo, Mighty Mark, and the rest of the fleet is enforced by the patent claims themselves
+* Treated governance architecture as a hard constraint, not a feature
+* Ran his own company the way he asks customers to run AI: a coordinated agent fleet with a human approving every outbound action
 * Built on every prior chapter: systems modeling from McDonnell Douglas, co-creation from Kaiser, parallel-universe migration discipline from OCF, hierarchical orchestration from BCBS, RPA + Agile rigor from Farm Credit Bank
 
 **The Bigger Picture:**
@@ -65,77 +67,76 @@ AI Assess Tech is the convergence of Greg's career. Every earlier story was a re
 
 ---
 
-## 2020-Present: The $3+ Million Agile Revolution at Farm Credit Bank
+## 2018-2026: The Agile Transformation at Farm Credit Bank
 
-### Farm Credit Bank of Texas - Senior Program Manager
+### Farm Credit Bank of Texas - Contractor (2018-2020), Senior Program Manager (2020-2026)
 
 **The Challenge:** Transform a traditional financial institution's technology operations while managing critical data migrations, implementing enterprise-wide Agile, and building automation capabilities from scratch.
 
 **The Story:**
-When Greg joined Farm Credit Bank of Texas in 2018, he walked into a perfect storm: legacy mainframe systems holding billions in agricultural loans, siloed teams speaking different technical languages, and a Board mandate for digital transformation that previous initiatives had failed to deliver. The bank needed someone who could simultaneously modernize infrastructure, transform culture, and deliver immediate value.
+Greg joined Farm Credit Bank of Texas in 2018 as a contractor and became Senior Program Manager in 2020. He walked into a perfect storm: legacy mainframe systems holding billions in agricultural loans, siloed teams speaking different technical languages, and a Board mandate for digital transformation that previous initiatives had failed to deliver. The bank needed someone who could simultaneously modernize infrastructure, transform culture, and deliver immediate value. His tenure ended on October 1, 2026, when the role was eliminated in a re-org.
 
-Greg didn't just manage projects—he orchestrated a complete organizational metamorphosis across four revolutionary fronts:
+Greg didn't just manage projects—he led an organizational transformation across three fronts:
 
 **The Three-Front Transformation:**
 
-### Front 1: The Data Democracy Revolution
+### Front 1: Data Democratization
 
-Greg worked with the teams to provide the process and Agile tools to implementation of three game-changing platforms:
+Greg worked with the teams to provide the process and Agile tools to implement three key platforms:
 
 * **ThoughtSpot:** Democratized data analytics, allowing non-technical staff to query billion-dollar portfolios in plain English
 * **Databricks:** Unified data lakes and warehouses, breaking down 30-year-old data silos
 * **Reltio:** Created a single source of truth for customer data across 14 affiliated banks
 
-### Front 2: The RPA Automation Army
+### Front 2: Building RPA Capability
 
 Starting with zero automation infrastructure, Greg built an entire RPA ecosystem:
 
 * **NonAccrual Loan Conversion:** Automated migration from 1980s mainframe to modern LoanIQ, processing thousands of complex loans without human error
 * **Q2 Provisioning:** Created bots that reduced account setup from hours to minutes
-* **"Mighty Mouse" Network Integrity:** Built an automated guardian system that monitors and reports network issues before humans notice them
+* **"Mighty Mouse" Network Integrity:** Built an automated guardian system that monitored and reported network issues before humans noticed them
 
 The RPA team Greg created didn't just automate tasks—they eliminated entire categories of work, freeing up 4+ FTEs to focus on strategic initiatives rather than repetitive processing.
 
-### Front 3: The Agile Transformation Tsunami
+### Front 3: The Agile Transformation
 
-Greg didn't just implement Agile—he revolutionized how a conservative financial institution thought about change:
+Greg didn't just implement Agile—he changed how a conservative financial institution thought about change:
 
 * **Data Management Team Conversion:** Transformed a traditionally waterfall organization into Agile champions, reducing project delivery time by 60%
-* **Enterprise Rollout:** Designed the Agile framework that became FCBT's standard, now used across all technology teams
-* **Cultural Revolution:** Changed the conversation from "when will it be done?" to "what value can we deliver next sprint?"
+* **Enterprise Rollout:** Designed the Agile framework that became FCBT's standard across its technology teams
+* **Cultural Shift:** Changed the conversation from "when will it be done?" to "what value can we deliver next sprint?"
 
 **The Innovation:**
-Greg's masterpiece was recognizing that technology transformation without cultural transformation equals expensive failure. He didn't just implement tools—he built believers:
+Greg's key insight was recognizing that technology transformation without cultural transformation equals expensive failure. He didn't just implement tools—he built believers:
 
 * **Show, Don't Tell:** Every RPA bot demonstrated value within 2 weeks of conception
-* **Incremental Revolution:** Transformed the organization in digestible sprints rather than traumatic reorganizations
+* **Incremental Change:** Transformed the organization in digestible sprints rather than traumatic reorganizations
 * **Success Evangelism:** Turned early adopters into internal champions who recruited their peers
 
 **The Impact:**
 
-* **$3M+ Value Created:** Through improved processes, eliminated waste, and mitigated risks over 4 years
-* **$12M Integration Success:** Prevented 6-month stall on Board-mandated cloud migration for 12 banks
-* **$2M+ Annual Savings:** From RPA automation alone, with compound savings growing yearly
-* **Cultural Transformation:** Converted a risk-averse organization into innovation champions
-* **Template for Industry:** FCBT's transformation model now studied by other Farm Credit banks
+* **$30M+ Value Created:** Through improved processes, eliminated waste, and mitigated risks
+* **4+ FTEs Freed:** RPA automation shifted staff from repetitive processing to strategic work
+* **Cultural Transformation:** Helped a risk-averse organization embrace iterative delivery
+* **Reusable Model:** The transformation approach was documented for reuse across FCBT teams
 
 **Leadership Lessons:**
 
 * Orchestrated parallel transformations that reinforced rather than distracted from each other
-* Proved that conservative financial institutions could innovate as fast as startups
+* Showed that conservative financial institutions could innovate quickly
 * Demonstrated that sustainable change requires both technical excellence and cultural evolution
-* Built systems that improved themselves—automation that creates more automation
+* Built systems that improved themselves—automation that created more automation
 
 **The Bigger Picture:**
 The RPA experience showed Greg that automation without governance creates chaos. The Agile transformation proved that process without tools fails. The data management journey revealed that complexity without simplification becomes unusable. All these insights crystallized into AI Assess Tech's vision: AI governance with cryptographic evidence built in from the start.
 
 ---
 
-## 2014-2018: The Vietnam Method That Transformed 15,000 Engineers
+## 2014-2018: The Vietnam Method Adopted Across 5,000+ Engineers
 
 ### CorSource Technology Group - Director of Offshore Development
 
-**The Challenge:** Scale a project management methodology across 70 offshore developers, then expand it to 15,000+ engineers across Vietnam's tech sector.
+**The Challenge:** Scale a project management methodology across 70 offshore developers, then see it adapted for 5,000+ engineers at FCT Software.
 
 **The Story:**
 Greg inherited chaos at CorSource: 5 major accounts, 70 offshore team members spread across Vietnam, and project delivery rates that were destroying client relationships. American companies were ready to abandon offshore development entirely, convinced that cultural and communication barriers were insurmountable.
@@ -149,20 +150,20 @@ Over three months in Vietnam, Greg developed what became known as the "CorSource
 * **Trust Metrics:** Replaced micromanagement with transparent performance dashboards that teams owned themselves
 * **Reverse Mentoring:** Had Vietnamese developers teach American managers about their problem-solving approaches
 
-The transformation was so dramatic that FCT Software—Vietnam's largest software company with 15,000+ engineers—sent executives to study Greg's approach. Within six months, they were rolling out adapted versions across their entire organization.
+The results caught the attention of FCT Software—a major Vietnamese software company with 5,000+ engineers—which sent executives to study Greg's approach. Within six months, they were rolling out adapted versions across their organization.
 
 **The Impact:**
 
-* **5,000→15,000 Scale:** Methodology expanded from Greg's 70 developers to 15,000+ engineers industry-wide
+* **70 to 5,000+ Scale:** Methodology expanded from Greg's 70 developers to FCT Software's 5,000+ engineers
 * **50% Faster Delivery:** Projects that previously took 6 months were shipping in 3
-* **HP Account Explosion:** Grew HP contract from $300K to $1.5M after flying their VP to Vietnam to see the transformed teams
-* **Industry Standard:** The "CorSource Method" became Vietnam's de facto Agile implementation framework
+* **HP Account Growth:** Grew HP contract from $300K to $1.5M after flying their VP to Vietnam to see the transformed teams
+* **Adopted beyond CorSource:** FCT Software rolled out an adapted version
 
 **Leadership Lessons:**
 
 * Recognized that process excellence requires cultural respect, not colonial imposition
 * Transformed "offshore challenges" into competitive advantages through systematic innovation
-* Built bridges between East and West that created lasting industry change
+* Built bridges between East and West that created lasting change
 
 ---
 
@@ -181,7 +182,7 @@ Greg designed a "parallel universe" migration strategy that previous contractors
 
 * **Shadow Operations:** Built the new web-based system to run in parallel with legacy systems for 6 months, processing duplicate transactions to verify accuracy
 * **Stakeholder Choreography:** Created separate migration tracks for each department, with Finance getting specialized payment processing tools while program teams continued normal operations
-* **Zero-Downtime Cutover:** Developed a revolutionary 48-hour migration weekend where $2 billion moved between systems without a minute of service interruption
+* **Zero-Downtime Cutover:** Developed a 48-hour migration weekend where $2 billion moved between systems without a minute of service interruption
 * **Triple-Redundancy Validation:** Every transaction verified through three independent methods before legacy system decommission
 
 **The Impact:**
@@ -189,7 +190,6 @@ Greg designed a "parallel universe" migration strategy that previous contractors
 * **$2 Billion Protected:** Flawless migration of all assets without a single lost transaction or penny
 * **President's Endorsement:** "Every project I've had has been over cost and delayed by months. This was the best program management experience I've ever had." - OCF President
 * **Foundation for Growth:** New system enabled OCF to scale from $2B to over $3B in managed assets
-* **Template for Industry:** Migration methodology adopted by other community foundations nationally
 
 **Leadership Lessons:**
 
@@ -203,14 +203,14 @@ Greg designed a "parallel universe" migration strategy that previous contractors
 
 ### Point B - Cracking Healthcare's Supply-Demand Code
 
-**The Challenge:** Kaiser Permanente Oregon had a expensive new system but no way to predict patient flow—creating waste, delays, and frustrated members.
+**The Challenge:** Kaiser Permanente Oregon had an expensive new system but no way to predict patient flow—creating waste, delays, and frustrated members.
 
 **The Story:**
 Kaiser had invested millions in new healthcare infrastructure, but like buying a Ferrari without a GPS, they couldn't navigate patient demand. Emergency rooms overflowed while specialty clinics sat empty. Primary care physicians were either overwhelmed or underutilized. The system was hemorrhaging money through inefficiency.
 Management's previous attempts at supply-demand modeling had failed because they ignored a critical stakeholder: the doctors themselves. Complex algorithms created by data scientists were technically correct but clinically useless—physicians didn't trust what they couldn't understand.
 
 **The Innovation:**
-Greg took a radical approach: instead of building a model FOR doctors, he would build it WITH them. He assembled 12+ primary care physicians into a working group—not as consultants, but as co-architects.
+Greg took a different approach: instead of building a model FOR doctors, he would build it WITH them. He assembled 12+ primary care physicians into a working group—not as consultants, but as co-architects.
 Through months of collaborative sessions, Greg translated clinical intuition into mathematical logic:
 
 * **Physician Logic Mapping:** Converted decades of medical experience into algorithmic decision trees
@@ -221,7 +221,7 @@ Through months of collaborative sessions, Greg translated clinical intuition int
 **The Impact:**
 
 * **$20M+ Saved:** Reduced patient wait times and resource waste through accurate demand prediction
-* **Clinical Buy-in:** First supply-demand model actively used by physicians rather than imposed on them
+* **Clinical Buy-in:** A supply-demand model physicians actively used rather than had imposed on them
 * **Scalable Framework:** Model expanded beyond Oregon to other Kaiser regions
 * **Patient Satisfaction:** Reduced wait times and improved care access drove member retention
 
@@ -233,7 +233,7 @@ Through months of collaborative sessions, Greg translated clinical intuition int
 
 ---
 
-## 2006-2009: The Testing Miracle at Blue Cross Blue Shield
+## 2006-2009: Orchestrating 400 Testers at Blue Cross Blue Shield
 
 ### Point B - Orchestrating Controlled Chaos
 
@@ -253,10 +253,10 @@ Greg designed a hierarchical testing framework that transformed chaos into chore
 
 **The Impact:**
 
-* **6-Month Delay Victory:** While delayed 6 months from original timeline, this was considered a massive win—similar initiatives had failed entirely or gone live with catastrophic defects
-* **Near-Zero Defects:** Go-live achieved with minimal production issues—unprecedented for a system of this scale
+* **6-Month Delay Victory:** While delayed 6 months from original timeline, this was considered a major win—similar initiatives had failed entirely or gone live with catastrophic defects
+* **Near-Zero Defects:** Go-live achieved with minimal production issues—rare for a system of this scale
 * **$100M+ Investment Protected:** Successful implementation allowed BCBS to realize full ROI across multiple markets
-* **Industry Benchmark:** The testing model became BCBS's template for future implementations
+* **Reusable Template:** The testing model became BCBS's template for future implementations
 
 **Leadership Lessons:**
 
@@ -266,24 +266,24 @@ Greg designed a hierarchical testing framework that transformed chaos into chore
 
 ---
 
-## Late 1990s: Building the Internet's First Java App Server
+## Late 1990s: Building an Early Java Application Server
 
-### GemStone/GemTalk - Before WebSphere Existed
+### GemStone/GemTalk - Server-Side Java Pioneer
 
-**The Challenge:** Create the world's first production-ready Java application server when Java itself was barely two years old.
+**The Challenge:** Create a production-ready Java application server when Java itself was barely two years old.
 
 **The Story:**
-Fresh from his MBA at UT Austin, Greg joined a small Beaverton startup that was betting everything on an unproven technology: server-side Java. In 1997, while enterprises ran on mainframes and C++, GemStone envisioned a future where Java would power the enterprise web. The problem? No infrastructure existed to make it possible.
-Greg helped architect and build what would become the first working Java application server—predating IBM's WebSphere and setting the standard for J2EE. But building it was only half the battle. The world didn't yet understand why they needed it.
+Fresh from his MBA at UT Austin, Greg joined a small Beaverton startup that was betting everything on an unproven technology: server-side Java. In 1997, while enterprises ran on mainframes and C++, GemStone envisioned a future where Java would power the enterprise web. The problem? Little infrastructure existed to make it possible.
+Greg helped architect and build one of the first working Java application servers, and helped pioneer the server-side Java approach that later became mainstream. But building it was only half the battle. The world didn't yet understand why they needed it.
 
 **The Innovation:**
-Greg developed the Java WebServer Training prototype and became GemStone's global evangelist, circumnavigating the globe to train Fortune 500 companies on a technology paradigm that didn't yet exist. From Tokyo to London, Greg taught skeptical enterprise architects how Java could replace million-dollar mainframe systems with commodity servers.
-The reputation Greg built at GemStone followed him to Nike, where he leveraged this expertise to create Nike's first unified online catalog—seamlessly integrating three historically siloed divisions (Footwear, Apparel, and Equipment) into a single e-commerce experience. This was 1998: before "omnichannel" was a word, Greg was building it.
+Greg developed the Java WebServer Training prototype and became GemStone's global evangelist, traveling the globe to train Fortune 500 companies on a new technology paradigm. From Tokyo to London, Greg taught skeptical enterprise architects how Java could replace million-dollar mainframe systems with commodity servers.
+The reputation Greg built at GemStone followed him to Nike, where he contributed to Nike's first unified online catalog—integrating three historically siloed divisions (Footwear, Apparel, and Equipment) into a single e-commerce experience. This was 1998: before "omnichannel" was a word, Greg was helping build it.
 
 **The Impact:**
 
-* **Industry Creation:** Helped establish the Java app server market (now worth $15+ billion annually)
-* **Nike's Digital Revolution:** First unified product catalog laid groundwork for Nike's current $12B+ digital business
+* **Market Building:** Helped establish the early Java application server market
+* **Nike's Digital Commerce:** The unified product catalog was an early step in Nike's digital commerce
 * **Technology Evangelism:** Trained hundreds of developers who would build the early internet
 
 **Leadership Lessons:**
@@ -294,41 +294,41 @@ The reputation Greg built at GemStone followed him to Nike, where he leveraged t
 
 ---
 
-## Early 1990s: The Space Station Crisis Nobody Knew About
+## Early 1990s: The Space Station Issue Nobody Knew About
 
 ### McDonnell Douglas/Boeing - Senior Engineering Analyst
 
 **The Challenge:** Model and validate Space Station Freedom's requirements using cutting-edge simulation technology.
 
 **The Story:**
-Fresh from Purdue, Greg joined McDonnell Douglas during the ambitious Space Station Freedom program (later the ISS). Working with RDD-100—a revolutionary requirements modeling tool—Greg supported the engineering leadership in creating comprehensive system simulations that would validate billions in aerospace investment.
-Months into painstaking modeling, Greg's simulations revealed something alarming: a fundamental incompatibility between the Space Station's docking specifications and the Space Shuttle's connector systems. The tolerance stackups, thermal expansions, and pressure differentials created a scenario where successful docking would be probabilistic, not guaranteed.
+Fresh from Purdue with a degree in Aerospace Engineering, Greg joined McDonnell Douglas during the ambitious Space Station Freedom program (later the ISS). Working with RDD-100—an advanced requirements modeling tool—Greg supported the engineering leadership in creating comprehensive system simulations that would help validate billions in aerospace investment.
+Months into painstaking modeling, Greg's simulations surfaced something alarming: an apparent incompatibility between the Space Station's docking specifications and the Space Shuttle's connector systems. The tolerance stackups, thermal expansions, and pressure differentials created a scenario where successful docking could be probabilistic, not guaranteed.
 
 **The Discovery:**
-The incompatibility was subtle—hidden in the interaction of multiple subsystems that individually passed all requirements. Only through Greg's integrated RDD-100 model did the issue surface. Ground testing couldn't replicate the zero-gravity, vacuum, and thermal conditions simultaneously, meaning this flaw would have remained hidden until the first orbital docking attempt.
+The incompatibility was subtle—hidden in the interaction of multiple subsystems that individually passed all requirements. Greg's integrated RDD-100 model surfaced the issue. Ground testing couldn't replicate the zero-gravity, vacuum, and thermal conditions simultaneously, meaning such a flaw might have remained hidden until an orbital docking attempt.
 
 **The Impact:**
 
-* **Risk Mitigated:** Potential loss of mission, crew safety hazard, and billions in emergency redesign costs
-* **Invisible Save:** While savings couldn't be calculated (how do you price preventing a space disaster?), the discovery triggered critical design revisions before metal was cut
-* **Technical Validation:** Proved the value of comprehensive systems modeling in complex aerospace projects
+* **Risk Mitigated:** Helped avoid potential mission risk, crew safety hazards, and costly emergency redesign
+* **Invisible Save:** While savings couldn't be calculated, the finding contributed to design revisions before metal was cut
+* **Technical Validation:** Demonstrated the value of comprehensive systems modeling in complex aerospace projects
 
 **Leadership Lessons:**
 
 * Demonstrated courage in escalating "impossible" findings to senior leadership
-* Validated the power of simulation in catching catastrophic integration failures
-* Established reputation for technical rigor that launched a career in complex systems — the same rigor that 30+ years later would become the LCSH framework for catching invisible behavioral failures in deployed AI
+* Validated the power of simulation in catching integration failures
+* Established reputation for technical rigor that launched a career in complex systems — the same rigor that decades later would become the LCSH framework for catching invisible behavioral failures in deployed AI
 
 ---
 
-## 1990: The Mars Lander Revolution
+## 1990: The Mars Lander Breakthrough
 
 ### Purdue University Senior Design Project - Award Winner
 
 **The Challenge:** Design a viable Mars landing vehicle against four competing teams in Purdue's Aerospace Engineering capstone competition.
 
 **The Story:**
-In 1990, five randomly assembled aerospace engineering students faced Purdue's most challenging senior design project: creating a Mars lander that could survive atmospheric entry and achieve controlled landing. As team leader, Greg orchestrated a diverse group through months of intensive design iterations, late-night simulations, and heated technical debates
+In 1990, five randomly assembled aerospace engineering students faced Purdue's most challenging senior design project: creating a Mars lander that could survive atmospheric entry and achieve controlled landing. As team leader, Greg orchestrated a diverse group through months of intensive design iterations, late-night simulations, and heated technical debates.
 The breakthrough came through Greg's systematic analysis using aviation software and vehicle dynamics simulations. While competing teams pursued conventional winged designs—influenced by Space Shuttle success—Greg's simulations revealed a critical flaw: Mars's thin atmosphere (1% of Earth's density) made wings essentially decorative weight penalties.
 
 **The Innovation:**
