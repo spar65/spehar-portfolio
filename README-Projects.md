@@ -86,7 +86,7 @@ Impact: Day-to-day company operations run by coordinated agents, with human appr
 * **Context-Loaded Assessment** — Assesses AI agents with their full operational context active (system prompts, knowledge files, tools), not bare base models, producing a Context Configuration Fingerprint
 * **Runtime Behavioral Fleet** — Six named agents operating under constitutional separation of powers: **Jessie** (Commander), **Nole** (Operator/Trust Evangelist), **Grillo** (Conscience/LCSH assessor), **Noah** (Navigator/temporal authority), **Sam** (Engineer), **Mighty Mark** (Sentinel/Inspector General)
 * **Cryptographic Integrity** — SHA-256 hash chains anchored to Ethereum mainnet for tamper-evident assessment evidence
-* **Constitutional Separation of Powers** — Patent-protected architecture ensuring Grillo assessments are unidirectional and Mighty Mark retains independent scheduling (the "Survival Paradox")
+* **Constitutional Separation of Powers** — Architecture described in the pending patent applications, designed so Grillo assessments are unidirectional and Mighty Mark retains independent scheduling (the "Survival Paradox")
 * **Fleet-Level Bias Drift Detection** — Flagship risk scenario for insurance and regulated industries
 
 **Technical Foundation:**
