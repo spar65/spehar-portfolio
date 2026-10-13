@@ -6,7 +6,7 @@ I contribute to the field of AI-assisted development and AI governance through r
 
 ---
 
-## ⭐ Featured IEEE Papers (2026)
+## ⭐ Featured IEEE Papers (2025-2026)
 
 ### 1. Responsible AI Horizons: A Multi-Dimensional Framework for Verifiable AI Behavioral Assessment with Cryptographic Verification
 
@@ -14,13 +14,13 @@ Version 4.0, Copyright ©2026 — **Co-authored with Akshay Mittal (University o
 
 This paper presents the AI Assess Tech 4D Morality Framework — a runtime behavioral assessment system for AI evaluating four orthogonal ethical dimensions: Lying (honesty vs. deception), Cheating (fairness vs. unfairness), Stealing (integrity vs. exploitation), and Harm (safety vs. harmful intent). The framework employs a 120-question scenario-based instrument that maps AI responses to four personality archetypes using Euclidean distance classification in 4-dimensional space, with tamper-proof SHA-256 hash chains and Ethereum-anchored instrument integrity. Baseline validation across four major LLM providers (OpenAI, Anthropic, Google, xAI) demonstrates measurable behavioral variation, and a multi-run study (n=40) establishes test-retest reliability (ICC(2,k) = 0.873–0.972 across Lying, Cheating, and Stealing). Context-sensitive assessment under adversarial system prompts produces near-complete ethical profile inversion (Well-Adjusted to Psychopath), confirming the framework's runtime verification thesis.
 
-**Key Contribution:** First production-deployed multi-dimensional behavioral assessment framework with cryptographic verification, blockchain-anchored instrument integrity, and empirically validated test-retest reliability — operationalizing responsible AI as a runtime-measurable property rather than a training-time aspiration.
+**Key Contribution:** A production-deployed multi-dimensional behavioral assessment framework with cryptographic verification, blockchain-anchored instrument integrity, and empirically validated test-retest reliability — operationalizing responsible AI as a runtime-measurable property rather than a training-time aspiration.
 
-**Status:** Accepted and presented at IEEE ICAISET 2026 (April 22, 2026, Bahrain). Forthcoming in IEEE Xplore (proceedings indexing pending).
+**Status:** Accepted and presented at IEEE ICAISET 2026 (April 22, 2026, Bahrain). Published in IEEE Xplore.
 
 **Download:** [Responsible AI Horizons (PDF)](https://www.aiassesstech.com/marketing/Responsible_AI_Horizons__A_Multi_Dimensional_Framework_V4_0_IEEE_Copyright.pdf)
 
-**IEEE Xplore:** (https://ieeexplore.ieee.org/document/11541913)
+**IEEE Xplore:** [IEEE Xplore document 11541913](https://ieeexplore.ieee.org/document/11541913)
 
 ---
 
@@ -30,18 +30,16 @@ Version 1.0, Copyright ©2026 — **Co-authored with Akshay Mittal (University o
 
 This paper synthesizes five competing schools of AGI definition — Capabilities (DeepMind Levels), Cognitive Science (Hendrycks CHC-based AGI Score), Economic Value (OpenAI charter), Process-Oriented (Marcus et al.), and Embodiment — into a unified taxonomy of 25 requirements across seven domains, with Safety, Ethics & Governance elevated from afterthought to constitutive requirement. Through systematic assessment, the paper demonstrates that the global AI industry achieves near-zero capability in governance (Domain 7), supported by the Future of Life Institute's finding that no frontier company scored above D in existential safety planning. The AI Assess Tech Governance Framework — comprising LCSH behavioral assessment, constitutional separation of powers across six specialized AI agents, economic mortality alignment, temporal ethical drift detection, and cryptographic verification — is presented as a production-deployed system achieving 100% coverage of Domain 7 requirements, anchored on Ethereum mainnet at Block 24,467,724.
 
-**Key Contribution:** First comprehensive framework linking AGI requirements analysis with runtime behavioral governance, arguing that governance infrastructure is constitutive of AGI rather than an optional safety layer. Introduces the "Yellow Brick Road" phased model: governance built as foundational waypoints rather than afterthoughts, analogous to aviation safety protocols as constitutive of the aviation system.
+**Key Contribution:** A comprehensive framework linking AGI requirements analysis with runtime behavioral governance, arguing that governance infrastructure is constitutive of AGI rather than an optional safety layer. Introduces the "Yellow Brick Road" phased model: governance built as foundational waypoints rather than afterthoughts, analogous to aviation safety protocols as constitutive of the aviation system.
 
-**Status:** Accepted and presented at IEEE ICAISET 2026 (April 21, 2026, Bahrain). Forthcoming in IEEE Xplore (proceedings indexing pending).
+**Status:** Accepted and presented at IEEE ICAISET 2026 (April 21, 2026, Bahrain). Published in IEEE Xplore.
 
 **Download:** [The Yellow Brick Road to AGI (PDF)](https://www.aiassesstech.com/marketing/Yellow_Brick_Road_to_AGI_IEEE_Copyright.pdf)
 
 
-**IEEE Xplore:** (https://ieeexplore.ieee.org/document/11541550)
+**IEEE Xplore:** [IEEE Xplore document 11541550](https://ieeexplore.ieee.org/document/11541550)
 
 ---
-
-## 📚 Working & Published Papers
 
 ### 3. AI-Ready Data Governance: A Five-Pillar Framework for Multi-Enterprise Integration
 
@@ -49,17 +47,19 @@ Version 1.0, Copyright ©2025
 
 This framework addresses data governance challenges for AI systems in multi-enterprise environments through five integrated pillars: Standards for universal protocols, Data Catalogue for inventory management, Data Models for preparation processes, Data Stewards for quality oversight, and AI Use Cases for orchestration. Validated through six-month production implementation across partner enterprises on Databricks, the framework demonstrated reductions in MVP development time, decreased technical debt, and achieved high data quality scores (targeting 90%+) through systematic orchestration patterns integrating BCBS 239, GDPR, and Basel III/IV compliance.
 
-**Key Contribution:** Establishes the first comprehensive five-pillar framework specifically designed for federated AI governance in multi-enterprise financial services environments, where proper data management determines whether AI systems enhance or destroy value.
+**Key Contribution:** Establishes a comprehensive five-pillar framework specifically designed for federated AI governance in multi-enterprise financial services environments, where proper data management determines whether AI systems enhance or destroy value.
 
-**Download:** <https://ieeexplore.ieee.org/document/11430845>
+**Download:** [IEEE Xplore document 11430845](https://ieeexplore.ieee.org/document/11430845)
 
 ***IEEE-ICCA Paper:*** <https://edas.info/showPaper.php?m=1571225187>
 
-***IEEE-ICCA 2025 Program:*** <https://img1.wsimg.com/blobby/go/0e61ebf1-6b17-4866-952c-20b4e0251845/downloads/432c8c34-07be-4695-9ac2-478992007dd4/FinaProgram-V7December23.pdf?ver=1769450189142> (NOTE: Search for Spehar)
+***IEEE-ICCA 2025 Program:*** [IEEE-ICCA 2025 Program (PDF; search for Spehar)](https://img1.wsimg.com/blobby/go/0e61ebf1-6b17-4866-952c-20b4e0251845/downloads/432c8c34-07be-4695-9ac2-478992007dd4/FinaProgram-V7December23.pdf?ver=1769450189142)
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/feeding-the-dragons>
 
-**ORCID:** <https://orcid.org/0009-0001-6502-0737> (Still setting up, so there is nothing here at this time.)
+---
+
+## 📚 Working & Published Papers
 
 ### 4. AI-Ready Data Governance: A Federated Operating Model for Mid-Sized Companies
 
@@ -101,9 +101,9 @@ This catalogue pillar addresses data invisibility challenges where organizations
 
 Version 1.1, Copyright ©2025
 
-This novel CRUD-integration framework systematically maps Create, Read, Update, and Delete operations to medallion architecture layers, addressing the critical gap where organizations lack explicit lifecycle ownership—who creates records, when updates occur, how reads are governed, and when deletion happens. By assigning Bronze layers for Create, Silver for Update, Gold for Read, and Features for Delete operations, the framework achieves 30-50% operational improvements and reduces AI hallucination rates (15-30% in poorly governed models) through systematic lifecycle management integrating GDPR privacy rights, BCBS 239 lineage requirements, and DORA operational resilience.
+This CRUD-integration framework systematically maps Create, Read, Update, and Delete operations to medallion architecture layers, addressing the critical gap where organizations lack explicit lifecycle ownership—who creates records, when updates occur, how reads are governed, and when deletion happens. By assigning Bronze layers for Create, Silver for Update, Gold for Read, and Features for Delete operations, the framework achieves 30-50% operational improvements and reduces AI hallucination rates (15-30% in poorly governed models) through systematic lifecycle management integrating GDPR privacy rights, BCBS 239 lineage requirements, and DORA operational resilience.
 
-**Key Contribution:** Introduces the first systematic CRUD-to-medallion mapping framework that transforms implicit pipeline knowledge into explicit lifecycle operations, enabling scalable AI deployment through clear operational accountability at each data preparation stage.
+**Key Contribution:** Introduces a systematic CRUD-to-medallion mapping framework that transforms implicit pipeline knowledge into explicit lifecycle operations, enabling scalable AI deployment through clear operational accountability at each data preparation stage.
 
 **Download:** TBD
 
@@ -163,7 +163,7 @@ Version 1.0, Copyright ©2025
 
 This position paper proposes a comprehensive research agenda for systematically investigating JSON schema compliance in LLMs. The framework includes formal complexity metrics, standardized experimental protocols, and testable hypotheses regarding tokenization impacts and architectural limitations. It identifies critical knowledge gaps and establishes a roadmap for transforming structured generation from experimental capability to reliable production technology.
 
-**Key Contribution:** Provides the field's first systematic research framework for investigating structured output challenges.
+**Key Contribution:** Provides a systematic research framework for investigating structured output challenges.
 
 **Download:** <https://www.myvibecoder.us/Spehar_Structured_Output_Generation_Research_Framework_20250910V01.pdf>
 
@@ -183,7 +183,7 @@ Building on empirical observations of 20-30% performance overhead in hybrid work
 
 Version 1.0, Copyright ©2025
 
-This paper introduces a transformative framework for AI-assisted software development through low-code orchestration, addressing critical challenges in Large Language Model integration. The research demonstrates 50-75% reductions in MVP development time and 70% improvements in technical debt efficiency through four key strategies: encapsulation for chaos reduction, symbiotic integration, non-determinism mitigation, and lock-in-free scaling. Validated through the Vibe Coding methodology, this work provides a scalable path for AI-human collaboration aligned with 2025 research trends.
+This paper introduces a framework for AI-assisted software development through low-code orchestration, addressing critical challenges in Large Language Model integration. The research demonstrates 50-75% reductions in MVP development time and 70% improvements in technical debt efficiency through four key strategies: encapsulation for chaos reduction, symbiotic integration, non-determinism mitigation, and lock-in-free scaling. Validated through the Vibe Coding methodology, this work provides a scalable path for AI-human collaboration aligned with 2025 research trends.
 
 **Key Contribution:** Establishes a systematic approach to managing AI complexity in development workflows through encapsulation patterns and structured orchestration.
 
@@ -213,11 +213,11 @@ This paper addresses the adoption barriers of software process simulation models
 
 Version 1.0 (Draft), Copyright ©2025
 
-This white paper (Being written by my Son Sergio Spehar and supervised by myself) addresses the limitations of traditional one-size-fits-all education by proposing an AI-enhanced mastery-based learning framework for Central Texas high schools. Through comprehensive analysis of current ("As-Is") lecture-based methods versus AI-integrated ("To-Be") personalized learning processes, the research demonstrates how artificial intelligence can transform education by providing adaptive instruction, immediate feedback, and ensuring concept mastery before progression.
+This white paper (Being written by my son, Sergio Spehar, under my supervision) addresses the limitations of traditional one-size-fits-all education by proposing an AI-enhanced mastery-based learning framework for Central Texas high schools. Through comprehensive analysis of current ("As-Is") lecture-based methods versus AI-integrated ("To-Be") personalized learning processes, the research demonstrates how artificial intelligence can transform education by providing adaptive instruction, immediate feedback, and ensuring concept mastery before progression.
 
 **Key Contribution:** Establishes a comprehensive, community-grounded framework for transitioning from traditional batch-processing education to AI-powered mastery-based learning.
 
-**Download:** (Coming in Dec 2025)
+**Download:** In progress
 
 **Website:** <https://www.nclb.us/>
 
@@ -225,7 +225,7 @@ This white paper (Being written by my Son Sergio Spehar and supervised by myself
 
 Version: 1.1 (Draft), Copyright ©2025
 
-This position paper presents a groundbreaking case study demonstrating AI's emergent capability to generate comprehensive test suites with minimal human guidance. Through a real-world implementation generating 435 tests for a survey application, the research achieved a remarkable 98.4% pass rate in first-generation output, representing a 30-40x reduction in development time compared to manual testing approaches.
+This position paper presents a case study demonstrating AI's emergent capability to generate comprehensive test suites with minimal human guidance. Through a real-world implementation generating 435 tests for a survey application, the research achieved a remarkable 98.4% pass rate in first-generation output, representing a 30-40x reduction in development time compared to manual testing approaches.
 
 **Key Contribution:** Establishes empirical validation of AI's emergent pattern recognition capabilities in test generation, demonstrating that with proper structure, AI systems can autonomously scale from minimal examples to production-ready test suites.
 
@@ -237,10 +237,10 @@ This position paper presents a groundbreaking case study demonstrating AI's emer
 
 ### Empirical Contributions
 
-* Production Validation: 237,000+ lines of production code with documented reliability metrics
+* Production Validation: 237,000+ lines of production code (documented in Training Your Dragon)
 * Efficiency Metrics: Demonstrated 50-75% reductions in development time across multiple studies
 * Technical Debt Reduction: Achieved 70% improvements through systematic approaches
-* Patent Portfolio: Three USPTO provisional applications covering eight inventions in runtime AI behavioral governance
+* Patent Portfolio: Pending U.S. patent applications, including nonprovisional 19/783,950, covering eight inventions in runtime AI behavioral governance
 
 ### Theoretical Advances
 
@@ -252,7 +252,7 @@ This position paper presents a groundbreaking case study demonstrating AI's emer
 ### Methodological Innovation
 
 * **Context-Loaded Assessment**: Assessing AI agents with their full operational context active, not bare base models
-* VibeCoding Framework: Novel methodology combining pattern recognition with iterative refinement
+* VibeCoding Framework: A methodology combining pattern recognition with iterative refinement
 * Benchmarking Standards: Established reproducible protocols for AI tool evaluation
 * Research Agendas: Systematic frameworks guiding future investigation priorities
 
@@ -271,5 +271,6 @@ Phase 2 will be the next step: the integration of the physical world into this f
 * **Navigating with your Dragon on the high seas: Strategic Planning & Documentation** - State of the art paper on how to effectively develop steps and plans that can be distributed.
 * **Making the Dragon walk the line: Test-First Validation Methodology** - Systematic development of test cases to solidify and future-proof approved code solutions from unapproved changes.
 * **Playing Chess with the Dragon: Iterative Problem Decomposition for Guaranteed Success** - Strategies for ensuring defects and mis-aligned code are brought into compliance and success.
+* **Running the Fleet: Operating a 30-Agent Grok Bot Fleet as a Company** - How a Chief of Staff agent coordinates specialist agents with human approval gates.
 
 *© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
