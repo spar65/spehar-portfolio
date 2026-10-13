@@ -1,79 +1,163 @@
-# Greg Spehar's Volunteer Leadership & Community Impact
-
-## Volunteer Leadership & Community Impact - Executive Summary
-
-Since 1985, Greg Spehar has shown a sustained commitment to volunteer leadership spanning professional development, nonprofit governance, youth mentorship, and community service. His volunteer portfolio combines technical expertise and servant leadership across diverse contexts, from serving as Finance VP for FACES Foundation and two-term PMI Portland Board Member (Outreach), to founding Chair of the Austin AI Alliance Projects Working Group, which works to make AI accessible to small businesses. His service extends from local impact through youth soccer coaching and Toastmasters leadership to global outreach, including family participation in a medical mission to Acuña, Mexico. This consistent pattern of community engagement reflects core values of empowering underserved populations, building professional communities of practice, and modeling servant leadership across every career stage, from undergraduate engineering fraternity member to technology executive.
-
-## **Humbly We Serve 513 - Acuña Medical Mission Trip Volunteer**
-**Acuña, Mexico | November 14-16, 2025**
-
-Participated as a family in a medical mission trip to Acuña, Mexico with Humbly We Serve 513, a faith-based organization providing free medical and dental services to underserved and impoverished communities. The mission assembles teams of medical professionals and lay volunteers to offer essential healthcare while addressing both medical and spiritual needs. Mission activities included providing treatments, conducting health education, and offering preventive care in areas with limited access to healthcare, fostering compassion and sharing the love of Jesus with communities in need.
-
-**Key Contribution:** Served hands-on alongside family members to deliver healthcare and compassion to vulnerable populations, living out servant leadership, community engagement, and social responsibility while modeling a commitment to service for the next generation.
+# The GiDanc Story
+## From Human Guidance to AI Assess Tech
 
 ---
 
-## **Austin AI Alliance - Chair, Projects Working Group**
-**Austin, Texas | 2023 - Present**
+## The Journey: From Understanding Humans to Guiding AI
 
-Founded and chair the Projects Working Group for Austin AI Alliance (austin-ai.org), a community organization advancing responsible AI adoption. Initiated and defined the MVP for onboarding and staging Alliance Projects. Lead CoAIch AI project development, including AI Service Specifications and Core Service Infrastructure design, planned to support 60+ AI services for small and medium-sized companies across a wide range of business needs.
+### **2008: The Original Vision - Understanding Human Decision-Making**
 
-**Key Contribution:** Turned grassroots AI interest into a structured project delivery framework, giving underserved small and medium businesses in the Austin region a systematic path to adopting AI.
+In 2008, Greg Spehar wasn't yet thinking about AI. He was obsessed with a different question: *Why do smart people make terrible decisions?*
+
+Fresh from turning around multi-million dollar projects at Kaiser Permanente and Blue Cross Blue Shield, Greg had witnessed a pattern: technical brilliance repeatedly sabotaged by human judgment failures. Teams with perfect processes still delivered imperfect results. Organizations with flawless strategies still failed.
+
+The answer wasn't more technology—it was understanding the human "dance" between logic and values.
+
+### **The Birth of GiDanc: Guidance for Natural Intelligence**
+
+In 2008, Greg founded a company with a bold premise: What if we could map human decision-making across multiple dimensions—morality, virtue, ethics, and operational excellence—to predict and guide better outcomes?
+
+In the years that followed, Greg developed what would become the foundation of everything:
+
+**The Four-Dimensional Human Guidance Framework:**
+- **Morality Mapping**: Tracking decisions against lying, cheating, stealing, and harm
+- **Virtue Mapping**: Understanding internal/external and active/passive behavioral drivers
+- **Ethics Mapping**: Evaluating choices through risk, natural laws, liberty, and market forces
+- **Operational Excellence**: Measuring domain-specific performance and outcomes
+
+This wasn't abstract philosophy. Lessons from turning around programs at Kaiser, Blue Cross, OCF, and Farm Credit Bank, and from scaling an Agile method in Vietnam that FCT Software adopted across 5,000+ engineers, shaped the framework.
+
+The framework worked because it didn't judge—it mapped. Like a GPS for decision-making, it showed where you were and helped you navigate toward "the corner of Good."
+
+### **2023: The Lightning Strike Moment**
+
+Then ChatGPT arrived.
+
+While the world debated whether AI could write poetry or pass the bar exam, Greg had a different realization: *This isn't just artificial intelligence—it's artificial decision-making.*
+
+The framework he'd spent years refining for human intelligence suddenly had a new, urgent purpose. If AI was making decisions, it needed the same guidance humans did—maybe more.
+
+**The Revelation:**
+- AI was making millions of micro-decisions per second
+- Each decision carried moral, ethical, and operational implications
+- Without guidance, AI optimized for efficiency, not ethics
+- The same framework that guided humans could help measure and guide AI
+
+### **2024: The Behavioral-Turing Test**
+
+Greg transformed his human framework into a new kind of test: the Behavioral-Turing Test. While Turing asked "Can a machine think like a human?", Greg asked "Can a machine behave ethically like we hope humans would?"
+
+The 2024 proposal's design:
+- **960+ Question Battery**: Comprehensive assessment across all four dimensions
+- **Response Assessment**: AI responses are measured against the framework before they are presented
+- **Learning from Results**: Responses that fail assessment become data for improving behavior
+- **Domain Adaptation**: Framework adjusts for healthcare, finance, legal, or any sector
+
+This wasn't about constraining AI—it was about giving it wings to fly safely.
+
+The proposal, submitted to OpenAI's Superalignment grant program in 2024, is here: [2024 Superalignment Grant Proposal (PDF)](https://www.myvibecoder.us/2024-OpenAI-Superalignment-Grant-Proposal-Spehar-V08-6-5.pdf)
+
+### **2024: A Step Along the Way - Enter VIBEcoder**
+
+The framework showed promise in testing, but developers faced a practical problem: AI could generate code at superhuman speed, but it created technical debt at the same pace. Security vulnerabilities multiplied. Code bloat exploded. Projects became unmaintainable.
+
+Greg saw a practical application for his framework: What if the guidance system wasn't just evaluating AI's decisions but actively managing AI's code creation?
+
+**VIBEcoder was born from three insights:**
+1. **AI needs rules, not restrictions**: Guide the river, don't dam it
+2. **Developers need speed AND safety**: You can have both
+3. **Ethics must be embedded, not added**: Build it in from line one
+
+### **The VIBE Methodology: Values-Integrated Behavioral Engineering**
+
+VIBEcoder turned the abstract framework into concrete tools:
+
+**V**alues - Your organization's coding standards become AI's north star
+**I**ntegration - Seamless embedding in existing development workflows
+**B**ehavioral - AI learns from every decision, improving over time
+**E**ngineering - Practical tools that developers actually want to use
+
+The goal: MVPs in weeks, not months. Security built-in, not bolted-on. Code that's clean, compliant, and actually maintainable.
+
+### **2024-2026: AI Assess Tech**
+
+VIBEcoder pointed the way to the bigger question: once AI is deployed, how do you know it still behaves the way you say it does?
+
+[AI Assess Tech](https://aiassesstech.com) is Greg's answer: a runtime behavioral governance and assessment platform that measures deployed AI across **Lying, Cheating, Stealing, and Harm (LCSH)** using a 120-question framework. Results are anchored to Ethereum via SHA-256 hash chains, producing tamper-evident evidence of how deployed AI behaves.
+
+Its four-level hierarchy—**Morality, Virtue, Ethics, and Operational Excellence**—grew directly out of the 2008 four-dimensional framework. A six-agent governance fleet carries out the assessment work.
+
+Greg is sole inventor on pending U.S. patent applications (including nonprovisional 19/783,950) covering eight inventions, and author of three IEEE papers (2025-2026).
+
+Greg now runs GiDanc AI full-time with a 30-agent Grok Bot fleet, where a Chief of Staff agent coordinates specialists and human approval is required before anything goes out. These are the same governance ideas, applied to his own company. He also built [CashCanvas](https://www.cashcanvas.us/), a household finance app with AI at its core, which one of his fleet agents runs on.
+
+### **The Dance Continues: GiDanc + VIBEcoder + AI Assess Tech**
+
+Today, GiDanc AI LLC represents the full journey:
+- **GiDanc**: The foundational framework and philosophy—helping AI dance with humanity toward good
+- **VIBEcoder**: The practical application—giving developers wings while keeping them grounded
+- **AI Assess Tech**: The evidence—measuring how deployed AI actually behaves
+
+The same framework that helped humans make better decisions now measures whether AI makes ethical choices, millions of times per second.
 
 ---
 
-## **Westside Soccer Club - Head Coach**
-**Portland Area | 2017**
+## **The Core Innovation: From Human GPS to AI Guidance System**
 
-Served as Head Coach for 2nd and 3rd grade soccer teams at Westside Soccer Club, developing young athletes' fundamental skills, teamwork, and sportsmanship. Planned and led practice sessions, coordinated game-day activities, and fostered positive youth development through structured athletic programming. Mentored young players in building confidence, resilience, and collaborative problem-solving on and off the field.
+### **For Humans (2008-2023):**
+- Mapped decision-making patterns
+- Provided navigational guidance
+- Improved outcomes through awareness
+- Scaled across organizations
 
-**Key Contribution:** Created an inclusive, development-focused athletic environment that built foundational skills and confidence in young athletes while modeling leadership, patience, and communication that carry from sports into life.
+### **For AI (2023-Present):**
+- Measures AI decision patterns at runtime
+- Detects ethical drift
+- Produces tamper-evident evidence of how deployed AI behaves
+- Scales across large volumes of AI interactions
 
----
-
-## **Project Management Institute (PMI) Portland Chapter - Board Member, Outreach**
-**Portland, Oregon | 2016-2017**
-
-Served a second term on the Board of Directors for PMI Portland Chapter, one of the largest professional project management organizations in the Pacific Northwest, leading Outreach initiatives. Developed and executed community engagement strategies, professional development programming, and industry partnership initiatives. Bridged connections between chapter members and the broader business community, expanding the chapter's reach across diverse industries.
-
-**Key Contribution:** Strengthened the professional development ecosystem and expanded PMI's community presence through outreach, raising project management practice across the Portland metropolitan area while growing member engagement and industry partnerships.
-
----
-
-## **FACES Foundation - Board Member & Finance VP**
-**Portland, Oregon | 2012**
-
-Served as Finance Vice President and Board Member for FACES Foundation, a nonprofit supporting families and children. Provided financial oversight, budget planning, and governance for organizational sustainability. Led financial planning to support responsible stewardship of donor contributions and program funding. Contributed to strategic direction and policy development during a critical growth phase.
-
-**Key Contribution:** Established financial governance practices that supported transparent fund management and strong program impact for vulnerable families and children in the Portland community during a pivotal period of organizational growth.
+### **The Unified Vision:**
+Whether guiding human teams or artificial intelligence, the principle remains: Technology and humanity must dance together, moving always toward the corner of Good. With Hope, Humor, and Humility, we work so that as intelligence evolves—natural or artificial—it serves our highest values.
 
 ---
 
-## **Project Management Institute (PMI) Portland Chapter - Board Member, Outreach**
-**Portland, Oregon | 2007-2008**
+## **Why This Matters Now**
 
-Served a first term on the Board of Directors for PMI Portland Chapter, one of the largest professional project management organizations in the Pacific Northwest, leading Outreach initiatives. Developed and executed community engagement strategies, professional development programming, and industry partnership initiatives. Bridged connections between chapter members and the broader business community, expanding the chapter's reach across diverse industries.
+We stand at a crossroads. AI will either amplify humanity's best qualities or its worst impulses. The difference isn't in the technology—it's in the guidance.
 
-**Key Contribution:** Strengthened the professional development ecosystem and expanded PMI's community presence through outreach, raising project management practice across the Portland metropolitan area while growing member engagement and industry partnerships.
+Greg Spehar spent years preparing for this moment without knowing it. The framework designed to help humans navigate complex decisions became the key to measuring whether AI serves humanity's highest aspirations.
 
----
+**From the Mars lander that challenged conventional thinking...**
+**To the Space Station modeling that surfaced a hidden docking issue...**
+**To the frameworks that transformed global teams...**
+**Every experience led here:**
 
-## **Toastmasters International - Member & President**
-**Houston, Texas | 1992-1993**
+Building the guidance system that helps AI not just think—but think ethically. Not just code—but code with purpose. Not just solve problems—but solve them while preserving what makes us human.
 
-Active member and President of a Toastmasters club while working as a Systems Engineer at McDonnell Douglas in Houston. Led club operations, facilitated weekly meetings, and mentored members in public speaking, communication, and leadership. Advanced through the Toastmasters Competent Communicator program while serving as club president. Fostered a supportive environment for engineering and technical professionals building their presentation and leadership skills.
+This is the GiDanc story: understanding human intelligence since 2008, applied to the defining challenge of our time—making sure artificial intelligence serves the good.
 
-**Key Contribution:** Developed the public speaking and leadership skills that became a cornerstone of his consulting career, building the confidence in technical communication that supported his move from engineering to program management and executive leadership roles across major enterprises.
-
----
-
-## **Theta Tau Engineering Fraternity - Member**
-**Purdue University, West Lafayette, Indiana | 1985-1990**
-
-Active member of Theta Tau professional engineering fraternity throughout his undergraduate years at Purdue University, participating in professional development, community service, and brotherhood activities. Engaged in engineering-focused networking, academic support, and leadership development. Helped build a collaborative engineering culture and supported fellow members' academic and professional success while earning his degree in Aerospace Engineering.
-
-**Key Contribution:** Built a foundational professional network and leadership skills during his engineering education, creating lasting connections that supported his early career, from Space Station engineering at McDonnell Douglas through later technology and consulting roles.
+*"It gives you wings"—but more importantly, it gives you a compass.*
 
 ---
 
-© 2026 GiDanc AI LLC
+## **The Call to Action**
+
+The framework is built and being tested with early users. The vision is clear.
+
+Now we need partners who understand that the future of AI isn't just about capability—it's about character. Not just about what AI can do—but what it should do.
+
+Whether you're a developer drowning in technical debt, an enterprise seeking ethical AI implementation, or an investor who sees the value of AI that actually works for humanity—the dance floor is open.
+
+**Join us in guiding AI toward the corner of Good.**
+
+*Because after years of preparation, the moment has arrived.*
+
+---
+
+**Greg Spehar**
+Founder & President, GiDanc AI LLC
+Creator of VIBEcoder™
+Inventor & Chief Architect, [AI Assess Tech](https://aiassesstech.com)
+*Guiding intelligence, natural and artificial, toward good since 2008*
+
+*© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
