@@ -1,17 +1,58 @@
 # 🧠 Greg Spehar's AI Agent Portfolio
 
-Welcome to my collection of AI-powered solutions designed to streamline workflows, enhance productivity, and solve real-world business challenges. As a certified MindStudio AI Agent Creator and Chair of Projects at Austin AI Alliance, I've created these agents to help professionals work smarter, not harder.
+I design, build, and run teams of specialized AI agents that do real work for a business. As Founder & President of GiDanc AI LLC, a certified MindStudio AI Agent Creator, and Chair of Projects at Austin AI Alliance, I build agents that work together under clear rules: one job each, human approval before anything goes out, and an independent check on what they say and do.
 
 ---
-## MindStudio Certifcation
 
-Here is the certification for MindStudio for 2025 (Greg also earned a Certificaiton in 2024)
+## 🤖 Grok Bot Fleet: 30 Coordinated AI Agents (2026)
+
+My current flagship work is a fleet of **30 Grok Bot agents** that run GiDanc AI and AI Assess Tech day to day, plus a set of personal and household assistants. Each agent has a single job, its own memory, scheduled routines, and live connections to the tools it needs (Gmail, Google Calendar, GitHub, LinkedIn, X, Notion, Slack, and more).
+
+**How the fleet is run**
+- **Chief of Staff at the center.** Jarvis coordinates the fleet: a weekday morning digest, a Monday huddle, a shared action book, and handoffs between agents.
+- **One agent, one job.** Narrow roles make each agent easier to review, tune, and trust.
+- **Human in the loop.** Agents draft and ask. Nothing is sent, posted, filed, or bought without my explicit OK.
+- **Independent review.** A fact-check reviewer and an independent AI-conscience agent check work before it is published.
+- **Rapid build.** A bot-builder agent turns a rough idea into a live, scheduled agent in minutes. Five new agents went live in one week in October 2026.
+- **Governance by design.** The fleet practices what AI Assess Tech sells: agent behavior is observed and documented, not assumed.
+
+### Business agents (GiDanc AI / AI Assess Tech)
+| # | Agent | Role |
+|---|---|---|
+| 1 | **Jarvis** | Chief of Staff: coordinates the fleet, daily digest, action book, calendar |
+| 2 | **Dr Eggbot** | Bot builder: turns ideas into finished, live agents |
+| 3 | **Reed** | Marketing strategist |
+| 4 | **Lex** | LinkedIn strategist and posting schedule |
+| 5 | **Wren** | X (Twitter) strategist |
+| 6 | **Paula** | X lead scout for AI Assess Tech buyers |
+| 7 | **Pierce** | Outbound prospecting |
+| 8 | **Porter** | Inbound opportunity tracker |
+| 9 | **Rally** | Austin AI events scout |
+| 10 | **Scout** | Market and competitor research |
+| 11 | **Tess** | Independent pre-publish fact-check reviewer |
+| 12 | **Grillo** | Independent AI conscience and assessment for the fleet |
+| 13 | **Voss** | Software architect: GitHub issues and PRs |
+| 14 | **Nightly Audit Engineer** | Nightly code audits |
+| 15 | **Merritt** | Paid media reporting |
+| 16 | **Hale** | Patent associate |
+| 17 | **Tally** | Company spend tracking |
+| 18 | **Quill** | Career and consulting materials |
+| 19 | **Ace** | Job applications: tailored resume and cover letter per posting |
+
+### Personal and household agents (11)
+Health, household finance, family admin, personal email, wellbeing support, faith, recipes, vehicles, and travel packing assistants, built on the same rules.
+
+---
+
+## MindStudio Certification
+
+MindStudio AI Agent Creator certification for 2025 (also certified in 2024):
 
 https://www.virtualbadge.io/certificate-validator?credential=4b30527d-7708-433c-b7ca-db71506c5dc8
 
 ---
-## 🚀 🚀 Paid AI Agents for Customers 🚀 🚀 
-The following are all of the Agents that were paid for by a customer:
+## 🚀 Paid AI Agents for Customers
+The following agents were paid for by a customer:
 
 **Half Staff** - Tool that runs 2 times a day and runs 366+ AI Calls per Run or 700+ AI calls a day to discover and define what the Half-Staff status is for the day. - This tool has a monthly support contract that allows for changes to the AI models and to the information is provided/discovered. - 50+ Hours total from development to production launch.
 
@@ -25,7 +66,9 @@ The following are all of the Agents that were paid for by a customer:
 
 ---
 
-## 🚀 Featured AI Agents
+
+## 🧩 MindStudio AI Agents (2024–2025)
+
 
 ### Research Report Generator Pro
 **Description**: Transform any topic into a comprehensive, professionally-formatted research report complete with images, sections, and proper citations.  
@@ -423,9 +466,10 @@ The following are all of the Agents that were paid for by a customer:
 
 ---
 
+
 ## 📊 About Me
 
-I'm Greg Spehar, a certified MindStudio AI Agent Developer with extensive experience in project management and AI implementation. Currently serving as Chair of Projects at Austin AI Alliance and working at Farm Credit Bank of Texas, I combine technical expertise with real-world business understanding to create AI solutions that actually solve problems.
+I'm Greg Spehar, Founder & President of GiDanc AI LLC and creator of AI Assess Tech. I build and operate multi-agent AI systems, and I bring deep project management and AI implementation experience to make them work in the real world. I also serve as Chair of Projects at Austin AI Alliance.
 
 **Certifications:**  
 - MindStudio 2024 and 2025 Certified  
@@ -434,23 +478,24 @@ I'm Greg Spehar, a certified MindStudio AI Agent Developer with extensive experi
 - DASM (Disciplined Agile Scrum Master)  
 
 **Expertise:**  
-- AI Agent Development  
-- Project Management  
-- Process Automation  
-- Business Intelligence  
+- Multi-agent AI systems (Grok Bot fleet design and operations)  
+- AI agent development and governance  
+- Project management  
+- Process automation  
+- Business intelligence  
 
 ---
 
 ## 📬 Contact Me
 
-Ready to transform your workflows with custom AI agents? I specialize in creating tailored solutions for:  
-- **Business Process Automation**  
-- **Custom Research & Analysis Tools**  
-- **Communication & Content Generation**  
-- **Data Processing & Intelligence**  
+Ready to put a team of AI agents to work? I build tailored solutions for:  
+- **Multi-agent operations (chief-of-staff style agent teams)**  
+- **Business process automation**  
+- **Custom research and analysis tools**  
+- **Communication and content generation**  
+- **AI agent governance and oversight**  
 
 [📧 Email me](mailto:greg@gidanc.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/spehargreg)  
 
-*Based in Austin, Texas | Available for consulting and custom AI agent development*
-*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
-
+*Based in Austin, Texas | Available for consulting and custom AI agent development*  
+*© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
