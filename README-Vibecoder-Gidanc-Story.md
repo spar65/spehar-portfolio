@@ -55,8 +55,7 @@ The 2024 proposal's design:
 
 This wasn't about constraining AI—it was about giving it wings to fly safely.
 
-The proposal, submitted to OpenAI's Superalignment grant program in 2024, is here: [2024 Superalignment Grant Proposal (PDF)](https://www.myvibecoder.us/2024-OpenAI-Superalignment-Grant-Proposal-Spehar-V08-6-5.pdf)
-
+The proposal, submitted to OpenAI's Superalignment grant program in 2024, available upon request.
 ### **2024: A Step Along the Way - Enter VIBEcoder**
 
 The framework showed promise in testing, but developers faced a practical problem: AI could generate code at superhuman speed, but it created technical debt at the same pace. Security vulnerabilities multiplied. Code bloat exploded. Projects became unmaintainable.
