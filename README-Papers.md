@@ -59,9 +59,23 @@ This framework addresses data governance challenges for AI systems in multi-ente
 
 ---
 
+## 📄 IEEE-Format Manuscript (Available Upon Request)
+
+### 4. A Canary for Deployed AI: Preregistered Multi-Stage Validation of LCSH, a Deployment-Level LLM Behavioral Screen for Recurrent Enterprise Risk Attestation
+
+Version 0.5, Copyright ©2026 GiDanc AI LLC
+
+Enterprises increasingly run portfolios of dozens to hundreds of deployed AI systems, yet behavioral evaluation remains ad hoc, conversational, and hard to audit. This paper presents a preregistered, multi-stage validation protocol for the LCSH (Lying, Cheating, Stealing, Harm) framework, the 120-item forced-choice behavioral instrument behind AI Assess Tech. Every stage ran under cryptographically locked conditions: SHA-256 hash-chained analyses, registered freezes, and append-only deviation logs, with pass/fail criteria fixed before data collection. The paper reports every registered outcome, including the gates and predictions that failed, and argues that LCSH is fit for use as a level-1 enterprise risk screen that is re-administered as models, prompts, tools, and policies change.
+
+**Key Contribution:** Frames AI behavioral assessment as recurrent, moment-in-time attestation rather than a one-time safety certificate, and shows that preregistered, tamper-evident protocols with honestly reported failures are a necessary standard for AI behavioral assessment.
+
+**Status:** IEEE-format manuscript in preparation for submission. *Available upon request.*
+
+---
+
 ## 📚 Working & Published Papers
 
-### 4. AI-Ready Data Governance: A Federated Operating Model for Mid-Sized Companies
+### 5. AI-Ready Data Governance: A Federated Operating Model for Mid-Sized Companies
 
 Version 1.1, Copyright ©2025
 
@@ -73,7 +87,7 @@ This federated operating model addresses data governance scalability challenges 
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/feeding-the-dragons>
 
-### 5. Pillar 1: Standards - The Universal Protocol Guide for AI-Ready Data Governance
+### 6. Pillar 1: Standards - The Universal Protocol Guide for AI-Ready Data Governance
 
 Version 1.2, Copyright ©2025
 
@@ -85,7 +99,7 @@ This standards pillar establishes foundational protocols for AI-ready data gover
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/feeding-the-dragons>
 
-### 6. Pillar 2: Data Catalogue - The Inventory Management System for AI-Ready Data Governance
+### 7. Pillar 2: Data Catalogue - The Inventory Management System for AI-Ready Data Governance
 
 Version 1.2, Copyright ©2025
 
@@ -97,7 +111,7 @@ This catalogue pillar addresses data invisibility challenges where organizations
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/feeding-the-dragons>
 
-### 7. Pillar 3: Data Models - The Preparation Processes with CRUD Integration for AI-Ready Data Governance
+### 8. Pillar 3: Data Models - The Preparation Processes with CRUD Integration for AI-Ready Data Governance
 
 Version 1.1, Copyright ©2025
 
@@ -109,7 +123,7 @@ This CRUD-integration framework systematically maps Create, Read, Update, and De
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/feeding-the-dragons>
 
-### 8. Pillar 4: Data Stewards - The Quality Oversight and Issue Resolution System for AI-Ready Data Governance
+### 9. Pillar 4: Data Stewards - The Quality Oversight and Issue Resolution System for AI-Ready Data Governance
 
 Version 1.1, Copyright ©2025
 
@@ -121,7 +135,7 @@ This stewardship pillar provides severity-based issue resolution framework addre
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/feeding-the-dragons>
 
-### 9. Pillar 5: AI Use Cases - The Orchestration and Approval System for AI-Ready Data Governance
+### 10. Pillar 5: AI Use Cases - The Orchestration and Approval System for AI-Ready Data Governance
 
 Version 1.1, Copyright ©2025
 
@@ -133,7 +147,7 @@ This orchestration pillar addresses the critical challenge where 74% of AI initi
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/feeding-the-dragons>
 
-### 10. Training Your Dragon: Mastering the VibeCoder Path
+### 11. Training Your Dragon: Mastering the VibeCoder Path
 
 Version 3.1, Copyright ©2025
 
@@ -145,7 +159,7 @@ This research conceptualizes AI integration as "taming a dragon"—channeling ra
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/training-your-dragon>
 
-### 11. LLM Non-Determinism in JSON Generation: A Comprehensive Analysis
+### 12. LLM Non-Determinism in JSON Generation: A Comprehensive Analysis
 
 Version 1.0, Copyright ©2025
 
@@ -157,7 +171,7 @@ This comprehensive analysis examines the evolution of structured output generati
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/poker-with-the-dragon>
 
-### 12. Structured Output Generation in LLMs: A Research Framework and Open Challenges
+### 13. Structured Output Generation in LLMs: A Research Framework and Open Challenges
 
 Version 1.0, Copyright ©2025
 
@@ -167,7 +181,7 @@ This position paper proposes a comprehensive research agenda for systematically 
 
 **Download:** <https://www.myvibecoder.us/Spehar_Structured_Output_Generation_Research_Framework_20250910V01.pdf>
 
-### 13. Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges
+### 14. Low-Code Orchestration in AI-Assisted Development: A Research Framework and Open Challenges
 
 Version 1.2, Copyright ©2025
 
@@ -179,7 +193,7 @@ Building on empirical observations of 20-30% performance overhead in hybrid work
 
 **Related Blog Post:** <https://www.myvibecoder.us/blog/conducting-the-dragon-orchestra>
 
-### 14. Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis
+### 15. Low-Code Orchestration in AI-Assisted Development: A Comprehensive Analysis
 
 Version 1.0, Copyright ©2025
 
@@ -189,7 +203,7 @@ This paper introduces a framework for AI-assisted software development through l
 
 **Download:** <https://www.myvibecoder.us/Spehar_Low_Code_Orchestration_A_Research_Framework_20250917-V01.pdf>
 
-### 15. Ethical Horizons: Pioneering Comprehensive AI Guidance for a Responsible Future
+### 16. Ethical Horizons: Pioneering Comprehensive AI Guidance for a Responsible Future
 
 Version 0.1 (Draft), Copyright ©2024
 
@@ -199,7 +213,7 @@ This grant proposal — the **direct precursor to AI Assess Tech** — outlines 
 
 **Download:** (Available upon request)
 
-### 16. Generalized Simulation Models: What, Why and How?
+### 17. Generalized Simulation Models: What, Why and How?
 
 Version 1.0, Copyright ©2003
 
@@ -209,7 +223,7 @@ This paper addresses the adoption barriers of software process simulation models
 
 **Download:** <https://www.myvibecoder.us/2003-ProSim-Generalized-Simulation-Models.pdf>
 
-### 17. No Concept Left Behind: AI-Enhanced Mastery-Based Learning for Central Texas High Schools
+### 18. No Concept Left Behind: AI-Enhanced Mastery-Based Learning for Central Texas High Schools
 
 Version 1.0 (Draft), Copyright ©2025
 
@@ -221,7 +235,7 @@ This white paper (Being written by my son, Sergio Spehar, under my supervision) 
 
 **Website:** <https://www.nclb.us/>
 
-### 18. AI-Driven Test Suite Generation: Emergent Capabilities in Automated Software Verification
+### 19. AI-Driven Test Suite Generation: Emergent Capabilities in Automated Software Verification
 
 Version: 1.1 (Draft), Copyright ©2025
 
