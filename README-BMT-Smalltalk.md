@@ -1,24 +1,26 @@
-# 🧠 Greg Spehar's Smalltalk Solution
+# 🧠 Brand Management Tool (BMT) in GemStone/S Smalltalk
 
-Welcome to the Brand Management Tool (BMT), a sophisticated enterprise-level content publishing and brand management system built in GemStone/S Smalltalk. This comprehensive platform demonstrates advanced object-oriented design principles, implementing a multi-network ecosystem where users can manage accounts, publish content, earn tokens, support brands, and participate in certification-based voting systems. With its robust architecture featuring singleton patterns, hierarchical object models, and comprehensive testing frameworks, BMT showcases how traditional Smalltalk development can create scalable, maintainable solutions for complex business domains involving financial transactions, content management, and user engagement systems.
+Welcome to the Brand Management Tool (BMT), an enterprise-level content publishing and brand management system I built in GemStone/S Smalltalk. It is a multi-network platform where users manage accounts, publish content, earn tokens, support brands, and take part in certification-based voting. Its architecture (singleton patterns, a hierarchical object model, and a full testing framework) shows how Smalltalk can deliver scalable, maintainable solutions for complex domains involving financial transactions, content management, and user engagement.
 
-# BMT (Brand Management Tool) - Detailed Project Overview
+**Status:** [Proof of concept, built YEAR. Update: active / archived.]
+
+# BMT (Brand Management Tool): Detailed Project Overview
 
 ## Project Summary
 
-**BMT (Brand Management Tool)** is a sophisticated content publishing and brand management system built in **GemStone/S Smalltalk**. The project implements a multi-network platform where users can manage accounts, publish content, earn tokens, support brands, and participate in voting systems with certification-based access controls.
+**BMT (Brand Management Tool)** is a content publishing and brand management system built in **GemStone/S Smalltalk**. It implements a multi-network platform where users can manage accounts, publish content, earn tokens, support brands, and vote, with certification-based access controls.
 
 ---
 ### 🌾 Key Skill or Success
 
-**Proof of Concept** Independenly navigated and successfully created a transaction system that would radically change the brand marketplace with new means of donations and earned revenue streams. This solution would generate multi-million in savings and new revenue opportunities by changing how personalities and political figures earn and aquire dollars through activities AND general proven brand strength (Solution does not result in constant need to post to earn marketing dollars, shifts to earned value allowing for less frequent more substinative interactions).
+**Proof of Concept:** Independently designed and built a transaction system aimed at changing how the brand marketplace works, with new ways to donate and earn revenue. The design is meant to unlock new revenue streams and reduce marketing costs by changing how personalities and political figures earn money: through activity AND proven brand strength. Creators don't need to post constantly to earn marketing dollars. Value is earned over time, allowing fewer, more substantive interactions.
 
 ---
 
 ## Core Architecture & Design Patterns
 
 ### 1. **Singleton Pattern Implementation**
-The system extensively uses singleton patterns for core system components:
+The system uses singleton patterns for core system components:
 - `Application` class with `DefaultApplication`, `CurrentApplication` instances
 - `Control` with `ControlSingleton`
 - `Bank` with `BankSingleton`
@@ -104,13 +106,13 @@ The system creates and manages a dedicated `BMT` symbol dictionary in GemStone f
 ## Technical Implementation
 
 ### **Transaction Management**
-- Comprehensive transaction system for crypto/token transfers
+- Transaction system for crypto/token transfers
 - Status tracking: `new` → `committed`/`rejected`/`pending`
 - Balance validation and fund availability checking
 - Global transaction registry in `Application`
 
 ### **Testing Framework**
-- Comprehensive test suite with `TestHarness` orchestration
+- Test suite orchestrated by `TestHarness`
 - Individual test classes for each domain class (Test*)
 - Test resource management with setup/teardown
 - Multiple test resource categories (Core, Cert, Pub, Support)
@@ -125,31 +127,29 @@ The system creates and manages a dedicated `BMT` symbol dictionary in GemStone f
 ### **Configuration Management**
 - Environment-specific configuration (Production vs Development)
 - Install and system configuration separation
-- XML parsing capabilities for configuration files
+- XML parsing for configuration files
 - Dynamic configuration reloading
 
 ## Notable Design Decisions
 
-1. **GemStone/S Integration**: Heavy use of GemStone's object database features with persistent object storage and transaction management.
+1. **GemStone/S Integration**: Heavy use of GemStone's object database features, with persistent object storage and transaction management.
 
-2. **Immutability Controls**: BaseObject provides mechanisms to make objects immutable once finalized, ensuring data integrity.
+2. **Immutability Controls**: BaseObject can make objects immutable once finalized, protecting data integrity.
 
-3. **Global Collections**: Application class maintains global collections of all major entities (accounts, networks, brands, transactions).
+3. **Global Collections**: The Application class maintains global collections of all major entities (accounts, networks, brands, transactions).
 
-4. **Error Handling**: Comprehensive error checking with logging and transaction rollback capabilities.
+4. **Error Handling**: Thorough error checking with logging and transaction rollback.
 
 5. **Production Safety**: Multiple safeguards against destructive operations in production environments.
 
 ## Current State & Development Notes
 
-The codebase appears to be in active development with:
-- Extensive TODO comments indicating planned features
+The codebase is in active development, with:
+- TODO comments marking planned features
 - Development vs Production environment controls
-- Comprehensive test coverage
+- Broad test coverage
 - Clear separation of concerns across functional domains
 
-This is a sophisticated, enterprise-level Smalltalk application implementing a complex business domain with robust architecture patterns suitable for a multi-user, multi-network content and brand management platform.
+BMT shows enterprise-level Smalltalk development: a complex, multi-user, multi-network content and brand platform built on solid architecture, thorough testing, and clear separation of concerns.
 
-The project demonstrates enterprise-level Smalltalk development with robust architectural patterns suitable for a complex multi-user platform. The codebase appears well-structured with comprehensive testing and clear separation of concerns across functional domains.
-
-*© 2025 Gidanc AI LLC. Defining the path, creating the hope, delivering the dream.*
+*© 2026 GiDanc AI LLC. Defining the path, creating the hope, delivering the dream.*
